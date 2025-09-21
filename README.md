@@ -16,7 +16,7 @@ This project is inspired by beautiful lighthouse visualizations like [this one](
 
 ## 🗂️ Project Structure
 
-```
+```txt
 lighthouses/
 ├── README.md              # This file
 ├── data/                  # Data storage directory
@@ -41,19 +41,22 @@ The US Coast Guard maintains a comprehensive historical database of lighthouses,
 ## 🚀 Implementation Phases
 
 ### Phase 1: Data Collection 📊
+
 - **Objective**: Scrape lighthouse names from the Coast Guard website
 - **Output**: Raw list of lighthouse names stored in `data/raw/lighthouse_names.txt`
 - **Tools**: Python with BeautifulSoup, requests, or Scrapy
 - **Challenges**: Handle pagination, rate limiting, and data cleaning
 
 ### Phase 2: Geolocation 🗺️
+
 - **Objective**: Obtain precise latitude/longitude coordinates for each lighthouse
-- **Methods**: 
+- **Methods**:
   - Google Maps Geocoding API
   - OpenStreetMap Nominatim API
   - USGS Geographic Names Information System (GNIS)
 - **Output**: Complete dataset in `data/lighthouse_data.json`
 - **Data Format**:
+
   ```json
   {
     "lighthouses": [
@@ -70,13 +73,14 @@ The US Coast Guard maintains a comprehensive historical database of lighthouses,
   ```
 
 ### Phase 3: Visualization 🎨
+
 - **Objective**: Create a stunning map visualization
 - **Style Requirements**:
   - **Background**: Dark color scheme (navy blue, black, or dark gray)
   - **Lighthouse Markers**: Bright white or yellow points
   - **Map Style**: Clean, minimal US outline
   - **Optional**: Glow effects around lighthouse points
-- **Tools**: 
+- **Tools**:
   - Python: Matplotlib, Plotly, or Folium
   - JavaScript: D3.js or Leaflet
   - R: ggplot2 with custom themes
@@ -84,6 +88,7 @@ The US Coast Guard maintains a comprehensive historical database of lighthouses,
 ## 🛠️ Technical Requirements
 
 ### Dependencies
+
 - Python 3.8+
 - Required packages (install via `pip install -r requirements.txt`):
   - `requests` - HTTP library for web scraping
@@ -96,6 +101,7 @@ The US Coast Guard maintains a comprehensive historical database of lighthouses,
   - `geocoder` - Geocoding services
 
 ### Environment Setup
+
 ```bash
 # Clone the repository
 git clone https://github.com/Mavhawk64/lighthouses.git
@@ -115,6 +121,7 @@ mkdir -p data/{raw,processed} maps
 ## 📋 Usage Instructions
 
 ### 1. Data Collection
+
 ```bash
 # Run the lighthouse name scraper
 python src/scraper/coast_guard_scraper.py
@@ -124,6 +131,7 @@ head data/raw/lighthouse_names.txt
 ```
 
 ### 2. Geolocation
+
 ```bash
 # Geocode lighthouse locations
 python src/geocoder/lighthouse_geocoder.py
@@ -133,6 +141,7 @@ python -c "import json; print(len(json.load(open('data/lighthouse_data.json'))['
 ```
 
 ### 3. Visualization
+
 ```bash
 # Generate the lighthouse map
 python src/visualizer/create_lighthouse_map.py
@@ -143,13 +152,15 @@ python src/visualizer/create_lighthouse_map.py
 ## 🎨 Visualization Features
 
 ### Map Styling
-- **Color Palette**: 
+
+- **Color Palette**:
   - Background: `#0f1419` (dark navy)
   - Water: `#1a1a2e` (darker blue)
   - Land: `#16213e` (muted blue-gray)
   - Lighthouses: `#ffd700` (golden yellow) or `#ffffff` (pure white)
 
 ### Interactive Elements
+
 - Hover tooltips showing lighthouse name, location, and year built
 - Zoom and pan capabilities
 - Optional clustering for dense regions
@@ -158,6 +169,7 @@ python src/visualizer/create_lighthouse_map.py
 ## 📊 Expected Output
 
 The final visualization will be a high-quality map showing:
+
 - ~1,000+ lighthouse locations across the US coastlines and Great Lakes
 - Beautiful contrast between dark map and bright lighthouse points
 - Clean, publication-ready aesthetics suitable for r/dataisbeautiful
@@ -175,6 +187,7 @@ The final visualization will be a high-quality map showing:
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit pull requests for:
+
 - Additional data sources
 - Improved geocoding accuracy
 - Enhanced visualization styles
