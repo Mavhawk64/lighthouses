@@ -1,0 +1,6332 @@
+[
+  {
+    "name": "Battery Gladden",
+    "city": "Mobile",
+    "state": "AL",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1829"
+  },
+  {
+    "name": "Choctaw Point",
+    "city": "Mobile",
+    "state": "AL",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1830"
+  },
+  {
+    "name": "Grants Pass",
+    "city": "Dauphin Island",
+    "state": "AL",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1831"
+  },
+  {
+    "name": "Mobile Bay (Middle Bay)",
+    "city": "Mobile",
+    "state": "AL",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=650"
+  },
+  {
+    "name": "Mobile Point",
+    "city": "Gulf Shores",
+    "state": "AL",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=597"
+  },
+  {
+    "name": "Sand Island",
+    "city": "Dauphin Island",
+    "state": "AL",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=649"
+  },
+  {
+    "name": "Cape Decision",
+    "city": "Port Alexander",
+    "state": "AK",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1049"
+  },
+  {
+    "name": "Cape Hinchinbrook",
+    "city": "Cordova",
+    "state": "AK",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=831"
+  },
+  {
+    "name": "Cape Sarichef",
+    "city": "Unalaska",
+    "state": "AK",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1779"
+  },
+  {
+    "name": "Cape Spencer",
+    "city": "Gustavus",
+    "state": "AK",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=829"
+  },
+  {
+    "name": "Cape St. Elias",
+    "city": "Cordova",
+    "state": "AK",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=830"
+  },
+  {
+    "name": "Eldred Rock",
+    "city": "Haines",
+    "state": "AK",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=828"
+  },
+  {
+    "name": "Fairway Island",
+    "city": "Sitka",
+    "state": "AK",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1781"
+  },
+  {
+    "name": "Five Finger Islands",
+    "city": "Petersburg",
+    "state": "AK",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=825"
+  },
+  {
+    "name": "Guard Island",
+    "city": "Ketchikan",
+    "state": "AK",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=823"
+  },
+  {
+    "name": "Lightship Umatilla WLV-196",
+    "city": "Ketchikan",
+    "state": "AK",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=875"
+  },
+  {
+    "name": "Lincoln Rock",
+    "city": "Ketchikan",
+    "state": "AK",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1782"
+  },
+  {
+    "name": "Mary Island",
+    "city": "Ketchikan",
+    "state": "AK",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=822"
+  },
+  {
+    "name": "Minor light of Alaska - Odiak Pharos",
+    "city": "Cordova",
+    "state": "AK",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=906"
+  },
+  {
+    "name": "Point Retreat",
+    "city": "Juneau",
+    "state": "AK",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=827"
+  },
+  {
+    "name": "Point Sherman",
+    "city": "Juneau",
+    "state": "AK",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=876"
+  },
+  {
+    "name": "Scotch Cap",
+    "city": "Unalaska",
+    "state": "AK",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1780"
+  },
+  {
+    "name": "Sentinel Island",
+    "city": "Juneau",
+    "state": "AK",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=826"
+  },
+  {
+    "name": "Tree Point",
+    "city": "Ketchikan",
+    "state": "AK",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=817"
+  },
+  {
+    "name": "Alcatraz Island",
+    "city": "San Francisco",
+    "state": "CA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=74"
+  },
+  {
+    "name": "Anacapa Island",
+    "city": "Oxnard",
+    "state": "CA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=93"
+  },
+  {
+    "name": "Ano Nuevo",
+    "city": "Davenport",
+    "state": "CA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=79"
+  },
+  {
+    "name": "Ballast Point",
+    "city": "San Diego",
+    "state": "CA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1585"
+  },
+  {
+    "name": "Battery Point (Crescent City)",
+    "city": "Crescent City",
+    "state": "CA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=58"
+  },
+  {
+    "name": "Cape Mendocino",
+    "city": "Ferndale",
+    "state": "CA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=25"
+  },
+  {
+    "name": "Carquinez Strait",
+    "city": "Vallejo",
+    "state": "CA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=69"
+  },
+  {
+    "name": "East Brother",
+    "city": "Richmond",
+    "state": "CA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=70"
+  },
+  {
+    "name": "Farallon Island",
+    "city": "San Francisco",
+    "state": "CA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=100"
+  },
+  {
+    "name": "Fort Point",
+    "city": "San Francisco",
+    "state": "CA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=75"
+  },
+  {
+    "name": "Humboldt Harbor",
+    "city": "Eureka",
+    "state": "CA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=871"
+  },
+  {
+    "name": "Lightship Relief  WLV 605",
+    "city": "Oakland",
+    "state": "CA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=646"
+  },
+  {
+    "name": "Lime Point",
+    "city": "San Francisco",
+    "state": "CA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=146"
+  },
+  {
+    "name": "Long Beach Harbor",
+    "city": "Long Beach",
+    "state": "CA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=338"
+  },
+  {
+    "name": "Los Angeles Harbor (Angels Gate)",
+    "city": "San Pedro",
+    "state": "CA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=99"
+  },
+  {
+    "name": "Mare Island",
+    "city": "Vallejo",
+    "state": "CA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1789"
+  },
+  {
+    "name": "Mile Rocks",
+    "city": "San Francisco",
+    "state": "CA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=77"
+  },
+  {
+    "name": "Oakland Harbor",
+    "city": "Oakland",
+    "state": "CA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=72"
+  },
+  {
+    "name": "Piedras Blancas",
+    "city": "Cambria",
+    "state": "CA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=89"
+  },
+  {
+    "name": "Pigeon Point",
+    "city": "Pescadero",
+    "state": "CA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=10"
+  },
+  {
+    "name": "Point Arena",
+    "city": "Point Arena",
+    "state": "CA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=65"
+  },
+  {
+    "name": "Point Arguello",
+    "city": "Lompoc",
+    "state": "CA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=645"
+  },
+  {
+    "name": "Point Blunt",
+    "city": "San Francisco",
+    "state": "CA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=837"
+  },
+  {
+    "name": "Point Bonita",
+    "city": "San Francisco",
+    "state": "CA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=76"
+  },
+  {
+    "name": "Point Cabrillo",
+    "city": "Mendocino",
+    "state": "CA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=64"
+  },
+  {
+    "name": "Point Conception",
+    "city": "Lompoc",
+    "state": "CA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=11"
+  },
+  {
+    "name": "Point Diablo",
+    "city": "San Francisco",
+    "state": "CA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=342"
+  },
+  {
+    "name": "Point Fermin",
+    "city": "San Pedro",
+    "state": "CA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=97"
+  },
+  {
+    "name": "Point Hueneme",
+    "city": "Port Hueneme",
+    "state": "CA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=92"
+  },
+  {
+    "name": "Point Knox (Angel Island)",
+    "city": "San Francisco",
+    "state": "CA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=337"
+  },
+  {
+    "name": "Point Loma (New)",
+    "city": "San Diego",
+    "state": "CA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=28"
+  },
+  {
+    "name": "Point Loma (Old)",
+    "city": "San Diego",
+    "state": "CA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=29"
+  },
+  {
+    "name": "Point Montara",
+    "city": "Montara",
+    "state": "CA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=78"
+  },
+  {
+    "name": "Point Pinos",
+    "city": "Pacific Grove",
+    "state": "CA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=30"
+  },
+  {
+    "name": "Point Reyes",
+    "city": "Point Reyes Station",
+    "state": "CA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=66"
+  },
+  {
+    "name": "Point Sur",
+    "city": "Carmel-by-the-Sea",
+    "state": "CA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=88"
+  },
+  {
+    "name": "Point Vicente",
+    "city": "Palos Verdes",
+    "state": "CA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=95"
+  },
+  {
+    "name": "Punta Gorda",
+    "city": "Fortuna",
+    "state": "CA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=63"
+  },
+  {
+    "name": "Roe Island",
+    "city": "Concord",
+    "state": "CA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1790"
+  },
+  {
+    "name": "Rubicon Point",
+    "city": "South Tahoe",
+    "state": "CA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1772"
+  },
+  {
+    "name": "Saint George Reef",
+    "city": "Crescent City",
+    "state": "CA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=26"
+  },
+  {
+    "name": "San Luis Obispo",
+    "city": "Avila Beach",
+    "state": "CA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=91"
+  },
+  {
+    "name": "Santa Barbara",
+    "city": "Santa Barbara",
+    "state": "CA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=184"
+  },
+  {
+    "name": "Santa Cruz",
+    "city": "Santa Cruz",
+    "state": "CA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=87"
+  },
+  {
+    "name": "Santa Cruz Breakwater (Walton)",
+    "city": "Santa Cruz",
+    "state": "CA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=836"
+  },
+  {
+    "name": "Southampton Shoal",
+    "city": "Stockton",
+    "state": "CA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=101"
+  },
+  {
+    "name": "Table Bluff",
+    "city": "Eureka",
+    "state": "CA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=62"
+  },
+  {
+    "name": "Trinidad Head",
+    "city": "Trinidad",
+    "state": "CA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=61"
+  },
+  {
+    "name": "Trinidad Head Memorial",
+    "city": "Trinidad",
+    "state": "CA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=870"
+  },
+  {
+    "name": "Yerba Buena",
+    "city": "San Francisco",
+    "state": "CA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=71"
+  },
+  {
+    "name": "Avery Point",
+    "city": "Groton",
+    "state": "CT",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=801"
+  },
+  {
+    "name": "Bridgeport Harbor",
+    "city": "Bridgeport",
+    "state": "CT",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1961"
+  },
+  {
+    "name": "Faulkners (Falkners) Island",
+    "city": "Guilford",
+    "state": "CT",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=796"
+  },
+  {
+    "name": "Fayerweather Island (Black Rock Harbor)",
+    "city": "Fairfield",
+    "state": "CT",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=789"
+  },
+  {
+    "name": "Five Mile Point (Old New Haven)",
+    "city": "New Haven",
+    "state": "CT",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=795"
+  },
+  {
+    "name": "Great Captain Island",
+    "city": "Greenwich",
+    "state": "CT",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=782"
+  },
+  {
+    "name": "Greens Ledge",
+    "city": "Norwalk",
+    "state": "CT",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=785"
+  },
+  {
+    "name": "Lynde Point (Saybrook Inner)",
+    "city": "Old Saybrook",
+    "state": "CT",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=798"
+  },
+  {
+    "name": "Morgan Point",
+    "city": "Noank",
+    "state": "CT",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=802"
+  },
+  {
+    "name": "Mystic Seaport (Replica)",
+    "city": "Mystic",
+    "state": "CT",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=803"
+  },
+  {
+    "name": "New Haven Outer Breakwater",
+    "city": "New Haven",
+    "state": "CT",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1962"
+  },
+  {
+    "name": "New London Harbor",
+    "city": "New London",
+    "state": "CT",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=799"
+  },
+  {
+    "name": "New London Ledge",
+    "city": "New London",
+    "state": "CT",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=800"
+  },
+  {
+    "name": "Peck Ledge",
+    "city": "Norwalk",
+    "state": "CT",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=787"
+  },
+  {
+    "name": "Penfield Reef",
+    "city": "Fairfield",
+    "state": "CT",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=788"
+  },
+  {
+    "name": "Saybrook Breakwater (Saybrook Outer)",
+    "city": "Old Saybrook",
+    "state": "CT",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=797"
+  },
+  {
+    "name": "Sheffield Island",
+    "city": "Norwalk",
+    "state": "CT",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=786"
+  },
+  {
+    "name": "Southwest Ledge (New Haven Breakwater)",
+    "city": "New Haven",
+    "state": "CT",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=794"
+  },
+  {
+    "name": "Stamford Harbor",
+    "city": "Stamford",
+    "state": "CT",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=784"
+  },
+  {
+    "name": "Stonington Harbor",
+    "city": "Stonington",
+    "state": "CT",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=804"
+  },
+  {
+    "name": "Stratford Point",
+    "city": "Stratford",
+    "state": "CT",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=793"
+  },
+  {
+    "name": "Stratford Shoal (Middle Ground)",
+    "city": "Stratford",
+    "state": "CT",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=792"
+  },
+  {
+    "name": "Tongue Point (Bridgeport Breakwater)",
+    "city": "Bridgeport",
+    "state": "CT",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=790"
+  },
+  {
+    "name": "Baker Range",
+    "city": "Port Penn",
+    "state": "DE",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=885"
+  },
+  {
+    "name": "Bellevue Range",
+    "city": "Wilmington",
+    "state": "DE",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=467"
+  },
+  {
+    "name": "Bombay Hook",
+    "city": "Smyrna",
+    "state": "DE",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1890"
+  },
+  {
+    "name": "Cape Henlopen",
+    "city": "Lewes",
+    "state": "DE",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1893"
+  },
+  {
+    "name": "Cape Henlopen Beacon",
+    "city": "Lewes",
+    "state": "DE",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1892"
+  },
+  {
+    "name": "Cherry Island Range",
+    "city": "Wilmington",
+    "state": "DE",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=883"
+  },
+  {
+    "name": "Christiana",
+    "city": "Wilmington",
+    "state": "DE",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1887"
+  },
+  {
+    "name": "Delaware Breakwater",
+    "city": "Lewes",
+    "state": "DE",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=454"
+  },
+  {
+    "name": "Delaware Breakwater Rear Range (Green Hill)",
+    "city": "Lewes",
+    "state": "DE",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=884"
+  },
+  {
+    "name": "Fenwick Island",
+    "city": "Fenwick Island",
+    "state": "DE",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=452"
+  },
+  {
+    "name": "Fourteen Foot Bank",
+    "city": "Milford",
+    "state": "DE",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=386"
+  },
+  {
+    "name": "Harbor of Refuge",
+    "city": "Lewes",
+    "state": "DE",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=456"
+  },
+  {
+    "name": "Lightship Overfalls LV 118/WAL 539",
+    "city": "Lewes",
+    "state": "DE",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=453"
+  },
+  {
+    "name": "Liston Front Range",
+    "city": "Middletown",
+    "state": "DE",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=464"
+  },
+  {
+    "name": "Liston Rear Range",
+    "city": "Middletown",
+    "state": "DE",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=463"
+  },
+  {
+    "name": "Mahon River",
+    "city": "Dover",
+    "state": "DE",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1891"
+  },
+  {
+    "name": "Marcus Hook Range",
+    "city": "Wilmington",
+    "state": "DE",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=468"
+  },
+  {
+    "name": "Mispillion",
+    "city": "Lewes",
+    "state": "DE",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=455"
+  },
+  {
+    "name": "New Castle Range",
+    "city": "New Castle",
+    "state": "DE",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=881"
+  },
+  {
+    "name": "Old Reedy Island",
+    "city": "Port Penn",
+    "state": "DE",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1888"
+  },
+  {
+    "name": "Port Penn Range",
+    "city": "Port Penn",
+    "state": "DE",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1889"
+  },
+  {
+    "name": "Reedy Island Range",
+    "city": "Townsend",
+    "state": "DE",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=457"
+  },
+  {
+    "name": "Alligator Reef",
+    "city": "Islamorada",
+    "state": "FL",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=702"
+  },
+  {
+    "name": "Amelia Island",
+    "city": "Fernandina Beach",
+    "state": "FL",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=346"
+  },
+  {
+    "name": "Amelia Island North Range",
+    "city": "Fernandina Beach",
+    "state": "FL",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1838"
+  },
+  {
+    "name": "American Shoal",
+    "city": "Key West",
+    "state": "FL",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=700"
+  },
+  {
+    "name": "Anclote Key",
+    "city": "Tarpon Springs",
+    "state": "FL",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=596"
+  },
+  {
+    "name": "Cape Canaveral",
+    "city": "Cape Canaveral",
+    "state": "FL",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=364"
+  },
+  {
+    "name": "Cape Florida",
+    "city": "Key Biscayne",
+    "state": "FL",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=360"
+  },
+  {
+    "name": "Cape San Blas",
+    "city": "Port St. Joe",
+    "state": "FL",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=591"
+  },
+  {
+    "name": "Cape St. George",
+    "city": "St. George Island",
+    "state": "FL",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=592"
+  },
+  {
+    "name": "Carysfort Reef",
+    "city": "Key Largo",
+    "state": "FL",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=703"
+  },
+  {
+    "name": "Cedar Keys (Seahorse Key)",
+    "city": "Cedar Key",
+    "state": "FL",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=595"
+  },
+  {
+    "name": "Charlotte Harbor",
+    "city": "Charlotte Harbor",
+    "state": "FL",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1834"
+  },
+  {
+    "name": "Crooked River",
+    "city": "Carrabelle",
+    "state": "FL",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=593"
+  },
+  {
+    "name": "Dames Point",
+    "city": "Jacksonville",
+    "state": "FL",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1839"
+  },
+  {
+    "name": "Dog Island",
+    "city": "Carrabelle",
+    "state": "FL",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1835"
+  },
+  {
+    "name": "Dry Tortugas (Loggerhead Key)",
+    "city": "Key West",
+    "state": "FL",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=697"
+  },
+  {
+    "name": "Egmont Key",
+    "city": "St Petersburg",
+    "state": "FL",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=370"
+  },
+  {
+    "name": "Fort Barrancas",
+    "city": "Pensacola",
+    "state": "FL",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1832"
+  },
+  {
+    "name": "Fort McRee",
+    "city": "Pensacola",
+    "state": "FL",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1833"
+  },
+  {
+    "name": "Fowey Rocks",
+    "city": "Miami",
+    "state": "FL",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=704"
+  },
+  {
+    "name": "Garden Key (Fort Jefferson)",
+    "city": "Key West",
+    "state": "FL",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=698"
+  },
+  {
+    "name": "Gasparilla Island (Boca Grande Entrance Rear Range)",
+    "city": "Boca Grande",
+    "state": "FL",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=368"
+  },
+  {
+    "name": "Hillsboro Inlet",
+    "city": "Pompano Beach",
+    "state": "FL",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=361"
+  },
+  {
+    "name": "Jupiter Inlet",
+    "city": "Jupiter",
+    "state": "FL",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=363"
+  },
+  {
+    "name": "Key Largo",
+    "city": "Key Largo",
+    "state": "FL",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=988"
+  },
+  {
+    "name": "Key West",
+    "city": "Key West",
+    "state": "FL",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=366"
+  },
+  {
+    "name": "Northwest Passage",
+    "city": "Key West",
+    "state": "FL",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1836"
+  },
+  {
+    "name": "Pensacola",
+    "city": "Pensacola",
+    "state": "FL",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=589"
+  },
+  {
+    "name": "Ponce de Leon Inlet",
+    "city": "Ponce Inlet",
+    "state": "FL",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=365"
+  },
+  {
+    "name": "Port Boca Grande (Gasparilla Island)",
+    "city": "Boca Grande",
+    "state": "FL",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=369"
+  },
+  {
+    "name": "Rebecca Shoal",
+    "city": "Key West",
+    "state": "FL",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1837"
+  },
+  {
+    "name": "Sand Key",
+    "city": "Key West",
+    "state": "FL",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=699"
+  },
+  {
+    "name": "Sanibel Island",
+    "city": "Sanibel",
+    "state": "FL",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=367"
+  },
+  {
+    "name": "Sombrero Key",
+    "city": "Marathon",
+    "state": "FL",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=701"
+  },
+  {
+    "name": "St. Augustine",
+    "city": "St. Augustine",
+    "state": "FL",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=347"
+  },
+  {
+    "name": "St. Johns",
+    "city": "Atlantic Beach",
+    "state": "FL",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=344"
+  },
+  {
+    "name": "St. Johns River",
+    "city": "Mayport",
+    "state": "FL",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=859"
+  },
+  {
+    "name": "St. Joseph Point",
+    "city": "Port St. Joe",
+    "state": "FL",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=590"
+  },
+  {
+    "name": "St. Marks",
+    "city": "St. Marks",
+    "state": "FL",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=594"
+  },
+  {
+    "name": "Volusia Bar",
+    "city": "Astor",
+    "state": "FL",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1840"
+  },
+  {
+    "name": "Cockspur Island",
+    "city": "Tybee Island",
+    "state": "GA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=324"
+  },
+  {
+    "name": "Elba Island Range",
+    "city": "Savannah",
+    "state": "GA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1853"
+  },
+  {
+    "name": "Fig Island Range",
+    "city": "Savannah",
+    "state": "GA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1854"
+  },
+  {
+    "name": "Fort Jackson Range",
+    "city": "Savannah",
+    "state": "GA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1855"
+  },
+  {
+    "name": "Little Cumberland Island",
+    "city": "Jekyll Island",
+    "state": "GA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=329"
+  },
+  {
+    "name": "Saint Simons",
+    "city": "St. Simons",
+    "state": "GA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=328"
+  },
+  {
+    "name": "Sapelo Island",
+    "city": "Darien",
+    "state": "GA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=326"
+  },
+  {
+    "name": "Sapelo Island Range Front",
+    "city": "Darien",
+    "state": "GA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=327"
+  },
+  {
+    "name": "Savannah",
+    "city": "Savannah",
+    "state": "GA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1852"
+  },
+  {
+    "name": "Savannah Harbor Light (The Bay)",
+    "city": "Savannah",
+    "state": "GA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=869"
+  },
+  {
+    "name": "Tybee Island",
+    "city": "Tybee Island",
+    "state": "GA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=322"
+  },
+  {
+    "name": "Tybee Knoll Cut Range",
+    "city": "Tybee Island",
+    "state": "GA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1856"
+  },
+  {
+    "name": "Wolf Island",
+    "city": "Darien",
+    "state": "GA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1851"
+  },
+  {
+    "name": "Barbers Point",
+    "city": "Kapolei",
+    "state": "HI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=142"
+  },
+  {
+    "name": "Cape Kumukahi",
+    "city": "Pahoa",
+    "state": "HI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=144"
+  },
+  {
+    "name": "Diamond Head",
+    "city": "Honolulu",
+    "state": "HI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=140"
+  },
+  {
+    "name": "Kauhola Point",
+    "city": "Hawi",
+    "state": "HI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=145"
+  },
+  {
+    "name": "Kilauea Point",
+    "city": "Kilauea",
+    "state": "HI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=139"
+  },
+  {
+    "name": "La'au (Kalaeokalaau)",
+    "city": "Ho'olehua",
+    "state": "HI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=2411"
+  },
+  {
+    "name": "Lahaina",
+    "city": "Lahaina",
+    "state": "HI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=143"
+  },
+  {
+    "name": "Makapu`u",
+    "city": "Honolulu",
+    "state": "HI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=141"
+  },
+  {
+    "name": "Minor light of Hawai'i  - Coconut Point",
+    "city": "Hilo",
+    "state": "HI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=897"
+  },
+  {
+    "name": "Minor light of Hawai'i  - Ka Lae",
+    "city": "Naalehu",
+    "state": "HI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=914"
+  },
+  {
+    "name": "Minor light of Hawai'i  - Kailua",
+    "city": "Kailua",
+    "state": "HI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=905"
+  },
+  {
+    "name": "Minor light of Hawai'i  - Kawaihae",
+    "city": "Kohala",
+    "state": "HI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=903"
+  },
+  {
+    "name": "Minor light of Hawai'i  - Keahole Point",
+    "city": "Kailua",
+    "state": "HI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=904"
+  },
+  {
+    "name": "Minor light of Hawai'i  - Kukuihaele",
+    "city": "Kukuihaele",
+    "state": "HI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=901"
+  },
+  {
+    "name": "Minor light of Hawai'i  - Laupahoehoe Point",
+    "city": "Hilo",
+    "state": "HI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=900"
+  },
+  {
+    "name": "Minor light of Hawai'i  - Mahukona",
+    "city": "Kohala Coast",
+    "state": "HI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=902"
+  },
+  {
+    "name": "Minor light of Hawai'i  - Napo'opo'o",
+    "city": "Captain Hook",
+    "state": "HI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=913"
+  },
+  {
+    "name": "Minor light of Hawai'i  - Pauka'a Point",
+    "city": "Pauka'a",
+    "state": "HI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=899"
+  },
+  {
+    "name": "Minor light of Hawai'i  - Pepe'ekeo Point",
+    "city": "Pepe'ekeo",
+    "state": "HI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=898"
+  },
+  {
+    "name": "Minor light of Kaho'olawe - Kaho'olawe Southwest Point",
+    "city": "Wailea",
+    "state": "HI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=928"
+  },
+  {
+    "name": "Minor light of Kaua'i - Hanapepe",
+    "city": "Hanapepe",
+    "state": "HI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=895"
+  },
+  {
+    "name": "Minor light of Kaua'i - Kahala Point",
+    "city": "Anahola",
+    "state": "HI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=893"
+  },
+  {
+    "name": "Minor light of Kaua'i - Kokole",
+    "city": "Kekaha",
+    "state": "HI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1218"
+  },
+  {
+    "name": "Minor light of Kaua'i - Kuki'i Point",
+    "city": "Lihue",
+    "state": "HI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=894"
+  },
+  {
+    "name": "Minor light of Kaua'i - Makahu'ena Point",
+    "city": "Poipu",
+    "state": "HI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=896"
+  },
+  {
+    "name": "Minor light of Kaua'i - Nohili Point",
+    "city": "Kekaha",
+    "state": "HI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1219"
+  },
+  {
+    "name": "Minor light of Lana'i - Kaumalapau",
+    "city": "Lanai City",
+    "state": "HI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=927"
+  },
+  {
+    "name": "Minor light of Lana'i - Manele Bay",
+    "city": "Lanai City",
+    "state": "HI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=926"
+  },
+  {
+    "name": "Minor light of Lana'i - Palaoa Point",
+    "city": "Lanai City",
+    "state": "HI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=915"
+  },
+  {
+    "name": "Minor light of Lana'i - Pohakuloa Point",
+    "city": "Lanai City",
+    "state": "HI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=916"
+  },
+  {
+    "name": "Minor light of Maui - Hanamanioa",
+    "city": "Wailea",
+    "state": "HI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=920"
+  },
+  {
+    "name": "Minor light of Maui - Hawea Point",
+    "city": "Kapalua",
+    "state": "HI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=924"
+  },
+  {
+    "name": "Minor light of Maui - Kahului Harbor Range",
+    "city": "Kahului",
+    "state": "HI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=925"
+  },
+  {
+    "name": "Minor light of Maui - Ka'uiki Head",
+    "city": "Hana",
+    "state": "HI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=922"
+  },
+  {
+    "name": "Minor light of Maui - McGregor Point",
+    "city": "Maalaea",
+    "state": "HI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=917"
+  },
+  {
+    "name": "Minor light of Maui - Molokini",
+    "city": "Wailea",
+    "state": "HI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=923"
+  },
+  {
+    "name": "Minor light of Maui - Nakalele",
+    "city": "Wailuku",
+    "state": "HI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=919"
+  },
+  {
+    "name": "Minor light of Maui - Pa'uwela Point",
+    "city": "Haiku-Pauwela",
+    "state": "HI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=921"
+  },
+  {
+    "name": "Minor light of Oahu - Aloha Tower",
+    "city": "Honolulu",
+    "state": "HI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=890"
+  },
+  {
+    "name": "Minor light of Oahu - Ka'ena Point",
+    "city": "Honolulu",
+    "state": "HI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=892"
+  },
+  {
+    "name": "Minor light of Oahu - Pyramid Rock",
+    "city": "Waialua",
+    "state": "HI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=891"
+  },
+  {
+    "name": "Moloka`i (Kalaupapa)",
+    "city": "Kalaupapa",
+    "state": "HI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=137"
+  },
+  {
+    "name": "Nawiliwili",
+    "city": "Lihue",
+    "state": "HI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=138"
+  },
+  {
+    "name": "68th Street  Crib (Dunne Crib)",
+    "city": "Chicago",
+    "state": "IL",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=864"
+  },
+  {
+    "name": "Chicago Harbor",
+    "city": "Chicago",
+    "state": "IL",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=234"
+  },
+  {
+    "name": "Chicago Harbor Southeast Guidewall",
+    "city": "Chicago",
+    "state": "IL",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=235"
+  },
+  {
+    "name": "Four Mile Crib",
+    "city": "Chicago",
+    "state": "IL",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=865"
+  },
+  {
+    "name": "Grosse Point",
+    "city": "Evanston",
+    "state": "IL",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=237"
+  },
+  {
+    "name": "Port Clinton",
+    "city": "Fort Sheridan",
+    "state": "IL",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1993"
+  },
+  {
+    "name": "Taylorsport",
+    "city": "Glencoe",
+    "state": "IL",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1994"
+  },
+  {
+    "name": "Waukegan Harbor",
+    "city": "Waukegan",
+    "state": "IL",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=238"
+  },
+  {
+    "name": "William E. Dever Crib",
+    "city": "Chicago",
+    "state": "IL",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=866"
+  },
+  {
+    "name": "Wilson Avenue Crib",
+    "city": "Chicago",
+    "state": "IL",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=867"
+  },
+  {
+    "name": "Buffington Harbor Breakwater",
+    "city": "Gary",
+    "state": "IN",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=662"
+  },
+  {
+    "name": "Calumet Harbor",
+    "city": "Hammond",
+    "state": "IN",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=845"
+  },
+  {
+    "name": "Gary Harbor Breakwater",
+    "city": "Gary",
+    "state": "IN",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=661"
+  },
+  {
+    "name": "Indiana Harbor East Breakwater",
+    "city": "Hammond",
+    "state": "IN",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=663"
+  },
+  {
+    "name": "Michigan City East Pierhead",
+    "city": "Michigan City",
+    "state": "IN",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=233"
+  },
+  {
+    "name": "Old Michigan City",
+    "city": "Michigan City",
+    "state": "IN",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=231"
+  },
+  {
+    "name": "Amite River",
+    "city": "Maurepas",
+    "state": "LA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1802"
+  },
+  {
+    "name": "Barataria Bay",
+    "city": "Grand Isle",
+    "state": "LA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1803"
+  },
+  {
+    "name": "Bayou Bonfouca",
+    "city": "Slidell",
+    "state": "LA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1804"
+  },
+  {
+    "name": "Bayou St. John",
+    "city": "New Orleans",
+    "state": "LA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1805"
+  },
+  {
+    "name": "Calcasieu",
+    "city": "Cameron",
+    "state": "LA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1806"
+  },
+  {
+    "name": "Chandeleur Island",
+    "city": "New Orleans",
+    "state": "LA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=810"
+  },
+  {
+    "name": "Cubits Gap",
+    "city": "Venice",
+    "state": "LA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1807"
+  },
+  {
+    "name": "East Rigolets",
+    "city": "Slidell",
+    "state": "LA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1808"
+  },
+  {
+    "name": "Franks Island",
+    "city": "Venice",
+    "state": "LA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1810"
+  },
+  {
+    "name": "Head of Passes",
+    "city": "Venice",
+    "state": "LA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1809"
+  },
+  {
+    "name": "New Canal",
+    "city": "New Orleans",
+    "state": "LA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=340"
+  },
+  {
+    "name": "Oyster Bayou",
+    "city": "Morgan City",
+    "state": "LA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1811"
+  },
+  {
+    "name": "Pass a l'Outre",
+    "city": "Venice",
+    "state": "LA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=814"
+  },
+  {
+    "name": "Pass Manchac",
+    "city": "Hammond",
+    "state": "LA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=809"
+  },
+  {
+    "name": "Point au Fer",
+    "city": "Morgan City",
+    "state": "LA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1812"
+  },
+  {
+    "name": "Point aux Herbes",
+    "city": "New Orleans",
+    "state": "LA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1813"
+  },
+  {
+    "name": "Point Defer",
+    "city": "Morgan City",
+    "state": "LA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1814"
+  },
+  {
+    "name": "Port Pontchartrain",
+    "city": "New Orleans",
+    "state": "LA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=807"
+  },
+  {
+    "name": "Proctorsville",
+    "city": "Yscloski",
+    "state": "LA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1815"
+  },
+  {
+    "name": "Sabine Pass",
+    "city": "Johnson Bayou",
+    "state": "LA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=151"
+  },
+  {
+    "name": "Sabine Pass East Jetty",
+    "city": "Port Arthur",
+    "state": "LA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1820"
+  },
+  {
+    "name": "Shell Keys",
+    "city": "Alice B",
+    "state": "LA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1816"
+  },
+  {
+    "name": "Ship Shoal",
+    "city": "Houma",
+    "state": "LA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=816"
+  },
+  {
+    "name": "South Pass",
+    "city": "Venice",
+    "state": "LA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=812"
+  },
+  {
+    "name": "Southwest Pass (1839)",
+    "city": "Venice",
+    "state": "LA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=832"
+  },
+  {
+    "name": "Southwest Pass (1871)",
+    "city": "New Orleans",
+    "state": "LA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=841"
+  },
+  {
+    "name": "Southwest Pass Entrance",
+    "city": "New Orleans",
+    "state": "LA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=815"
+  },
+  {
+    "name": "Southwest Reef",
+    "city": "Berwick",
+    "state": "LA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=341"
+  },
+  {
+    "name": "Tchefuncte River",
+    "city": "Madisonville",
+    "state": "LA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=808"
+  },
+  {
+    "name": "Timbalier Bay",
+    "city": "Port Fourchon",
+    "state": "LA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1817"
+  },
+  {
+    "name": "Vermillion Bay",
+    "city": "Esther",
+    "state": "LA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1818"
+  },
+  {
+    "name": "West Rigolets",
+    "city": "Slidell",
+    "state": "LA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=806"
+  },
+  {
+    "name": "Avery Rock",
+    "city": "Machiasport",
+    "state": "ME",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1863"
+  },
+  {
+    "name": "Baker Island",
+    "city": "Southwest Harbor",
+    "state": "ME",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=768"
+  },
+  {
+    "name": "Bass Harbor Head",
+    "city": "Bass Harbor",
+    "state": "ME",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=512"
+  },
+  {
+    "name": "Bear Island",
+    "city": "Southwest Harbor",
+    "state": "ME",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=511"
+  },
+  {
+    "name": "Blue Hill Bay",
+    "city": "Brooklin",
+    "state": "ME",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=772"
+  },
+  {
+    "name": "Boon Island",
+    "city": "York",
+    "state": "ME",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=781"
+  },
+  {
+    "name": "Browns Head",
+    "city": "Vinalhaven",
+    "state": "ME",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=540"
+  },
+  {
+    "name": "Burnt Coat Harbor (Hockamock Head)",
+    "city": "Swans Island",
+    "state": "ME",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=771"
+  },
+  {
+    "name": "Burnt Island",
+    "city": "Boothbay Harbor",
+    "state": "ME",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=503"
+  },
+  {
+    "name": "Cape Elizabeth",
+    "city": "Cape Elizabeth",
+    "state": "ME",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=547"
+  },
+  {
+    "name": "Cape Elizabeth West",
+    "city": "Cape Elizabeth",
+    "state": "ME",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1338"
+  },
+  {
+    "name": "Cape Neddick (Nubble)",
+    "city": "York",
+    "state": "ME",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=548"
+  },
+  {
+    "name": "Crabtree Ledge",
+    "city": "Hancock Point",
+    "state": "ME",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1864"
+  },
+  {
+    "name": "Cuckolds",
+    "city": "Boothbay Harbor",
+    "state": "ME",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=501"
+  },
+  {
+    "name": "Curtis Island",
+    "city": "Camden",
+    "state": "ME",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=532"
+  },
+  {
+    "name": "Deer Island Thorofare (Mark Island)",
+    "city": "Stonington",
+    "state": "ME",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=538"
+  },
+  {
+    "name": "Dice Head",
+    "city": "Castine",
+    "state": "ME",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=524"
+  },
+  {
+    "name": "Doubling Point",
+    "city": "Bath",
+    "state": "ME",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=499"
+  },
+  {
+    "name": "Doubling Point Range",
+    "city": "Bath",
+    "state": "ME",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=498"
+  },
+  {
+    "name": "Eagle Island",
+    "city": "Stonington",
+    "state": "ME",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=773"
+  },
+  {
+    "name": "Egg Rock",
+    "city": "Bar Harbor",
+    "state": "ME",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=510"
+  },
+  {
+    "name": "Fort Point",
+    "city": "Stockton Springs",
+    "state": "ME",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=525"
+  },
+  {
+    "name": "Fort Popham",
+    "city": "Popham Beach",
+    "state": "ME",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1865"
+  },
+  {
+    "name": "Franklin Island",
+    "city": "Friendship",
+    "state": "ME",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=776"
+  },
+  {
+    "name": "Goat Island",
+    "city": "Kennebunkport",
+    "state": "ME",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=551"
+  },
+  {
+    "name": "Goose Rocks",
+    "city": "North Haven",
+    "state": "ME",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=539"
+  },
+  {
+    "name": "Great Duck Island",
+    "city": "Swans Island",
+    "state": "ME",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=769"
+  },
+  {
+    "name": "Grindle Point",
+    "city": "Islesboro",
+    "state": "ME",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=774"
+  },
+  {
+    "name": "Halfway Rock",
+    "city": "Portland",
+    "state": "ME",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=779"
+  },
+  {
+    "name": "Hendricks Head",
+    "city": "Hendricks Harbor",
+    "state": "ME",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=500"
+  },
+  {
+    "name": "Heron Neck",
+    "city": "Vinalhaven",
+    "state": "ME",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=534"
+  },
+  {
+    "name": "Indian Island",
+    "city": "Rockport",
+    "state": "ME",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=533"
+  },
+  {
+    "name": "Isle au Haut",
+    "city": "Isle au Haut",
+    "state": "ME",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=537"
+  },
+  {
+    "name": "Ladies Delight",
+    "city": "Winthrop",
+    "state": "ME",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=861"
+  },
+  {
+    "name": "Libby Island",
+    "city": "Machiasport",
+    "state": "ME",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=763"
+  },
+  {
+    "name": "Little River",
+    "city": "Cutler",
+    "state": "ME",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=762"
+  },
+  {
+    "name": "Lubec Channel",
+    "city": "Lubec",
+    "state": "ME",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=507"
+  },
+  {
+    "name": "Machias Seal Island",
+    "city": "Cutler",
+    "state": "ME",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=862"
+  },
+  {
+    "name": "Marshall Point",
+    "city": "Port Clyde",
+    "state": "ME",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=529"
+  },
+  {
+    "name": "Matinicus Rock",
+    "city": "Matinicus Isle",
+    "state": "ME",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=535"
+  },
+  {
+    "name": "Monhegan Island",
+    "city": "Monhegan",
+    "state": "ME",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=777"
+  },
+  {
+    "name": "Moose Peak (Mistake Island)",
+    "city": "Machiasport",
+    "state": "ME",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=764"
+  },
+  {
+    "name": "Mount Desert Rock",
+    "city": "Southwest Harbor",
+    "state": "ME",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=770"
+  },
+  {
+    "name": "Narraguagus (Pond Island)",
+    "city": "Milbridge",
+    "state": "ME",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=767"
+  },
+  {
+    "name": "Nash Island",
+    "city": "South Addison",
+    "state": "ME",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=765"
+  },
+  {
+    "name": "Owls Head",
+    "city": "Owls Head",
+    "state": "ME",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=527"
+  },
+  {
+    "name": "Pemaquid Point",
+    "city": "Bristol",
+    "state": "ME",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=504"
+  },
+  {
+    "name": "Perkins Island",
+    "city": "Georgetown",
+    "state": "ME",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=497"
+  },
+  {
+    "name": "Petit Manan",
+    "city": "Corea",
+    "state": "ME",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=766"
+  },
+  {
+    "name": "Pond Island",
+    "city": "Popham Beach",
+    "state": "ME",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=493"
+  },
+  {
+    "name": "Portland Breakwater",
+    "city": "South Portland",
+    "state": "ME",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=544"
+  },
+  {
+    "name": "Portland Head",
+    "city": "Cape Elizabeth",
+    "state": "ME",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=546"
+  },
+  {
+    "name": "Prospect Harbor",
+    "city": "Prospect Harbor",
+    "state": "ME",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=508"
+  },
+  {
+    "name": "Pumpkin Island",
+    "city": "Deer Isle",
+    "state": "ME",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=513"
+  },
+  {
+    "name": "Ram Island",
+    "city": "Boothbay",
+    "state": "ME",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=502"
+  },
+  {
+    "name": "Ram Island Ledge",
+    "city": "Cape Elizabeth",
+    "state": "ME",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=780"
+  },
+  {
+    "name": "Rockland Breakwater",
+    "city": "Rockland",
+    "state": "ME",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=528"
+  },
+  {
+    "name": "Rockland Harbor Southwest",
+    "city": "Rockland",
+    "state": "ME",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=526"
+  },
+  {
+    "name": "Saddleback Ledge",
+    "city": "Vinalhaven",
+    "state": "ME",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=536"
+  },
+  {
+    "name": "Seguin Island",
+    "city": "Georgetown",
+    "state": "ME",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=495"
+  },
+  {
+    "name": "Spring Point Ledge",
+    "city": "South Portland",
+    "state": "ME",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=545"
+  },
+  {
+    "name": "Squirrel Point",
+    "city": "Arrowsic",
+    "state": "ME",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=496"
+  },
+  {
+    "name": "St. Croix River",
+    "city": "Robbinston",
+    "state": "ME",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1866"
+  },
+  {
+    "name": "Tenants Harbor",
+    "city": "Tenants Harbor",
+    "state": "ME",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=530"
+  },
+  {
+    "name": "Two Bush",
+    "city": "Muscle Ridge Islands",
+    "state": "ME",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=775"
+  },
+  {
+    "name": "West Quoddy Head",
+    "city": "Lubec",
+    "state": "ME",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=506"
+  },
+  {
+    "name": "Whaleback Ledge",
+    "city": "Kittery",
+    "state": "ME",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=552"
+  },
+  {
+    "name": "Whitehead",
+    "city": "St. George",
+    "state": "ME",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=778"
+  },
+  {
+    "name": "Whitlocks Mill",
+    "city": "Calais",
+    "state": "ME",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=505"
+  },
+  {
+    "name": "Winter Harbor",
+    "city": "Winter Harbor",
+    "state": "ME",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=509"
+  },
+  {
+    "name": "Wood Island",
+    "city": "Biddeford Pool",
+    "state": "ME",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=549"
+  },
+  {
+    "name": "Baltimore",
+    "city": "Annapolis",
+    "state": "MD",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=423"
+  },
+  {
+    "name": "Bethel Bridge",
+    "city": "Chesapeake City",
+    "state": "MD",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=886"
+  },
+  {
+    "name": "Blackistone Island (Replica)",
+    "city": "Coltons Point",
+    "state": "MD",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1120"
+  },
+  {
+    "name": "Bloody Point Bar",
+    "city": "Stevensville",
+    "state": "MD",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=427"
+  },
+  {
+    "name": "Bodkin Point",
+    "city": "Bayside Beach",
+    "state": "MD",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1941"
+  },
+  {
+    "name": "Cedar Point",
+    "city": "Lexington Park",
+    "state": "MD",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1771"
+  },
+  {
+    "name": "Choptank River (Replica)",
+    "city": "Cambridge",
+    "state": "MD",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1702"
+  },
+  {
+    "name": "Clay Island",
+    "city": "Corcheron",
+    "state": "MD",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1942"
+  },
+  {
+    "name": "Cobb Point Bar",
+    "city": "Cobb Island",
+    "state": "MD",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1943"
+  },
+  {
+    "name": "Concord Point",
+    "city": "Havre de Grace",
+    "state": "MD",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=411"
+  },
+  {
+    "name": "Cove Point",
+    "city": "Lusby",
+    "state": "MD",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=431"
+  },
+  {
+    "name": "Craighill Channel Lower Front",
+    "city": "Edgemere",
+    "state": "MD",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=416"
+  },
+  {
+    "name": "Craighill Channel Lower Rear",
+    "city": "Edgemere",
+    "state": "MD",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=415"
+  },
+  {
+    "name": "Craighill Channel Upper Front",
+    "city": "Fort Howard",
+    "state": "MD",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=417"
+  },
+  {
+    "name": "Craighill Channel Upper Rear",
+    "city": "Sparrows Point",
+    "state": "MD",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=418"
+  },
+  {
+    "name": "Drum Point",
+    "city": "Solomons",
+    "state": "MD",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=432"
+  },
+  {
+    "name": "Fishing Battery",
+    "city": "Havre de Grace",
+    "state": "MD",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=412"
+  },
+  {
+    "name": "Fog Point",
+    "city": "Wenona",
+    "state": "MD",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1944"
+  },
+  {
+    "name": "Fort Carroll",
+    "city": "Sparrows Point",
+    "state": "MD",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=422"
+  },
+  {
+    "name": "Fort Washington",
+    "city": "Fort Washington",
+    "state": "MD",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=438"
+  },
+  {
+    "name": "Great Shoals",
+    "city": "Dames Quarter",
+    "state": "MD",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1945"
+  },
+  {
+    "name": "Greenbury Point",
+    "city": "Annapolis",
+    "state": "MD",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1946"
+  },
+  {
+    "name": "Greenbury Point Shoal",
+    "city": "Annapolis",
+    "state": "MD",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1947"
+  },
+  {
+    "name": "Hawkins Point",
+    "city": "Baltimore",
+    "state": "MD",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1948"
+  },
+  {
+    "name": "Holland Island Bar",
+    "city": "Wenona",
+    "state": "MD",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1950"
+  },
+  {
+    "name": "Hooper Island",
+    "city": "Hoopersville",
+    "state": "MD",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=433"
+  },
+  {
+    "name": "Hooper Strait",
+    "city": "Saint Michaels",
+    "state": "MD",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=426"
+  },
+  {
+    "name": "Janes Island",
+    "city": "Crisfield",
+    "state": "MD",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1951"
+  },
+  {
+    "name": "Lazaretto Point (Replica)",
+    "city": "Baltimore",
+    "state": "MD",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=421"
+  },
+  {
+    "name": "Leading Point",
+    "city": "Baltimore",
+    "state": "MD",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1949"
+  },
+  {
+    "name": "Lightship Chesapeake LV 116/WAL 538",
+    "city": "Baltimore",
+    "state": "MD",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=420"
+  },
+  {
+    "name": "Love Point",
+    "city": "Stevensville",
+    "state": "MD",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1952"
+  },
+  {
+    "name": "Lower Cedar Point",
+    "city": "Dahlgren",
+    "state": "MD",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1953"
+  },
+  {
+    "name": "Maryland Point",
+    "city": "Riverside",
+    "state": "MD",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1954"
+  },
+  {
+    "name": "Mathias Point",
+    "city": "Dahlgren",
+    "state": "MD",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1955"
+  },
+  {
+    "name": "North Point",
+    "city": "Fort Howard",
+    "state": "MD",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1956"
+  },
+  {
+    "name": "Piney Point",
+    "city": "Piney Point",
+    "state": "MD",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=437"
+  },
+  {
+    "name": "Point Lookout",
+    "city": "Scotland",
+    "state": "MD",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=436"
+  },
+  {
+    "name": "Point No Point",
+    "city": "Dameron",
+    "state": "MD",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=434"
+  },
+  {
+    "name": "Pooles Island",
+    "city": "Abingdon",
+    "state": "MD",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=414"
+  },
+  {
+    "name": "Ragged Point",
+    "city": "Tall Timbers",
+    "state": "MD",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1957"
+  },
+  {
+    "name": "Sandy Point Shoal",
+    "city": "Annapolis",
+    "state": "MD",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=424"
+  },
+  {
+    "name": "Seven Foot Knoll",
+    "city": "Baltimore",
+    "state": "MD",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=419"
+  },
+  {
+    "name": "Sharkfin Shoal",
+    "city": "Chance",
+    "state": "MD",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1958"
+  },
+  {
+    "name": "Sharps Island",
+    "city": "Tilghman",
+    "state": "MD",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=430"
+  },
+  {
+    "name": "Solomons Lump",
+    "city": "Smith Island",
+    "state": "MD",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=435"
+  },
+  {
+    "name": "Somers Cove",
+    "city": "Crisfield",
+    "state": "MD",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1959"
+  },
+  {
+    "name": "Thomas Point Shoal",
+    "city": "Arundel on the Bay",
+    "state": "MD",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=425"
+  },
+  {
+    "name": "Turkey Point",
+    "city": "North East",
+    "state": "MD",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=413"
+  },
+  {
+    "name": "Upper Cedar Point",
+    "city": "Riverside",
+    "state": "MD",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1960"
+  },
+  {
+    "name": "Annisquam",
+    "city": "Annisquam",
+    "state": "MA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=604"
+  },
+  {
+    "name": "Bakers Island",
+    "city": "Salem",
+    "state": "MA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=479"
+  },
+  {
+    "name": "Bass River (West Dennis)",
+    "city": "West Dennis",
+    "state": "MA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=486"
+  },
+  {
+    "name": "Billingsgate",
+    "city": "Wellfleet",
+    "state": "MA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1972"
+  },
+  {
+    "name": "Bird Island",
+    "city": "Marion",
+    "state": "MA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=614"
+  },
+  {
+    "name": "Bishop and Clerks",
+    "city": "Hyannis",
+    "state": "MA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=612"
+  },
+  {
+    "name": "Borden Flats",
+    "city": "Fall River",
+    "state": "MA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=621"
+  },
+  {
+    "name": "Boston Harbor",
+    "city": "Boston",
+    "state": "MA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=473"
+  },
+  {
+    "name": "Brant Point",
+    "city": "Nantucket",
+    "state": "MA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=629"
+  },
+  {
+    "name": "Brant Point (Old)",
+    "city": "Nantucket",
+    "state": "MA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=630"
+  },
+  {
+    "name": "Broad Sound Channel",
+    "city": "Boston",
+    "state": "MA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1978"
+  },
+  {
+    "name": "Butler Flats",
+    "city": "New Bedford",
+    "state": "MA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=619"
+  },
+  {
+    "name": "Buzzards Bay Entrance",
+    "city": "Gosnold",
+    "state": "MA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=2416"
+  },
+  {
+    "name": "Cape Ann (Thacher Island)",
+    "city": "Rockport",
+    "state": "MA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=475"
+  },
+  {
+    "name": "Cape Cod (Highland)",
+    "city": "North Truro",
+    "state": "MA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=491"
+  },
+  {
+    "name": "Cape Poge",
+    "city": "Edgartown",
+    "state": "MA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=623"
+  },
+  {
+    "name": "Chatham",
+    "city": "Chatham",
+    "state": "MA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=487"
+  },
+  {
+    "name": "Clarks Point",
+    "city": "New Bedford",
+    "state": "MA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=620"
+  },
+  {
+    "name": "Cleveland Ledge",
+    "city": "North Falmouth",
+    "state": "MA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=615"
+  },
+  {
+    "name": "Cuttyhunk",
+    "city": "New Bedford",
+    "state": "MA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=840"
+  },
+  {
+    "name": "Deer Island",
+    "city": "Boston",
+    "state": "MA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=472"
+  },
+  {
+    "name": "Derby Wharf",
+    "city": "Salem",
+    "state": "MA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=608"
+  },
+  {
+    "name": "Dog Bar Breakwater",
+    "city": "Gloucester",
+    "state": "MA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=477"
+  },
+  {
+    "name": "Dumpling Rock",
+    "city": "Round Hill",
+    "state": "MA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1973"
+  },
+  {
+    "name": "Duxbury Pier",
+    "city": "Plymouth",
+    "state": "MA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=516"
+  },
+  {
+    "name": "East Chop",
+    "city": "Oak Bluffs",
+    "state": "MA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=625"
+  },
+  {
+    "name": "Eastern Point",
+    "city": "Gloucester",
+    "state": "MA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=476"
+  },
+  {
+    "name": "Edgartown Harbor",
+    "city": "Edgartown",
+    "state": "MA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=624"
+  },
+  {
+    "name": "Egg Rock",
+    "city": "Nahant",
+    "state": "MA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1974"
+  },
+  {
+    "name": "Fort Pickering (Winter Island)",
+    "city": "Salem",
+    "state": "MA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=481"
+  },
+  {
+    "name": "Gay Head",
+    "city": "Aquinnah",
+    "state": "MA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=627"
+  },
+  {
+    "name": "Graves",
+    "city": "Boston",
+    "state": "MA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=483"
+  },
+  {
+    "name": "Great Point",
+    "city": "Nantucket",
+    "state": "MA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=628"
+  },
+  {
+    "name": "Holmes Hole",
+    "city": "Vineyard Haven",
+    "state": "MA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1980"
+  },
+  {
+    "name": "Hospital Point Range Front",
+    "city": "Beverly",
+    "state": "MA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=480"
+  },
+  {
+    "name": "Hospital Point Range Rear",
+    "city": "Salem",
+    "state": "MA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=607"
+  },
+  {
+    "name": "Hyannis",
+    "city": "Hyannis",
+    "state": "MA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=484"
+  },
+  {
+    "name": "Ipswich Range",
+    "city": "Ipswich",
+    "state": "MA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1975"
+  },
+  {
+    "name": "Lightship Nantucket I  WLV-612",
+    "city": "Brooklyn",
+    "state": "MA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=470"
+  },
+  {
+    "name": "Lightship Nantucket II  WLV 613",
+    "city": "Wareham",
+    "state": "MA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=613"
+  },
+  {
+    "name": "Lightship Nantucket LV 112/WAL 534",
+    "city": "Boston",
+    "state": "MA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=805"
+  },
+  {
+    "name": "Lightship New Bedford LV 114/WAL 536",
+    "city": "New Bedford",
+    "state": "MA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=617"
+  },
+  {
+    "name": "Long Island Head",
+    "city": "Boston",
+    "state": "MA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=471"
+  },
+  {
+    "name": "Long Point",
+    "city": "Provincetown",
+    "state": "MA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=490"
+  },
+  {
+    "name": "Lovells Range",
+    "city": "Boston",
+    "state": "MA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1976"
+  },
+  {
+    "name": "Marblehead",
+    "city": "Marblehead",
+    "state": "MA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=482"
+  },
+  {
+    "name": "Mayos Beach",
+    "city": "Eastham",
+    "state": "MA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=610"
+  },
+  {
+    "name": "Minots Ledge",
+    "city": "Minot",
+    "state": "MA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=474"
+  },
+  {
+    "name": "Monomoy Point",
+    "city": "Chatham",
+    "state": "MA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=611"
+  },
+  {
+    "name": "Nantucket Cliff Range",
+    "city": "Nantucket",
+    "state": "MA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=631"
+  },
+  {
+    "name": "Narrows",
+    "city": "Boston",
+    "state": "MA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1979"
+  },
+  {
+    "name": "Nauset",
+    "city": "Eastham",
+    "state": "MA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=488"
+  },
+  {
+    "name": "Neds Point",
+    "city": "Mattapoisett",
+    "state": "MA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=616"
+  },
+  {
+    "name": "Newburyport Harbor (Plum Island)",
+    "city": "Newburyport",
+    "state": "MA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=651"
+  },
+  {
+    "name": "Newburyport Harbor Range Front",
+    "city": "Newburyport",
+    "state": "MA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=602"
+  },
+  {
+    "name": "Newburyport Harbor Range Rear",
+    "city": "Newburyport",
+    "state": "MA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=600"
+  },
+  {
+    "name": "Nobska Point",
+    "city": "Falmouth",
+    "state": "MA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=492"
+  },
+  {
+    "name": "Palmer Island",
+    "city": "New Bedford",
+    "state": "MA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=618"
+  },
+  {
+    "name": "Plymouth (Gurnet)",
+    "city": "Plymouth",
+    "state": "MA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=517"
+  },
+  {
+    "name": "Point Gammon",
+    "city": "Hyannis",
+    "state": "MA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=485"
+  },
+  {
+    "name": "Race Point",
+    "city": "Provincetown",
+    "state": "MA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=523"
+  },
+  {
+    "name": "Sandy Neck",
+    "city": "Barnstable",
+    "state": "MA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=514"
+  },
+  {
+    "name": "Sankaty Head",
+    "city": "Nantucket",
+    "state": "MA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=622"
+  },
+  {
+    "name": "Scituate",
+    "city": "Scituate",
+    "state": "MA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=469"
+  },
+  {
+    "name": "Spectacle Island Range",
+    "city": "Boston",
+    "state": "MA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1977"
+  },
+  {
+    "name": "Stage Harbor",
+    "city": "Chatham",
+    "state": "MA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=520"
+  },
+  {
+    "name": "Straitsmouth Island",
+    "city": "Rockport",
+    "state": "MA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=605"
+  },
+  {
+    "name": "Tarpaulin Cove",
+    "city": "Gosnold",
+    "state": "MA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=609"
+  },
+  {
+    "name": "Ten Pound Island",
+    "city": "Gloucester",
+    "state": "MA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=478"
+  },
+  {
+    "name": "Three Sisters",
+    "city": "Eastham",
+    "state": "MA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=489"
+  },
+  {
+    "name": "West Chop",
+    "city": "Vineyard Haven",
+    "state": "MA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=626"
+  },
+  {
+    "name": "Wings Neck",
+    "city": "Bourne",
+    "state": "MA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=518"
+  },
+  {
+    "name": "Wood End",
+    "city": "Provincetown",
+    "state": "MA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=522"
+  },
+  {
+    "name": "Alpena",
+    "city": "Alpena",
+    "state": "MI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=177"
+  },
+  {
+    "name": "Au Sable Pierhead",
+    "city": "Oscoda",
+    "state": "MI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1777"
+  },
+  {
+    "name": "Au Sable Point",
+    "city": "Grand Marais",
+    "state": "MI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=724"
+  },
+  {
+    "name": "Beaver Island",
+    "city": "Beaver Island",
+    "state": "MI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=205"
+  },
+  {
+    "name": "Beaver Island Harbor (St. James)",
+    "city": "Beaver Island",
+    "state": "MI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=206"
+  },
+  {
+    "name": "Belle Isle",
+    "city": "Detroit",
+    "state": "MI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=2001"
+  },
+  {
+    "name": "Big Bay Point",
+    "city": "Big Bay",
+    "state": "MI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=574"
+  },
+  {
+    "name": "Big Sable Point",
+    "city": "Ludington",
+    "state": "MI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=196"
+  },
+  {
+    "name": "Birch Point Range",
+    "city": "Brimley",
+    "state": "MI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=2010"
+  },
+  {
+    "name": "Bois Blanc Island",
+    "city": "Bois Blanc Township",
+    "state": "MI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=718"
+  },
+  {
+    "name": "Brush Point Range",
+    "city": "Sault Ste. Marie",
+    "state": "MI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=2009"
+  },
+  {
+    "name": "Cedar Point Range",
+    "city": "Brimley",
+    "state": "MI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=2008"
+  },
+  {
+    "name": "Cedar River",
+    "city": "Cedar River",
+    "state": "MI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=559"
+  },
+  {
+    "name": "Charity Island",
+    "city": "Au Gres",
+    "state": "MI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=707"
+  },
+  {
+    "name": "Charlevoix South Pier",
+    "city": "Charlevoix",
+    "state": "MI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=201"
+  },
+  {
+    "name": "Cheboygan",
+    "city": "Cheboygan",
+    "state": "MI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=218"
+  },
+  {
+    "name": "Cheboygan Crib",
+    "city": "Cheboygan",
+    "state": "MI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=217"
+  },
+  {
+    "name": "Cheboygan River Front Range",
+    "city": "Cheboygan",
+    "state": "MI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=216"
+  },
+  {
+    "name": "Clinton River",
+    "city": "Mt. Clemens",
+    "state": "MI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=2003"
+  },
+  {
+    "name": "Copper Harbor",
+    "city": "Copper Harbor",
+    "state": "MI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=226"
+  },
+  {
+    "name": "Copper Harbor Range",
+    "city": "Copper Harbor",
+    "state": "MI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=225"
+  },
+  {
+    "name": "Crisp Point",
+    "city": "Paradise",
+    "state": "MI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=722"
+  },
+  {
+    "name": "Detour",
+    "city": "De Tour Village",
+    "state": "MI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=2012"
+  },
+  {
+    "name": "DeTour Reef",
+    "city": "De Tour Village",
+    "state": "MI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=716"
+  },
+  {
+    "name": "Detroit River",
+    "city": "Detroit",
+    "state": "MI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=160"
+  },
+  {
+    "name": "Eagle Harbor",
+    "city": "Eagle Harbor",
+    "state": "MI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=224"
+  },
+  {
+    "name": "Eagle Harbor Range",
+    "city": "Eagle Harbor",
+    "state": "MI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=854"
+  },
+  {
+    "name": "Eagle River",
+    "city": "Eagle River",
+    "state": "MI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=223"
+  },
+  {
+    "name": "Ecorse",
+    "city": "Ecorse",
+    "state": "MI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1996"
+  },
+  {
+    "name": "Fort Gratiot",
+    "city": "Port Huron",
+    "state": "MI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=167"
+  },
+  {
+    "name": "Forty Mile Point",
+    "city": "Rogers City",
+    "state": "MI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=183"
+  },
+  {
+    "name": "Fourteen Foot Shoal",
+    "city": "Cheboygan",
+    "state": "MI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=710"
+  },
+  {
+    "name": "Fourteen Mile Point",
+    "city": "Ontonagon",
+    "state": "MI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=732"
+  },
+  {
+    "name": "Frankfort North Breakwater",
+    "city": "Frankfort",
+    "state": "MI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=198"
+  },
+  {
+    "name": "Frying Pan Island",
+    "city": "Sault Sainte Marie",
+    "state": "MI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=721"
+  },
+  {
+    "name": "Gibraltar",
+    "city": "Gibraltar",
+    "state": "MI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=2000"
+  },
+  {
+    "name": "Grand Haven",
+    "city": "Grand Haven",
+    "state": "MI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=189"
+  },
+  {
+    "name": "Grand Island",
+    "city": "Munising",
+    "state": "MI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=725"
+  },
+  {
+    "name": "Grand Island East Channel",
+    "city": "Munising",
+    "state": "MI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=726"
+  },
+  {
+    "name": "Grand Island Harbor Range",
+    "city": "Munising",
+    "state": "MI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=570"
+  },
+  {
+    "name": "Grand Marais",
+    "city": "Grand Marais",
+    "state": "MI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=723"
+  },
+  {
+    "name": "Grand Traverse",
+    "city": "Northport",
+    "state": "MI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=711"
+  },
+  {
+    "name": "Granite Island",
+    "city": "Marquette",
+    "state": "MI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=727"
+  },
+  {
+    "name": "Grassy Island North Range",
+    "city": "Wyandotte",
+    "state": "MI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1997"
+  },
+  {
+    "name": "Grassy Island South Range",
+    "city": "Wyandotte",
+    "state": "MI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1998"
+  },
+  {
+    "name": "Gravelly Shoal",
+    "city": "Au Gres",
+    "state": "MI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=174"
+  },
+  {
+    "name": "Grays Reef",
+    "city": "Mackinaw City",
+    "state": "MI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=209"
+  },
+  {
+    "name": "Grosse Ile (North Range)",
+    "city": "Grosse Ile",
+    "state": "MI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=162"
+  },
+  {
+    "name": "Grosse Isle South Range",
+    "city": "Grosse Ile",
+    "state": "MI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=2002"
+  },
+  {
+    "name": "Gull Rock",
+    "city": "Copper Harbor",
+    "state": "MI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=730"
+  },
+  {
+    "name": "Harbor Beach",
+    "city": "Harbor Beach",
+    "state": "MI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=170"
+  },
+  {
+    "name": "Holland Harbor",
+    "city": "Holland",
+    "state": "MI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=188"
+  },
+  {
+    "name": "Huron Island",
+    "city": "Baraga",
+    "state": "MI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=729"
+  },
+  {
+    "name": "Ile Aux Galets (Skillagalee)",
+    "city": "Mackinaw City",
+    "state": "MI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=207"
+  },
+  {
+    "name": "Isle Royale (Menagerie Island)",
+    "city": "Calumet",
+    "state": "MI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=735"
+  },
+  {
+    "name": "Kalamazoo (Replica)",
+    "city": "Douglas",
+    "state": "MI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1773"
+  },
+  {
+    "name": "Keweenaw Waterway Lower Entrance",
+    "city": "Houghton",
+    "state": "MI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=229"
+  },
+  {
+    "name": "Keweenaw Waterway Upper Entrance",
+    "city": "Hancock",
+    "state": "MI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=221"
+  },
+  {
+    "name": "Lake St. Clair",
+    "city": "Roseville",
+    "state": "MI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=705"
+  },
+  {
+    "name": "Lansing Shoal",
+    "city": "Newberry",
+    "state": "MI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=208"
+  },
+  {
+    "name": "Lightship Huron LV 103/WAL 526",
+    "city": "Port Huron",
+    "state": "MI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=166"
+  },
+  {
+    "name": "Little Rapids Cut (North Entrance)",
+    "city": "Sault Ste. Marie",
+    "state": "MI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1776"
+  },
+  {
+    "name": "Little Sable Point",
+    "city": "Mears",
+    "state": "MI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=193"
+  },
+  {
+    "name": "Little Traverse",
+    "city": "Harbor Springs",
+    "state": "MI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=203"
+  },
+  {
+    "name": "Lower Nicolet West Range",
+    "city": "Sault Sainte Marie",
+    "state": "MI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=839"
+  },
+  {
+    "name": "Ludington North Pierhead",
+    "city": "Ludington",
+    "state": "MI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=195"
+  },
+  {
+    "name": "Mamajuda Range",
+    "city": "Wyandotte",
+    "state": "MI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1999"
+  },
+  {
+    "name": "Manistee North Pierhead",
+    "city": "Manistee",
+    "state": "MI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=197"
+  },
+  {
+    "name": "Manistique East Breakwater",
+    "city": "Manistique",
+    "state": "MI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=564"
+  },
+  {
+    "name": "Manitou Island",
+    "city": "Copper Harbor",
+    "state": "MI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=731"
+  },
+  {
+    "name": "Marquette Breakwater",
+    "city": "Marquette",
+    "state": "MI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=571"
+  },
+  {
+    "name": "Marquette Harbor",
+    "city": "Marquette",
+    "state": "MI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=572"
+  },
+  {
+    "name": "Martin Reef",
+    "city": "Cedarville",
+    "state": "MI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=717"
+  },
+  {
+    "name": "McGulpin Point",
+    "city": "Mackinaw City",
+    "state": "MI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=213"
+  },
+  {
+    "name": "Mendota (Bete Grise)",
+    "city": "Calumet",
+    "state": "MI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=227"
+  },
+  {
+    "name": "Menominee North Pier",
+    "city": "Menominee",
+    "state": "MI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=558"
+  },
+  {
+    "name": "Middle Island",
+    "city": "Alpena",
+    "state": "MI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=179"
+  },
+  {
+    "name": "Minneapolis Shoal",
+    "city": "Escanaba",
+    "state": "MI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=563"
+  },
+  {
+    "name": "Mission Point",
+    "city": "Traverse City",
+    "state": "MI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=713"
+  },
+  {
+    "name": "Monroe",
+    "city": "Monroe",
+    "state": "MI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1995"
+  },
+  {
+    "name": "Munising Range",
+    "city": "Munising",
+    "state": "MI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=569"
+  },
+  {
+    "name": "Muskegon South Pierhead",
+    "city": "Muskegon",
+    "state": "MI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=191"
+  },
+  {
+    "name": "New Buffalo",
+    "city": "New Buffalo",
+    "state": "MI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=2014"
+  },
+  {
+    "name": "North Manitou",
+    "city": "Leland",
+    "state": "MI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=2013"
+  },
+  {
+    "name": "North Manitou Shoal",
+    "city": "Leland",
+    "state": "MI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=714"
+  },
+  {
+    "name": "Old Mackinac Point",
+    "city": "Mackinaw City",
+    "state": "MI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=212"
+  },
+  {
+    "name": "Ontonagon",
+    "city": "Ontonagon",
+    "state": "MI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=219"
+  },
+  {
+    "name": "Ontonagon West Pierhead",
+    "city": "Ontonagon",
+    "state": "MI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=220"
+  },
+  {
+    "name": "Passage Island",
+    "city": "Calumet",
+    "state": "MI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=733"
+  },
+  {
+    "name": "Peche Island",
+    "city": "Marine City",
+    "state": "MI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=165"
+  },
+  {
+    "name": "Peninsula Point",
+    "city": "Escanaba",
+    "state": "MI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=562"
+  },
+  {
+    "name": "Pentwater Pier",
+    "city": "Pentwater",
+    "state": "MI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=194"
+  },
+  {
+    "name": "Petoskey Pierhead",
+    "city": "Petoskey",
+    "state": "MI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=202"
+  },
+  {
+    "name": "Pilot Island Range",
+    "city": "Raber",
+    "state": "MI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=2017"
+  },
+  {
+    "name": "Pipe Island",
+    "city": "De Tour Village",
+    "state": "MI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=719"
+  },
+  {
+    "name": "Poe Reef",
+    "city": "Cheboygan",
+    "state": "MI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=709"
+  },
+  {
+    "name": "Point Betsie",
+    "city": "Frankfort",
+    "state": "MI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=199"
+  },
+  {
+    "name": "Point Iroquois",
+    "city": "Brimley",
+    "state": "MI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=566"
+  },
+  {
+    "name": "Pointe Aux Barques",
+    "city": "Port Hope",
+    "state": "MI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=171"
+  },
+  {
+    "name": "Port Austin Reef",
+    "city": "Port Austin",
+    "state": "MI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=172"
+  },
+  {
+    "name": "Port Sanilac",
+    "city": "Port Sanilac",
+    "state": "MI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=168"
+  },
+  {
+    "name": "Portage Lake",
+    "city": "Onekama",
+    "state": "MI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1775"
+  },
+  {
+    "name": "Portage River (Jacobsville)",
+    "city": "Houghton",
+    "state": "MI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=228"
+  },
+  {
+    "name": "Poverty Island",
+    "city": "Escanaba",
+    "state": "MI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=834"
+  },
+  {
+    "name": "Presque Isle (New)",
+    "city": "Alpena",
+    "state": "MI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=181"
+  },
+  {
+    "name": "Presque Isle (Old)",
+    "city": "Alpena",
+    "state": "MI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=180"
+  },
+  {
+    "name": "Presque Isle Harbor Breakwater",
+    "city": "Marquette",
+    "state": "MI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=573"
+  },
+  {
+    "name": "Presque Isle Range",
+    "city": "Alpena",
+    "state": "MI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=182"
+  },
+  {
+    "name": "Robert H. Manning Memorial",
+    "city": "Empire",
+    "state": "MI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=200"
+  },
+  {
+    "name": "Rock Harbor",
+    "city": "Calumet",
+    "state": "MI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=734"
+  },
+  {
+    "name": "Rock of Ages",
+    "city": "Calumet",
+    "state": "MI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=736"
+  },
+  {
+    "name": "Round Island",
+    "city": "Mackinac Island",
+    "state": "MI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=215"
+  },
+  {
+    "name": "Round Island",
+    "city": "Brimley",
+    "state": "MI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=2007"
+  },
+  {
+    "name": "Round Island (St. Marys River)",
+    "city": "Sault Sainte Marie",
+    "state": "MI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=720"
+  },
+  {
+    "name": "Round Island Passage",
+    "city": "Mackinac Island",
+    "state": "MI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=838"
+  },
+  {
+    "name": "Saginaw River Rear Range",
+    "city": "Bay City",
+    "state": "MI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=173"
+  },
+  {
+    "name": "Sand Hills",
+    "city": "Calumet",
+    "state": "MI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=222"
+  },
+  {
+    "name": "Sand Point (Baraga)",
+    "city": "Baraga",
+    "state": "MI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=230"
+  },
+  {
+    "name": "Sand Point (Escanaba)",
+    "city": "Escanaba",
+    "state": "MI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=561"
+  },
+  {
+    "name": "Seul Choix Point",
+    "city": "Gulliver",
+    "state": "MI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=565"
+  },
+  {
+    "name": "Six Mile Point Range Front",
+    "city": "De Tour Village",
+    "state": "MI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1560"
+  },
+  {
+    "name": "Six Mile Point Range Rear",
+    "city": "Cedarville",
+    "state": "MI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1559"
+  },
+  {
+    "name": "South Fox Island",
+    "city": "Charlevoix",
+    "state": "MI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=204"
+  },
+  {
+    "name": "South Haven South Pier",
+    "city": "South Haven",
+    "state": "MI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=187"
+  },
+  {
+    "name": "South Manitou Island",
+    "city": "Leland",
+    "state": "MI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=715"
+  },
+  {
+    "name": "Spectacle Reef",
+    "city": "Cheboygan",
+    "state": "MI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=708"
+  },
+  {
+    "name": "Squaw Island",
+    "city": "Beaver Island",
+    "state": "MI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=712"
+  },
+  {
+    "name": "Squaw Point",
+    "city": "Maywood",
+    "state": "MI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=2011"
+  },
+  {
+    "name": "St. Clair Flats Canal Lower",
+    "city": "Clay Township",
+    "state": "MI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=2005"
+  },
+  {
+    "name": "St. Clair Flats Canal Range",
+    "city": "Harsens Island",
+    "state": "MI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=847"
+  },
+  {
+    "name": "St. Clair Flats Canal Upper",
+    "city": "Clay Township",
+    "state": "MI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=2004"
+  },
+  {
+    "name": "St. Clair Flats Range",
+    "city": "Harsens Island",
+    "state": "MI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=706"
+  },
+  {
+    "name": "St. Helena Island",
+    "city": "Saint Ignace",
+    "state": "MI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=214"
+  },
+  {
+    "name": "St. Joseph Pier",
+    "city": "Saint Joseph",
+    "state": "MI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=186"
+  },
+  {
+    "name": "St. Martin Island",
+    "city": "Escanaba",
+    "state": "MI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=833"
+  },
+  {
+    "name": "Stannard Rock",
+    "city": "Marquette",
+    "state": "MI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=728"
+  },
+  {
+    "name": "Sturgeon Point",
+    "city": "Harrisville",
+    "state": "MI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=176"
+  },
+  {
+    "name": "Tawas Point",
+    "city": "Tawas City",
+    "state": "MI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=175"
+  },
+  {
+    "name": "Thunder Bay Island",
+    "city": "Alpena",
+    "state": "MI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=178"
+  },
+  {
+    "name": "Vidal Shoals Range",
+    "city": "Sault Ste. Marie",
+    "state": "MI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=2006"
+  },
+  {
+    "name": "Waugoshance",
+    "city": "Mackinaw City",
+    "state": "MI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=211"
+  },
+  {
+    "name": "White River",
+    "city": "Whitehall",
+    "state": "MI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=192"
+  },
+  {
+    "name": "White Shoal",
+    "city": "Mackinaw City",
+    "state": "MI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=210"
+  },
+  {
+    "name": "Whitefish Point",
+    "city": "Paradise",
+    "state": "MI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=567"
+  },
+  {
+    "name": "William Livingstone Memorial",
+    "city": "Detroit",
+    "state": "MI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=163"
+  },
+  {
+    "name": "Windmill Point",
+    "city": "Detroit",
+    "state": "MI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=164"
+  },
+  {
+    "name": "Winter Point Range",
+    "city": "Munuscong",
+    "state": "MI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=2016"
+  },
+  {
+    "name": "Duluth Harbor North Breakwater",
+    "city": "Duluth",
+    "state": "MN",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=266"
+  },
+  {
+    "name": "Duluth Harbor South Breakwater Inner",
+    "city": "Duluth",
+    "state": "MN",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=264"
+  },
+  {
+    "name": "Duluth Harbor South Breakwater Outer",
+    "city": "Duluth",
+    "state": "MN",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=265"
+  },
+  {
+    "name": "Grand Marais",
+    "city": "Grand Marais",
+    "state": "MN",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=652"
+  },
+  {
+    "name": "Minnesota Point",
+    "city": "Superior",
+    "state": "MN",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=263"
+  },
+  {
+    "name": "Split Rock",
+    "city": "Two Harbors",
+    "state": "MN",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=269"
+  },
+  {
+    "name": "Two Harbors",
+    "city": "Two Harbors",
+    "state": "MN",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=267"
+  },
+  {
+    "name": "Two Harbors Breakwater",
+    "city": "Two Harbors",
+    "state": "MN",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=268"
+  },
+  {
+    "name": "Biloxi",
+    "city": "Biloxi",
+    "state": "MS",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=543"
+  },
+  {
+    "name": "Cat Island",
+    "city": "Gulfport",
+    "state": "MS",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1821"
+  },
+  {
+    "name": "East Pascagoula River",
+    "city": "Pascagoula",
+    "state": "MS",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1827"
+  },
+  {
+    "name": "Horn Island",
+    "city": "Pascagoula",
+    "state": "MS",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1822"
+  },
+  {
+    "name": "Lake Borgne",
+    "city": "Ansley",
+    "state": "MS",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1823"
+  },
+  {
+    "name": "Merrills Shell Bank",
+    "city": "Pass Chrisitan",
+    "state": "MS",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1825"
+  },
+  {
+    "name": "Natchez",
+    "city": "Natchez",
+    "state": "MS",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1828"
+  },
+  {
+    "name": "Pass Christian",
+    "city": "Pass Christian",
+    "state": "MS",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1826"
+  },
+  {
+    "name": "Round Island",
+    "city": "Pascagoula",
+    "state": "MS",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=339"
+  },
+  {
+    "name": "Ship Island",
+    "city": "Gulfport",
+    "state": "MS",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=648"
+  },
+  {
+    "name": "St. Josephs Island",
+    "city": "Ansley",
+    "state": "MS",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1824"
+  },
+  {
+    "name": "Burkehaven",
+    "city": "Sunapee",
+    "state": "NH",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=667"
+  },
+  {
+    "name": "Herrick Cove",
+    "city": "Sunapee",
+    "state": "NH",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=665"
+  },
+  {
+    "name": "Isles of Shoals (White Island)",
+    "city": "Rye",
+    "state": "NH",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=664"
+  },
+  {
+    "name": "Loon Island",
+    "city": "Sunapee",
+    "state": "NH",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=666"
+  },
+  {
+    "name": "Portsmouth Harbor",
+    "city": "Portsmouth",
+    "state": "NH",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=553"
+  },
+  {
+    "name": "Absecon",
+    "city": "Atlantic City",
+    "state": "NJ",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=379"
+  },
+  {
+    "name": "Barnegat",
+    "city": "Barnegat Light",
+    "state": "NJ",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=380"
+  },
+  {
+    "name": "Bergen Point",
+    "city": "Bergen Point",
+    "state": "NJ",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1872"
+  },
+  {
+    "name": "Brandywine Shoal",
+    "city": "Cape May",
+    "state": "NJ",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=382"
+  },
+  {
+    "name": "Cape May",
+    "city": "Cape May",
+    "state": "NJ",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=389"
+  },
+  {
+    "name": "Chapel Hill Rear Range",
+    "city": "Atlantic Highlands",
+    "state": "NJ",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=387"
+  },
+  {
+    "name": "Cohansey",
+    "city": "Greenwich",
+    "state": "NJ",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1884"
+  },
+  {
+    "name": "Conover Beacon",
+    "city": "Leonardo",
+    "state": "NJ",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=377"
+  },
+  {
+    "name": "Cross Ledge",
+    "city": "Millville",
+    "state": "NJ",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=381"
+  },
+  {
+    "name": "Deepwater Point Range",
+    "city": "Deepwater",
+    "state": "NJ",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1877"
+  },
+  {
+    "name": "East Point",
+    "city": "Heislerville",
+    "state": "NJ",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=372"
+  },
+  {
+    "name": "Egg Island",
+    "city": "Millville",
+    "state": "NJ",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1878"
+  },
+  {
+    "name": "Elbow of Cross Ledge",
+    "city": "Millville",
+    "state": "NJ",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=384"
+  },
+  {
+    "name": "Finns Point Range",
+    "city": "Pennsville",
+    "state": "NJ",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=374"
+  },
+  {
+    "name": "Fort Mifflin Bar Cut Range",
+    "city": "Billingsport",
+    "state": "NJ",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1881"
+  },
+  {
+    "name": "Great Beds",
+    "city": "South Amboy",
+    "state": "NJ",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=656"
+  },
+  {
+    "name": "Hereford Inlet",
+    "city": "North Wildwood",
+    "state": "NJ",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=388"
+  },
+  {
+    "name": "Horseshoe Range East Group",
+    "city": "Westville",
+    "state": "NJ",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1882"
+  },
+  {
+    "name": "Lightship Barnegat  LV 79/WAL 506",
+    "city": "Camden",
+    "state": "NJ",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=657"
+  },
+  {
+    "name": "Lightship Winter Quarter LV 107/WAL 529",
+    "city": "Jersey City",
+    "state": "NJ",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=658"
+  },
+  {
+    "name": "Ludlam Beach",
+    "city": "Sea Isle City",
+    "state": "NJ",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=878"
+  },
+  {
+    "name": "Maurice River Range",
+    "city": "Millvillle",
+    "state": "NJ",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1879"
+  },
+  {
+    "name": "Miah Maull Shoal",
+    "city": "Cape May",
+    "state": "NJ",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=385"
+  },
+  {
+    "name": "Navesink",
+    "city": "Highlands",
+    "state": "NJ",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=376"
+  },
+  {
+    "name": "Passaic River",
+    "city": "Newark",
+    "state": "NJ",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1873"
+  },
+  {
+    "name": "Point Comfort",
+    "city": "Keansburg",
+    "state": "NJ",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1874"
+  },
+  {
+    "name": "Robbins Reef",
+    "city": "Jersey City",
+    "state": "NJ",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=582"
+  },
+  {
+    "name": "Romer Shoal",
+    "city": "Atlantic Highlands",
+    "state": "NJ",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=655"
+  },
+  {
+    "name": "Sandy Hook",
+    "city": "Sandy Hook",
+    "state": "NJ",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=378"
+  },
+  {
+    "name": "Sandy Hook East Beacon",
+    "city": "Highlands",
+    "state": "NJ",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1876"
+  },
+  {
+    "name": "Sea Girt",
+    "city": "Sea Girt",
+    "state": "NJ",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=375"
+  },
+  {
+    "name": "Ship John Shoal",
+    "city": "Pennsville",
+    "state": "NJ",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=383"
+  },
+  {
+    "name": "Tinicum Rear Range",
+    "city": "Paulsboro",
+    "state": "NJ",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=373"
+  },
+  {
+    "name": "Tuckers Beach (Replica)",
+    "city": "Tuckerton",
+    "state": "NJ",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=858"
+  },
+  {
+    "name": "Waackaack",
+    "city": "Keansburg",
+    "state": "NJ",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1875"
+  },
+  {
+    "name": "Ambrose",
+    "city": "New York City",
+    "state": "NY",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=2415"
+  },
+  {
+    "name": "Barbers Point",
+    "city": "Westport",
+    "state": "NY",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=673"
+  },
+  {
+    "name": "Barcelona (Portland Harbor)",
+    "city": "Westfield",
+    "state": "NY",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=293"
+  },
+  {
+    "name": "Black Rock Beacon",
+    "city": "Buffalo",
+    "state": "NY",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=2410"
+  },
+  {
+    "name": "Blackwell Island",
+    "city": "New York",
+    "state": "NY",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=753"
+  },
+  {
+    "name": "Bluff Point (Valcour Island)",
+    "city": "Plattsburgh",
+    "state": "NY",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=675"
+  },
+  {
+    "name": "Braddock Point",
+    "city": "Hilton",
+    "state": "NY",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=303"
+  },
+  {
+    "name": "Brewerton Range Rear",
+    "city": "Brewerton",
+    "state": "NY",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=889"
+  },
+  {
+    "name": "Buffalo Harbor",
+    "city": "Buffalo",
+    "state": "NY",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=908"
+  },
+  {
+    "name": "Buffalo Intake Crib",
+    "city": "Buffalo",
+    "state": "NY",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=299"
+  },
+  {
+    "name": "Buffalo Main",
+    "city": "Buffalo",
+    "state": "NY",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=296"
+  },
+  {
+    "name": "Buffalo North Breakwater South Side",
+    "city": "Buffalo",
+    "state": "NY",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=297"
+  },
+  {
+    "name": "Buffalo South Entrance North Side",
+    "city": "Buffalo",
+    "state": "NY",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=907"
+  },
+  {
+    "name": "Buffalo South Entrance South Side",
+    "city": "Buffalo",
+    "state": "NY",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=295"
+  },
+  {
+    "name": "Cape Vincent Breakwater",
+    "city": "Cape Vincent",
+    "state": "NY",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=315"
+  },
+  {
+    "name": "Carleton Island",
+    "city": "Cape Vincent",
+    "state": "NY",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1841"
+  },
+  {
+    "name": "Cayuga Inlet",
+    "city": "Ithaca",
+    "state": "NY",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=912"
+  },
+  {
+    "name": "Cedar Island",
+    "city": "Northwest Harbor",
+    "state": "NY",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=737"
+  },
+  {
+    "name": "Charlotte-Genesee",
+    "city": "Rochester",
+    "state": "NY",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=304"
+  },
+  {
+    "name": "Cold Spring Harbor",
+    "city": "Oyster Bay",
+    "state": "NY",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=748"
+  },
+  {
+    "name": "Coney Island",
+    "city": "Brooklyn",
+    "state": "NY",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=394"
+  },
+  {
+    "name": "Coxsackie",
+    "city": "Coxsackie",
+    "state": "NY",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1842"
+  },
+  {
+    "name": "Crossover Island",
+    "city": "Chippewa Bay",
+    "state": "NY",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=320"
+  },
+  {
+    "name": "Crown Point",
+    "city": "Crown Point",
+    "state": "NY",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=672"
+  },
+  {
+    "name": "Cumberland Head",
+    "city": "Plattsburgh",
+    "state": "NY",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=676"
+  },
+  {
+    "name": "Danskammer Point",
+    "city": "Marlboro",
+    "state": "NY",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1867"
+  },
+  {
+    "name": "Dunkirk",
+    "city": "Dunkirk",
+    "state": "NY",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=294"
+  },
+  {
+    "name": "East Charity Shoal",
+    "city": "Cape Vincent",
+    "state": "NY",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=316"
+  },
+  {
+    "name": "Eatons Neck",
+    "city": "Northport",
+    "state": "NY",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=746"
+  },
+  {
+    "name": "Elm Tree",
+    "city": "Staten Island",
+    "state": "NY",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=755"
+  },
+  {
+    "name": "Esopus Meadows",
+    "city": "Ulster Park",
+    "state": "NY",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=680"
+  },
+  {
+    "name": "Execution Rocks",
+    "city": "New Rochelle",
+    "state": "NY",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=749"
+  },
+  {
+    "name": "Fair Haven",
+    "city": "Fair Haven",
+    "state": "NY",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1981"
+  },
+  {
+    "name": "Fire Island",
+    "city": "Bay Shore",
+    "state": "NY",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=390"
+  },
+  {
+    "name": "Fort Lafayette",
+    "city": "New York City",
+    "state": "NY",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1868"
+  },
+  {
+    "name": "Fort Niagara",
+    "city": "Youngstown",
+    "state": "NY",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=301"
+  },
+  {
+    "name": "Fort Wadsworth",
+    "city": "Staten Island",
+    "state": "NY",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=754"
+  },
+  {
+    "name": "Four Mile Point",
+    "city": "Hudson",
+    "state": "NY",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1843"
+  },
+  {
+    "name": "Frenchmans Island",
+    "city": "Brewerton",
+    "state": "NY",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1569"
+  },
+  {
+    "name": "Galloo Island",
+    "city": "Hounsfield",
+    "state": "NY",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=311"
+  },
+  {
+    "name": "Gardiners Island",
+    "city": "Orient Point",
+    "state": "NY",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1869"
+  },
+  {
+    "name": "Governors Island",
+    "city": "New York City",
+    "state": "NY",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1848"
+  },
+  {
+    "name": "Hell Gate",
+    "city": "New York City",
+    "state": "NY",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1845"
+  },
+  {
+    "name": "Horse Island (Sackets Harbor)",
+    "city": "Sackets Harbor",
+    "state": "NY",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=312"
+  },
+  {
+    "name": "Horseshoe Reef",
+    "city": "Buffalo",
+    "state": "NY",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=298"
+  },
+  {
+    "name": "Horton Point",
+    "city": "Southold",
+    "state": "NY",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=392"
+  },
+  {
+    "name": "Hudson (Hudson-Athens)",
+    "city": "Hudson",
+    "state": "NY",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=677"
+  },
+  {
+    "name": "Huntington Harbor (Lloyd Harbor)",
+    "city": "Huntington",
+    "state": "NY",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=747"
+  },
+  {
+    "name": "Jeffreys Hook",
+    "city": "New York",
+    "state": "NY",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=393"
+  },
+  {
+    "name": "Latimer Reef",
+    "city": "Southold",
+    "state": "NY",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=739"
+  },
+  {
+    "name": "Lightship Ambrose LV 87/WAL 512",
+    "city": "New York City",
+    "state": "NY",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=587"
+  },
+  {
+    "name": "Lightship Frying Pan LV 115/WAL 537",
+    "city": "New York",
+    "state": "NY",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=759"
+  },
+  {
+    "name": "Little Gull Island",
+    "city": "Southold",
+    "state": "NY",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=742"
+  },
+  {
+    "name": "Long Beach Bar",
+    "city": "Greenport",
+    "state": "NY",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=738"
+  },
+  {
+    "name": "Montauk Point",
+    "city": "Montauk",
+    "state": "NY",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=391"
+  },
+  {
+    "name": "Montauk Yacht Club",
+    "city": "Montauk",
+    "state": "NY",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=850"
+  },
+  {
+    "name": "New Dorp",
+    "city": "Staten Island",
+    "state": "NY",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=756"
+  },
+  {
+    "name": "Niagara River Rear Range",
+    "city": "Buffalo",
+    "state": "NY",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=300"
+  },
+  {
+    "name": "North Brother Island",
+    "city": "New York",
+    "state": "NY",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=851"
+  },
+  {
+    "name": "North Dumpling",
+    "city": "Southold",
+    "state": "NY",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=740"
+  },
+  {
+    "name": "Oak Orchard (Replica)",
+    "city": "Point Breeze",
+    "state": "NY",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1469"
+  },
+  {
+    "name": "Ogdensburg Harbor",
+    "city": "Ogdensburg",
+    "state": "NY",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=321"
+  },
+  {
+    "name": "Olcott (Replica)",
+    "city": "Olcott",
+    "state": "NY",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=910"
+  },
+  {
+    "name": "Old Field Point",
+    "city": "Old Field",
+    "state": "NY",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=745"
+  },
+  {
+    "name": "Old Orchard Shoal",
+    "city": "Staten Island",
+    "state": "NY",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=758"
+  },
+  {
+    "name": "Orient Point",
+    "city": "Southold",
+    "state": "NY",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=744"
+  },
+  {
+    "name": "Oswego West Pierhead",
+    "city": "Oswego",
+    "state": "NY",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=308"
+  },
+  {
+    "name": "Plattsburg Breakwater",
+    "city": "Plattsburg",
+    "state": "NY",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1906"
+  },
+  {
+    "name": "Plum Island",
+    "city": "Southold",
+    "state": "NY",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=743"
+  },
+  {
+    "name": "Point Au Roche",
+    "city": "Plattsburgh",
+    "state": "NY",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=682"
+  },
+  {
+    "name": "Port Jefferson Breakwater",
+    "city": "Port Jefferson",
+    "state": "NY",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1870"
+  },
+  {
+    "name": "Princes Bay",
+    "city": "Staten Island",
+    "state": "NY",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=583"
+  },
+  {
+    "name": "Race Rock",
+    "city": "Southold",
+    "state": "NY",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=741"
+  },
+  {
+    "name": "Rochester Harbor",
+    "city": "Rochester",
+    "state": "NY",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=909"
+  },
+  {
+    "name": "Rock Island",
+    "city": "Fishers Landing",
+    "state": "NY",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=317"
+  },
+  {
+    "name": "Rockland Lake",
+    "city": "Congers",
+    "state": "NY",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1846"
+  },
+  {
+    "name": "Rondout Creek",
+    "city": "Kingston",
+    "state": "NY",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=679"
+  },
+  {
+    "name": "Salmon River (Selkirk)",
+    "city": "Pulaski",
+    "state": "NY",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=309"
+  },
+  {
+    "name": "Sands Point",
+    "city": "Sands Point",
+    "state": "NY",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=750"
+  },
+  {
+    "name": "Saugerties",
+    "city": "Saugerties",
+    "state": "NY",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=678"
+  },
+  {
+    "name": "Shinnecock",
+    "city": "Southampton",
+    "state": "NY",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=852"
+  },
+  {
+    "name": "Silver Creek",
+    "city": "Silver Creek",
+    "state": "NY",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=2015"
+  },
+  {
+    "name": "Sister Islands",
+    "city": "Alexandria Bay",
+    "state": "NY",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=319"
+  },
+  {
+    "name": "Sodus Bay",
+    "city": "Sodus",
+    "state": "NY",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=305"
+  },
+  {
+    "name": "Sodus Outer",
+    "city": "Sodus",
+    "state": "NY",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=306"
+  },
+  {
+    "name": "Split Rock",
+    "city": "Essex",
+    "state": "NY",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=674"
+  },
+  {
+    "name": "Staten Island Range",
+    "city": "Staten Island",
+    "state": "NY",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=584"
+  },
+  {
+    "name": "Statue of Liberty",
+    "city": "New York",
+    "state": "NY",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=581"
+  },
+  {
+    "name": "Stepping Stones",
+    "city": "Kings Point",
+    "state": "NY",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=751"
+  },
+  {
+    "name": "Stony Point (Henderson)",
+    "city": "Henderson",
+    "state": "NY",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=310"
+  },
+  {
+    "name": "Stony Point (Hudson River)",
+    "city": "Stony Point",
+    "state": "NY",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=681"
+  },
+  {
+    "name": "Strawberry Island Lower Cut Range",
+    "city": "Buffalo",
+    "state": "NY",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1983"
+  },
+  {
+    "name": "Strawberry Island Upper Cut Range",
+    "city": "Buffalo",
+    "state": "NY",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1982"
+  },
+  {
+    "name": "Stuyvesant",
+    "city": "Stuyvesant",
+    "state": "NY",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1844"
+  },
+  {
+    "name": "Sunken Rock",
+    "city": "Alexandria Bay",
+    "state": "NY",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=318"
+  },
+  {
+    "name": "Tarrytown",
+    "city": "Tarrytown",
+    "state": "NY",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=395"
+  },
+  {
+    "name": "Thirty Mile Point",
+    "city": "Barker",
+    "state": "NY",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=302"
+  },
+  {
+    "name": "Throgs Neck",
+    "city": "Throgs Neck",
+    "state": "NY",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=752"
+  },
+  {
+    "name": "Tibbetts Point",
+    "city": "Cape Vincent",
+    "state": "NY",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=314"
+  },
+  {
+    "name": "Titanic Memorial",
+    "city": "New York",
+    "state": "NY",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=585"
+  },
+  {
+    "name": "Verona Beach",
+    "city": "Verona Beach",
+    "state": "NY",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=877"
+  },
+  {
+    "name": "West Bank",
+    "city": "Staten Island",
+    "state": "NY",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=757"
+  },
+  {
+    "name": "West Point",
+    "city": "West Point",
+    "state": "NY",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1847"
+  },
+  {
+    "name": "Whitestone Point",
+    "city": "Whitestone",
+    "state": "NY",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1871"
+  },
+  {
+    "name": "Bald Head",
+    "city": "Southport",
+    "state": "NC",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=349"
+  },
+  {
+    "name": "Beacon Island",
+    "city": "Ocracoke",
+    "state": "NC",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1903"
+  },
+  {
+    "name": "Bluff Shoal",
+    "city": "Ocracoke",
+    "state": "NC",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1904"
+  },
+  {
+    "name": "Bodie Island",
+    "city": "Nags Head",
+    "state": "NC",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=357"
+  },
+  {
+    "name": "Bogue Banks",
+    "city": "Beaufort",
+    "state": "NC",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1905"
+  },
+  {
+    "name": "Brant Island",
+    "city": "Ocracoke",
+    "state": "NC",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1907"
+  },
+  {
+    "name": "Campbell Island",
+    "city": "Wilmington",
+    "state": "NC",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1897"
+  },
+  {
+    "name": "Cape Fear",
+    "city": "Southport",
+    "state": "NC",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=350"
+  },
+  {
+    "name": "Cape Hatteras",
+    "city": "Buxton",
+    "state": "NC",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=356"
+  },
+  {
+    "name": "Cape Lookout",
+    "city": "Harkers Island",
+    "state": "NC",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=354"
+  },
+  {
+    "name": "Croatan",
+    "city": "Manns Harbor",
+    "state": "NC",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1908"
+  },
+  {
+    "name": "Currituck Beach",
+    "city": "Corolla",
+    "state": "NC",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=358"
+  },
+  {
+    "name": "Diamond Shoals",
+    "city": "Buxton",
+    "state": "NC",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1690"
+  },
+  {
+    "name": "Federal Point",
+    "city": "Southport",
+    "state": "NC",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1898"
+  },
+  {
+    "name": "Frying Pan Shoals",
+    "city": "Southport",
+    "state": "NC",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1632"
+  },
+  {
+    "name": "Gull Shoal",
+    "city": "Hatteras",
+    "state": "NC",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1909"
+  },
+  {
+    "name": "Harbor Island Bar",
+    "city": "Atlantic",
+    "state": "NC",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1911"
+  },
+  {
+    "name": "Hatteras Inlet",
+    "city": "Hatteras",
+    "state": "NC",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1912"
+  },
+  {
+    "name": "Horseshoe Shoal",
+    "city": "Southport",
+    "state": "NC",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1899"
+  },
+  {
+    "name": "Laurel Point",
+    "city": "Pea Ridge",
+    "state": "NC",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1913"
+  },
+  {
+    "name": "Long Point (North Landing River)",
+    "city": "Coinjock",
+    "state": "NC",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1921"
+  },
+  {
+    "name": "Long Shoal",
+    "city": "Stumpy Point",
+    "state": "NC",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1914"
+  },
+  {
+    "name": "Neuse River",
+    "city": "Whortonsville",
+    "state": "NC",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1915"
+  },
+  {
+    "name": "North River",
+    "city": "Harbinger",
+    "state": "NC",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1916"
+  },
+  {
+    "name": "Northwest Point Royal Shoal",
+    "city": "Ocracoke",
+    "state": "NC",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1917"
+  },
+  {
+    "name": "Oak Island",
+    "city": "Caswell Beach",
+    "state": "NC",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=352"
+  },
+  {
+    "name": "Oak Island Range",
+    "city": "Caswell Beach",
+    "state": "NC",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1902"
+  },
+  {
+    "name": "Ocracoke",
+    "city": "Ocracoke",
+    "state": "NC",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=355"
+  },
+  {
+    "name": "Ortons Point",
+    "city": "Wilmington",
+    "state": "NC",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1900"
+  },
+  {
+    "name": "Pamlico Point",
+    "city": "Lowland",
+    "state": "NC",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1919"
+  },
+  {
+    "name": "Prices Creek",
+    "city": "Southport",
+    "state": "NC",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=351"
+  },
+  {
+    "name": "Roanoke Marshes (Replica)",
+    "city": "Manteo",
+    "state": "NC",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=880"
+  },
+  {
+    "name": "Roanoke River",
+    "city": "Edenton",
+    "state": "NC",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=359"
+  },
+  {
+    "name": "Roanoke River (Replica)",
+    "city": "Plymouth",
+    "state": "NC",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=879"
+  },
+  {
+    "name": "Southwest Point Royal Shoal",
+    "city": "Ocracoke",
+    "state": "NC",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1918"
+  },
+  {
+    "name": "Upper Jettee",
+    "city": "Wilmington",
+    "state": "NC",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1901"
+  },
+  {
+    "name": "Wade Point",
+    "city": "Old Trap",
+    "state": "NC",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1920"
+  },
+  {
+    "name": "Ashtabula",
+    "city": "Ashtabula",
+    "state": "OH",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=287"
+  },
+  {
+    "name": "Behms (Grimm Memorial)",
+    "city": "St. Marys",
+    "state": "OH",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=911"
+  },
+  {
+    "name": "Cedar Point",
+    "city": "Sandusky",
+    "state": "OH",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=659"
+  },
+  {
+    "name": "Celina",
+    "city": "Celina",
+    "state": "OH",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=848"
+  },
+  {
+    "name": "Cleveland East Entrance",
+    "city": "Cleveland",
+    "state": "OH",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=284"
+  },
+  {
+    "name": "Cleveland Harbor East Breakwater",
+    "city": "Cleveland",
+    "state": "OH",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=283"
+  },
+  {
+    "name": "Cleveland Harbor Main Entrance",
+    "city": "Cleveland",
+    "state": "OH",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=282"
+  },
+  {
+    "name": "Conneaut West Breakwater",
+    "city": "Conneaut",
+    "state": "OH",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=288"
+  },
+  {
+    "name": "Cunningham Creek",
+    "city": "Arcole Shore Estates",
+    "state": "OH",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1984"
+  },
+  {
+    "name": "Fairport Harbor",
+    "city": "Fairport",
+    "state": "OH",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=285"
+  },
+  {
+    "name": "Fairport Harbor West Breakwater",
+    "city": "Fairport",
+    "state": "OH",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=286"
+  },
+  {
+    "name": "Green Island",
+    "city": "Put-in-Bay",
+    "state": "OH",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=275"
+  },
+  {
+    "name": "Huron Harbor",
+    "city": "Huron",
+    "state": "OH",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=279"
+  },
+  {
+    "name": "Lorain",
+    "city": "Lorain",
+    "state": "OH",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=281"
+  },
+  {
+    "name": "Manhattan Range",
+    "city": "Toledo",
+    "state": "OH",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=270"
+  },
+  {
+    "name": "Marblehead",
+    "city": "Marblehead",
+    "state": "OH",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=278"
+  },
+  {
+    "name": "Maumee Bay Straight Channel Range",
+    "city": "Toledo",
+    "state": "OH",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1988"
+  },
+  {
+    "name": "Maumee Inner Range",
+    "city": "Toledo",
+    "state": "OH",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1985"
+  },
+  {
+    "name": "Maumee Middle Range",
+    "city": "Toledo",
+    "state": "OH",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1986"
+  },
+  {
+    "name": "Maumee Outer Range",
+    "city": "Toldeo",
+    "state": "OH",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1987"
+  },
+  {
+    "name": "Northwood",
+    "city": "St. Marys",
+    "state": "OH",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=849"
+  },
+  {
+    "name": "Perry Memorial",
+    "city": "Put-in-Bay",
+    "state": "OH",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=277"
+  },
+  {
+    "name": "Port Clinton",
+    "city": "Port Clinton",
+    "state": "OH",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=274"
+  },
+  {
+    "name": "Sandusky Bay Inner Range",
+    "city": "Sandusky",
+    "state": "OH",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1990"
+  },
+  {
+    "name": "Sandusky Bay Outer Range",
+    "city": "Sandusky",
+    "state": "OH",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1991"
+  },
+  {
+    "name": "Sandusky Bay Range Beacons",
+    "city": "Sandusky",
+    "state": "OH",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1989"
+  },
+  {
+    "name": "Sandusky Harbor Breakwater",
+    "city": "Sandusky",
+    "state": "OH",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=660"
+  },
+  {
+    "name": "South Bass Island",
+    "city": "Put-in-Bay",
+    "state": "OH",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=276"
+  },
+  {
+    "name": "Toledo Harbor",
+    "city": "Toledo",
+    "state": "OH",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=272"
+  },
+  {
+    "name": "Turtle Island",
+    "city": "Toledo",
+    "state": "OH",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=271"
+  },
+  {
+    "name": "Vermilion",
+    "city": "Vermilion",
+    "state": "OH",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=280"
+  },
+  {
+    "name": "West Sister Island",
+    "city": "Put-in-Bay",
+    "state": "OH",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=273"
+  },
+  {
+    "name": "Cape Arago",
+    "city": "Charleston",
+    "state": "OR",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=129"
+  },
+  {
+    "name": "Cape Blanco",
+    "city": "Port Orford",
+    "state": "OR",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=125"
+  },
+  {
+    "name": "Cape Meares",
+    "city": "Cape Meares",
+    "state": "OR",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=134"
+  },
+  {
+    "name": "Cleft of the Rock (Cape Perpetua)",
+    "city": "Yachats",
+    "state": "OR",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=853"
+  },
+  {
+    "name": "Coquille River (Bandon)",
+    "city": "Bandon",
+    "state": "OR",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=127"
+  },
+  {
+    "name": "Desdemona Sands",
+    "city": "Astoria",
+    "state": "OR",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1784"
+  },
+  {
+    "name": "Heceta Head",
+    "city": "Florence",
+    "state": "OR",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=131"
+  },
+  {
+    "name": "Lightship Columbia WLV 604",
+    "city": "Astoria",
+    "state": "OR",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=554"
+  },
+  {
+    "name": "Point Adams",
+    "city": "Astoria",
+    "state": "OR",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1787"
+  },
+  {
+    "name": "Tillamook Rock",
+    "city": "Cannon Beach",
+    "state": "OR",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=135"
+  },
+  {
+    "name": "Umpqua River",
+    "city": "Winchester Bay",
+    "state": "OR",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=130"
+  },
+  {
+    "name": "Warrior Rock",
+    "city": "Saint Helens",
+    "state": "OR",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=136"
+  },
+  {
+    "name": "Willamette River",
+    "city": "Portland",
+    "state": "OR",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1788"
+  },
+  {
+    "name": "Yaquina Bay",
+    "city": "Newport",
+    "state": "OR",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=132"
+  },
+  {
+    "name": "Yaquina Head",
+    "city": "Newport",
+    "state": "OR",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=133"
+  },
+  {
+    "name": "Erie Land",
+    "city": "Erie",
+    "state": "PA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=289"
+  },
+  {
+    "name": "Fort Mifflin",
+    "city": "Philadelphia",
+    "state": "PA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1880"
+  },
+  {
+    "name": "Horseshoe Range West Group",
+    "city": "Philadelphia",
+    "state": "PA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1883"
+  },
+  {
+    "name": "Presque Isle",
+    "city": "Erie",
+    "state": "PA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=290"
+  },
+  {
+    "name": "Presque Isle North Pierhead",
+    "city": "Erie",
+    "state": "PA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=292"
+  },
+  {
+    "name": "Schooner Ledge Range",
+    "city": "Eddystone",
+    "state": "PA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1886"
+  },
+  {
+    "name": "Schuylkill River Range",
+    "city": "Philadelphia",
+    "state": "PA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1885"
+  },
+  {
+    "name": "Turtle Rock",
+    "city": "Philadelphia",
+    "state": "PA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=856"
+  },
+  {
+    "name": "Beavertail",
+    "city": "Jamestown",
+    "state": "RI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=403"
+  },
+  {
+    "name": "Block Island North",
+    "city": "New Shoreham",
+    "state": "RI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=40"
+  },
+  {
+    "name": "Block Island Southeast",
+    "city": "New Shoreham",
+    "state": "RI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=41"
+  },
+  {
+    "name": "Brenton Reef",
+    "city": "Narragansett",
+    "state": "RI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=2417"
+  },
+  {
+    "name": "Bristol Ferry",
+    "city": "Bristol",
+    "state": "RI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=406"
+  },
+  {
+    "name": "Bullock Point",
+    "city": "Annawomscutt",
+    "state": "RI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1963"
+  },
+  {
+    "name": "Castle Hill",
+    "city": "Newport",
+    "state": "RI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=396"
+  },
+  {
+    "name": "Conanicut Island",
+    "city": "Jamestown",
+    "state": "RI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=401"
+  },
+  {
+    "name": "Conimicut",
+    "city": "Warwick",
+    "state": "RI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=407"
+  },
+  {
+    "name": "Dutch Island",
+    "city": "Jamestown",
+    "state": "RI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=404"
+  },
+  {
+    "name": "Fuller Rock",
+    "city": "Providence",
+    "state": "RI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1964"
+  },
+  {
+    "name": "Gould Island",
+    "city": "Newport",
+    "state": "RI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1966"
+  },
+  {
+    "name": "Gull Rocks",
+    "city": "Newport",
+    "state": "RI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1967"
+  },
+  {
+    "name": "Hog Island Shoal",
+    "city": "Portsmouth",
+    "state": "RI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=405"
+  },
+  {
+    "name": "Ida Lewis Rock",
+    "city": "Newport",
+    "state": "RI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=398"
+  },
+  {
+    "name": "Musselbed Shoals",
+    "city": "Portsmouth",
+    "state": "RI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1968"
+  },
+  {
+    "name": "Nayatt Point",
+    "city": "Barrington",
+    "state": "RI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=408"
+  },
+  {
+    "name": "Newport Harbor (Goat Island)",
+    "city": "Newport",
+    "state": "RI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=399"
+  },
+  {
+    "name": "Plum Beach",
+    "city": "Jamestown",
+    "state": "RI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=402"
+  },
+  {
+    "name": "Point Judith",
+    "city": "Narragansett",
+    "state": "RI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=400"
+  },
+  {
+    "name": "Pomham Rocks",
+    "city": "East Providence",
+    "state": "RI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=683"
+  },
+  {
+    "name": "Poplar Point",
+    "city": "North Kingstown",
+    "state": "RI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=686"
+  },
+  {
+    "name": "Prudence Island",
+    "city": "Portsmouth",
+    "state": "RI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=684"
+  },
+  {
+    "name": "Rose Island",
+    "city": "Newport",
+    "state": "RI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=397"
+  },
+  {
+    "name": "Sabin Point",
+    "city": "Riverside",
+    "state": "RI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1969"
+  },
+  {
+    "name": "Sakonnet",
+    "city": "Little Compton",
+    "state": "RI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=687"
+  },
+  {
+    "name": "Sassafras Point",
+    "city": "Providence",
+    "state": "RI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1965"
+  },
+  {
+    "name": "Warwick",
+    "city": "Warwick",
+    "state": "RI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=685"
+  },
+  {
+    "name": "Watch Hill",
+    "city": "Westerly",
+    "state": "RI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=688"
+  },
+  {
+    "name": "Whale Rock",
+    "city": "Narragansett",
+    "state": "RI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1970"
+  },
+  {
+    "name": "Wickford Harbor",
+    "city": "Wickford",
+    "state": "RI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1971"
+  },
+  {
+    "name": "Bay Point",
+    "city": "Port Royal",
+    "state": "SC",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1857"
+  },
+  {
+    "name": "Bloody Point Front Range",
+    "city": "Daufuskie Island",
+    "state": "SC",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=654"
+  },
+  {
+    "name": "Bull Bay",
+    "city": "Awendaw",
+    "state": "SC",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1858"
+  },
+  {
+    "name": "Cape Romain",
+    "city": "McClellanville",
+    "state": "SC",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=335"
+  },
+  {
+    "name": "Castle Pinckney",
+    "city": "Charleston",
+    "state": "SC",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1859"
+  },
+  {
+    "name": "Charleston (Sullivans Island)",
+    "city": "Sullivans Island",
+    "state": "SC",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=334"
+  },
+  {
+    "name": "Combahee Bank",
+    "city": "Edisto Beach",
+    "state": "SC",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1860"
+  },
+  {
+    "name": "Daufuskie Island (Haig Point)",
+    "city": "Daufuskie Island",
+    "state": "SC",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=653"
+  },
+  {
+    "name": "Fort Ripley Shoal",
+    "city": "Charleston",
+    "state": "SC",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1861"
+  },
+  {
+    "name": "Fort Sumter Range",
+    "city": "Charleston",
+    "state": "SC",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1770"
+  },
+  {
+    "name": "Georgetown",
+    "city": "Georgetown",
+    "state": "SC",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=336"
+  },
+  {
+    "name": "Harbour Town",
+    "city": "Hilton Head Island",
+    "state": "SC",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=330"
+  },
+  {
+    "name": "Hilton Head Rear Range",
+    "city": "Hilton Head Island",
+    "state": "SC",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=331"
+  },
+  {
+    "name": "Hunting Island",
+    "city": "St. Helena Island",
+    "state": "SC",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=332"
+  },
+  {
+    "name": "Morris Island",
+    "city": "Folly Beach",
+    "state": "SC",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=333"
+  },
+  {
+    "name": "Parris Island",
+    "city": "Beaufort",
+    "state": "SC",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=868"
+  },
+  {
+    "name": "Venus Point",
+    "city": "Savannah",
+    "state": "SC",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1862"
+  },
+  {
+    "name": "Aransas Pass (Lydia Ann)",
+    "city": "Port Aransas",
+    "state": "TX",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=158"
+  },
+  {
+    "name": "Bolivar Point",
+    "city": "Port Bolivar",
+    "state": "TX",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=152"
+  },
+  {
+    "name": "Brazos River",
+    "city": "Angleton",
+    "state": "TX",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1791"
+  },
+  {
+    "name": "Brazos Santiago",
+    "city": "Port Isabel",
+    "state": "TX",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1792"
+  },
+  {
+    "name": "Cloppers Bar",
+    "city": "Houston",
+    "state": "TX",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1797"
+  },
+  {
+    "name": "Corpus Christi",
+    "city": "Corpus Christi",
+    "state": "TX",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1849"
+  },
+  {
+    "name": "East Shoal",
+    "city": "Port O'Connor",
+    "state": "TX",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1798"
+  },
+  {
+    "name": "Fort Point (Galveston Harbor)",
+    "city": "Galveston",
+    "state": "TX",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1793"
+  },
+  {
+    "name": "Galveston Jetty",
+    "city": "Galveston",
+    "state": "TX",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=154"
+  },
+  {
+    "name": "Halfmoon Reef",
+    "city": "Port Lavaca",
+    "state": "TX",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=155"
+  },
+  {
+    "name": "Halfmoon Shoal",
+    "city": "Texas City",
+    "state": "TX",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1796"
+  },
+  {
+    "name": "Matagorda Island",
+    "city": "Port O'Connor",
+    "state": "TX",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=156"
+  },
+  {
+    "name": "Port Isabel",
+    "city": "Port Isabel",
+    "state": "TX",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=159"
+  },
+  {
+    "name": "Red Fish Bar",
+    "city": "Galveston",
+    "state": "TX",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1794"
+  },
+  {
+    "name": "Red Fish Bar Cut",
+    "city": "Galveston",
+    "state": "TX",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1795"
+  },
+  {
+    "name": "Sabine Bank",
+    "city": "Port Arthur",
+    "state": "TX",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=150"
+  },
+  {
+    "name": "Saluria",
+    "city": "Port O'Connor",
+    "state": "TX",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1800"
+  },
+  {
+    "name": "Swash",
+    "city": "Port O'Connor",
+    "state": "TX",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1801"
+  },
+  {
+    "name": "West Shoal",
+    "city": "Port O'Connor",
+    "state": "TX",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1799"
+  },
+  {
+    "name": "Burlington Breakwater North",
+    "city": "Burlington",
+    "state": "VT",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=873"
+  },
+  {
+    "name": "Burlington Breakwater South",
+    "city": "Burlington",
+    "state": "VT",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=874"
+  },
+  {
+    "name": "Colchester Reef",
+    "city": "Shelburne",
+    "state": "VT",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=671"
+  },
+  {
+    "name": "Isle La Motte",
+    "city": "Isle La Motte",
+    "state": "VT",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=669"
+  },
+  {
+    "name": "Juniper Island",
+    "city": "Burlington",
+    "state": "VT",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=670"
+  },
+  {
+    "name": "Maxfield Point",
+    "city": "Newport",
+    "state": "VT",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=2348"
+  },
+  {
+    "name": "Whipple Point",
+    "city": "Newport",
+    "state": "VT",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=2349"
+  },
+  {
+    "name": "Windmill Point",
+    "city": "Alburg",
+    "state": "VT",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=668"
+  },
+  {
+    "name": "Assateague",
+    "city": "Chincoteague",
+    "state": "VA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=451"
+  },
+  {
+    "name": "Back River",
+    "city": "Hampton",
+    "state": "VA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1922"
+  },
+  {
+    "name": "Bells Rock",
+    "city": "Belleview",
+    "state": "VA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1923"
+  },
+  {
+    "name": "Bowlers Rock",
+    "city": "Wildwood Beach",
+    "state": "VA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1924"
+  },
+  {
+    "name": "Cape Charles",
+    "city": "Cape Charles",
+    "state": "VA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=450"
+  },
+  {
+    "name": "Cape Henry (New)",
+    "city": "Virginia Beach",
+    "state": "VA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=449"
+  },
+  {
+    "name": "Cape Henry (Old)",
+    "city": "Virginia Beach",
+    "state": "VA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=448"
+  },
+  {
+    "name": "Cherrystone",
+    "city": "Cape Charles",
+    "state": "VA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1925"
+  },
+  {
+    "name": "Chesapeake",
+    "city": "Virginia Beach",
+    "state": "VA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1691"
+  },
+  {
+    "name": "Craney Island",
+    "city": "Norfolk",
+    "state": "VA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1926"
+  },
+  {
+    "name": "Deep Water Shoals",
+    "city": "Newport News",
+    "state": "VA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1927"
+  },
+  {
+    "name": "Dutch Gap Canal",
+    "city": "Chester",
+    "state": "VA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1928"
+  },
+  {
+    "name": "Great Wicomico River",
+    "city": "Fleeton",
+    "state": "VA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1929"
+  },
+  {
+    "name": "Hog Island",
+    "city": "Machipongo",
+    "state": "VA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1894"
+  },
+  {
+    "name": "Jones Point",
+    "city": "Alexandria",
+    "state": "VA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=439"
+  },
+  {
+    "name": "Jordan Point",
+    "city": "Jordan Point",
+    "state": "VA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1930"
+  },
+  {
+    "name": "Killick Shoal",
+    "city": "Chincoteague",
+    "state": "VA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1895"
+  },
+  {
+    "name": "Lambert Point",
+    "city": "Norfolk",
+    "state": "VA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1931"
+  },
+  {
+    "name": "Lightship Portsmouth LV 101/WAL 524",
+    "city": "Portsmouth",
+    "state": "VA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=447"
+  },
+  {
+    "name": "Nansemond River",
+    "city": "Portsmouth",
+    "state": "VA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1932"
+  },
+  {
+    "name": "New Point Comfort",
+    "city": "Bavon",
+    "state": "VA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=442"
+  },
+  {
+    "name": "Newport News Middle Ground",
+    "city": "Newport News",
+    "state": "VA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=446"
+  },
+  {
+    "name": "Old Plantation Flats (Replica)",
+    "city": "Cape Charles",
+    "state": "VA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1692"
+  },
+  {
+    "name": "Old Point Comfort",
+    "city": "Hampton",
+    "state": "VA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=444"
+  },
+  {
+    "name": "Pages Rock",
+    "city": "York Terrace",
+    "state": "VA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1933"
+  },
+  {
+    "name": "Point of Shoals",
+    "city": "Rushmere",
+    "state": "VA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1934"
+  },
+  {
+    "name": "Pungoteague",
+    "city": "Pungoteague",
+    "state": "VA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1896"
+  },
+  {
+    "name": "Smith Point",
+    "city": "Sunnybank",
+    "state": "VA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=440"
+  },
+  {
+    "name": "Stingray Point (Replica)",
+    "city": "Deltaville",
+    "state": "VA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1693"
+  },
+  {
+    "name": "Tangier Sound",
+    "city": "Tangier",
+    "state": "VA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1935"
+  },
+  {
+    "name": "Thimble Shoal",
+    "city": "Hampton",
+    "state": "VA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=443"
+  },
+  {
+    "name": "Tue Marshes",
+    "city": "Seaford",
+    "state": "VA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1936"
+  },
+  {
+    "name": "Watts Island",
+    "city": "Tangier",
+    "state": "VA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1937"
+  },
+  {
+    "name": "White Shoal",
+    "city": "Newport News",
+    "state": "VA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1938"
+  },
+  {
+    "name": "Windmill Point",
+    "city": "Westland",
+    "state": "VA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1939"
+  },
+  {
+    "name": "Wolf Trap",
+    "city": "Onemo",
+    "state": "VA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=441"
+  },
+  {
+    "name": "York Spit",
+    "city": "Seaford",
+    "state": "VA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1940"
+  },
+  {
+    "name": "Admiralty Head",
+    "city": "Coupeville",
+    "state": "WA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=31"
+  },
+  {
+    "name": "Alki Point",
+    "city": "Seattle",
+    "state": "WA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=112"
+  },
+  {
+    "name": "Browns Point",
+    "city": "Tacoma",
+    "state": "WA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=121"
+  },
+  {
+    "name": "Burrows Island",
+    "city": "Anacortes",
+    "state": "WA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=107"
+  },
+  {
+    "name": "Bush Point",
+    "city": "Freeland",
+    "state": "WA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=860"
+  },
+  {
+    "name": "Cape Disappointment",
+    "city": "Ilwaco",
+    "state": "WA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=115"
+  },
+  {
+    "name": "Cape Flattery",
+    "city": "Neah Bay",
+    "state": "WA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=120"
+  },
+  {
+    "name": "Cattle Point",
+    "city": "Friday Harbor",
+    "state": "WA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=106"
+  },
+  {
+    "name": "Destruction Island",
+    "city": "Forks",
+    "state": "WA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=118"
+  },
+  {
+    "name": "Dofflemyer Point",
+    "city": "Olympia",
+    "state": "WA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=122"
+  },
+  {
+    "name": "Ediz Hook",
+    "city": "Port Angeles",
+    "state": "WA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=147"
+  },
+  {
+    "name": "Gig Harbor",
+    "city": "Gig Harbor",
+    "state": "WA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=857"
+  },
+  {
+    "name": "Grays Harbor (Westport)",
+    "city": "Westport",
+    "state": "WA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=117"
+  },
+  {
+    "name": "Lightship Swiftsure LV 83/WAL 508",
+    "city": "Seattle",
+    "state": "WA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=185"
+  },
+  {
+    "name": "Lime Kiln",
+    "city": "Friday Harbor",
+    "state": "WA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=105"
+  },
+  {
+    "name": "Marrowstone Point",
+    "city": "Nordland",
+    "state": "WA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=109"
+  },
+  {
+    "name": "Mukilteo",
+    "city": "Mukilteo",
+    "state": "WA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=32"
+  },
+  {
+    "name": "New Dungeness",
+    "city": "Sequim",
+    "state": "WA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=34"
+  },
+  {
+    "name": "North Head",
+    "city": "Ilwaco",
+    "state": "WA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=116"
+  },
+  {
+    "name": "Patos Island",
+    "city": "Eastsound",
+    "state": "WA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=103"
+  },
+  {
+    "name": "Point No Point",
+    "city": "Hansville",
+    "state": "WA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=110"
+  },
+  {
+    "name": "Point Robinson",
+    "city": "Vashon",
+    "state": "WA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=113"
+  },
+  {
+    "name": "Point Wilson",
+    "city": "Port Townsend",
+    "state": "WA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=108"
+  },
+  {
+    "name": "Semiahmoo",
+    "city": "Blaine",
+    "state": "WA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1783"
+  },
+  {
+    "name": "Skunk Bay",
+    "city": "Hansville",
+    "state": "WA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=111"
+  },
+  {
+    "name": "Slip Point",
+    "city": "Port Angeles",
+    "state": "WA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=124"
+  },
+  {
+    "name": "Smith Island",
+    "city": "Oak Harbor",
+    "state": "WA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1785"
+  },
+  {
+    "name": "Turn Point",
+    "city": "Friday Harbor",
+    "state": "WA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=104"
+  },
+  {
+    "name": "West Point",
+    "city": "Seattle",
+    "state": "WA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=33"
+  },
+  {
+    "name": "Willapa Bay",
+    "city": "North Cove",
+    "state": "WA",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1786"
+  },
+  {
+    "name": "Algoma Pierhead",
+    "city": "Algoma",
+    "state": "WI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=254"
+  },
+  {
+    "name": "Ashland Breakwater",
+    "city": "Ashland",
+    "state": "WI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=261"
+  },
+  {
+    "name": "Asylum Point",
+    "city": "Oshkosh",
+    "state": "WI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=576"
+  },
+  {
+    "name": "Baileys Harbor",
+    "city": "Baileys Harbor",
+    "state": "WI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=258"
+  },
+  {
+    "name": "Baileys Harbor Range Lights",
+    "city": "Baileys Harbor",
+    "state": "WI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=257"
+  },
+  {
+    "name": "Boyer Bluff",
+    "city": "Washington",
+    "state": "WI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=835"
+  },
+  {
+    "name": "Brays Point (Rockwell)",
+    "city": "Oshkosh",
+    "state": "WI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=577"
+  },
+  {
+    "name": "Calumet Harbor",
+    "city": "Malone",
+    "state": "WI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=579"
+  },
+  {
+    "name": "Cana Island",
+    "city": "Baileys Harbor",
+    "state": "WI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=259"
+  },
+  {
+    "name": "Chambers Island",
+    "city": "Fish Creek",
+    "state": "WI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=638"
+  },
+  {
+    "name": "Chequamegon Point",
+    "city": "Washburn",
+    "state": "WI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=695"
+  },
+  {
+    "name": "Devils Island",
+    "city": "Bayfield",
+    "state": "WI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=691"
+  },
+  {
+    "name": "Dunlap Reef Rear Range",
+    "city": "Sturgeon Bay",
+    "state": "WI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=637"
+  },
+  {
+    "name": "Eagle Bluff",
+    "city": "Ephraim",
+    "state": "WI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=260"
+  },
+  {
+    "name": "Fishermans Road",
+    "city": "Fond du Lac",
+    "state": "WI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=863"
+  },
+  {
+    "name": "Fond du Lac",
+    "city": "Fond du Lac",
+    "state": "WI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=578"
+  },
+  {
+    "name": "Grassy Island Range",
+    "city": "Green Bay",
+    "state": "WI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=556"
+  },
+  {
+    "name": "Green Bay Harbor Entrance",
+    "city": "Green Bay",
+    "state": "WI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=635"
+  },
+  {
+    "name": "Green Island",
+    "city": "Menominee",
+    "state": "WI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=632"
+  },
+  {
+    "name": "Gull Island",
+    "city": "Bayfield",
+    "state": "WI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=855"
+  },
+  {
+    "name": "Kenosha",
+    "city": "Kenosha",
+    "state": "WI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=240"
+  },
+  {
+    "name": "Kenosha Pierhead",
+    "city": "Kenosha",
+    "state": "WI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=239"
+  },
+  {
+    "name": "Kevich",
+    "city": "Grafton",
+    "state": "WI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=642"
+  },
+  {
+    "name": "Kewaunee Pierhead",
+    "city": "Kewaunee",
+    "state": "WI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=253"
+  },
+  {
+    "name": "LaPointe",
+    "city": "Washburn",
+    "state": "WI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=696"
+  },
+  {
+    "name": "Long Tail Point",
+    "city": "Green Bay",
+    "state": "WI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=634"
+  },
+  {
+    "name": "Manitowoc Breakwater",
+    "city": "Manitowoc",
+    "state": "WI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=250"
+  },
+  {
+    "name": "Menasha",
+    "city": "Menasha",
+    "state": "WI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1992"
+  },
+  {
+    "name": "Michigan Island (New)",
+    "city": "Bayfield",
+    "state": "WI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=694"
+  },
+  {
+    "name": "Michigan Island (Old)",
+    "city": "Bayfield",
+    "state": "WI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=693"
+  },
+  {
+    "name": "Milwaukee Breakwater",
+    "city": "Milwaukee",
+    "state": "WI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=243"
+  },
+  {
+    "name": "Milwaukee Pierhead",
+    "city": "Milwaukee",
+    "state": "WI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=244"
+  },
+  {
+    "name": "Neenah (Kimberly Point)",
+    "city": "Neenah",
+    "state": "WI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=575"
+  },
+  {
+    "name": "North Point",
+    "city": "Milwaukee",
+    "state": "WI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=245"
+  },
+  {
+    "name": "Outer Island",
+    "city": "Bayfield",
+    "state": "WI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=692"
+  },
+  {
+    "name": "Peshtigo Reef",
+    "city": "Peshtigo",
+    "state": "WI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=633"
+  },
+  {
+    "name": "Pilot Island",
+    "city": "Ellison Bay",
+    "state": "WI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=640"
+  },
+  {
+    "name": "Plum Island Rear Range",
+    "city": "Washington",
+    "state": "WI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=641"
+  },
+  {
+    "name": "Port Washington",
+    "city": "Port Washington",
+    "state": "WI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=247"
+  },
+  {
+    "name": "Port Washington Breakwater",
+    "city": "Port Washington",
+    "state": "WI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=248"
+  },
+  {
+    "name": "Pottawatomie (Rock Island)",
+    "city": "Washington",
+    "state": "WI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=639"
+  },
+  {
+    "name": "Racine Breakwater",
+    "city": "Racine",
+    "state": "WI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=241"
+  },
+  {
+    "name": "Racine Harbor (Root River)",
+    "city": "Racine",
+    "state": "WI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=643"
+  },
+  {
+    "name": "Racine Reef",
+    "city": "Racine",
+    "state": "WI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=1607"
+  },
+  {
+    "name": "Raspberry Island",
+    "city": "Bayfield",
+    "state": "WI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=690"
+  },
+  {
+    "name": "Rawley Point (Twin River)",
+    "city": "Two Rivers",
+    "state": "WI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=252"
+  },
+  {
+    "name": "Sand Island",
+    "city": "Bayfield",
+    "state": "WI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=689"
+  },
+  {
+    "name": "Sheboygan Breakwater",
+    "city": "Sheboygan",
+    "state": "WI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=249"
+  },
+  {
+    "name": "Sherwood Point",
+    "city": "Sturgeon Bay",
+    "state": "WI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=636"
+  },
+  {
+    "name": "Sturgeon Bay Ship Canal",
+    "city": "Sturgeon Bay",
+    "state": "WI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=255"
+  },
+  {
+    "name": "Sturgeon Bay Ship Canal Pierhead",
+    "city": "Sturgeon Bay",
+    "state": "WI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=256"
+  },
+  {
+    "name": "Superior Entry Breakwater",
+    "city": "Superior",
+    "state": "WI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=262"
+  },
+  {
+    "name": "Two Rivers",
+    "city": "Two Rivers",
+    "state": "WI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=251"
+  },
+  {
+    "name": "Wind Point",
+    "city": "Wind Point",
+    "state": "WI",
+    "url": "https://www.lighthousefriends.com/light.asp?ID=242"
+  }
+]

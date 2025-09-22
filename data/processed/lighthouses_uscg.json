@@ -1,0 +1,4970 @@
+[
+  {
+    "name": "Abagadasset Point Range Light",
+    "location": "ME"
+  },
+  {
+    "name": "Absecon Light",
+    "location": "NJ"
+  },
+  {
+    "name": "Admiralty Head Light",
+    "location": "WA"
+  },
+  {
+    "name": "Aguadilla Light",
+    "location": "PR"
+  },
+  {
+    "name": "Ahukini Breakwater",
+    "location": "HI"
+  },
+  {
+    "name": "Alactraz Light",
+    "location": "CA"
+  },
+  {
+    "name": "Alia Point",
+    "location": "HI"
+  },
+  {
+    "name": "Algoma Light",
+    "location": "WI"
+  },
+  {
+    "name": "Alki Point Light Station",
+    "location": "WA"
+  },
+  {
+    "name": "Alligator Reef",
+    "location": "FL"
+  },
+  {
+    "name": "Alpena Light",
+    "location": "MI"
+  },
+  {
+    "name": "Althorp Rock",
+    "location": "AK"
+  },
+  {
+    "name": "Ambrose Tower Light",
+    "location": "NY"
+  },
+  {
+    "name": "Amelia Island Light",
+    "location": "FL"
+  },
+  {
+    "name": "American Shoal Light",
+    "location": "FL"
+  },
+  {
+    "name": "Amite River",
+    "location": "LA"
+  },
+  {
+    "name": "Anacapa Island Light",
+    "location": "CA"
+  },
+  {
+    "name": "Anacortes Light",
+    "location": "WA"
+  },
+  {
+    "name": "Anastasia Island Light",
+    "location": "FL"
+  },
+  {
+    "name": "Anchor Point",
+    "location": "AK"
+  },
+  {
+    "name": "Anclote Key Light",
+    "location": "FL"
+  },
+  {
+    "name": "Angel Island Light",
+    "location": "CA"
+  },
+  {
+    "name": "Angle Point",
+    "location": "AK"
+  },
+  {
+    "name": "Annisquam Harbor Light",
+    "location": "MA"
+  },
+  {
+    "name": "Ano Nuevo",
+    "location": "CA"
+  },
+  {
+    "name": "Apalachicola Light",
+    "location": "FL"
+  },
+  {
+    "name": "Apostle Islands Light",
+    "location": "WI"
+  },
+  {
+    "name": "Aransas Pass Light",
+    "location": "TX"
+  },
+  {
+    "name": "Arecibo Light",
+    "location": "PR"
+  },
+  {
+    "name": "Arlington Cut Range Light",
+    "location": "FL"
+  },
+  {
+    "name": "Arnold Point Range Light",
+    "location": "MD"
+  },
+  {
+    "name": "Ashcroft Light",
+    "location": "OH"
+  },
+  {
+    "name": "Ashland Breakwater Light",
+    "location": "WI"
+  },
+  {
+    "name": "Ashtabula Harbor Light",
+    "location": "OH"
+  },
+  {
+    "name": "Assateague Island Light",
+    "location": "VA"
+  },
+  {
+    "name": "Asusak Island Light Atchafalaya",
+    "location": "LA"
+  },
+  {
+    "name": "Atlantic Highlands Breakwater Light",
+    "location": "NJ"
+  },
+  {
+    "name": "Aunt Phebe Rock Light",
+    "location": "NY"
+  },
+  {
+    "name": "Au Sable Light",
+    "location": "MI"
+  },
+  {
+    "name": "Avery Point Light",
+    "location": "CT"
+  },
+  {
+    "name": "Avery Rock Light",
+    "location": "ME"
+  },
+  {
+    "name": "Back River Light",
+    "location": "VA"
+  },
+  {
+    "name": "Baily Creek Flats",
+    "location": "VA"
+  },
+  {
+    "name": "Baileys Harbor Light",
+    "location": "WI"
+  },
+  {
+    "name": "Baker Shoal Range",
+    "location": "DE"
+  },
+  {
+    "name": "Bakers Island Light",
+    "location": "MA"
+  },
+  {
+    "name": "Bakers Island Light",
+    "location": "ME"
+  },
+  {
+    "name": "Bald Head Light",
+    "location": "NC"
+  },
+  {
+    "name": "Baliz",
+    "location": "LA"
+  },
+  {
+    "name": "Ballast Point",
+    "location": "CA"
+  },
+  {
+    "name": "Baltimore Light",
+    "location": "MD"
+  },
+  {
+    "name": "Baranofs Castle",
+    "location": "AK"
+  },
+  {
+    "name": "Barataria Bay",
+    "location": "LA"
+  },
+  {
+    "name": "Barbers Point Light",
+    "location": "HI"
+  },
+  {
+    "name": "Barnegat Light",
+    "location": "NJ"
+  },
+  {
+    "name": "Bass Harbor Light",
+    "location": "ME"
+  },
+  {
+    "name": "Bass River",
+    "location": "MA"
+  },
+  {
+    "name": "Battery Gladden",
+    "location": "AL"
+  },
+  {
+    "name": "Battery Point",
+    "location": "CA"
+  },
+  {
+    "name": "Bay Furnace Light",
+    "location": "MI"
+  },
+  {
+    "name": "Bayfield Light",
+    "location": "WI"
+  },
+  {
+    "name": "Bayou Andre Light",
+    "location": "LA"
+  },
+  {
+    "name": "Bayou Bonfouca",
+    "location": "LA"
+  },
+  {
+    "name": "Bayou Rigolettes",
+    "location": "LA"
+  },
+  {
+    "name": "Bayou St. John",
+    "location": "LA"
+  },
+  {
+    "name": "Bear Island Light",
+    "location": "ME"
+  },
+  {
+    "name": "Beaver Head Light",
+    "location": "IL"
+  },
+  {
+    "name": "Beaver Island Light",
+    "location": "MI"
+  },
+  {
+    "name": "Beavertail Light",
+    "location": "RI"
+  },
+  {
+    "name": "Belhaven",
+    "location": "NC"
+  },
+  {
+    "name": "Belle Isle Light",
+    "location": "MI"
+  },
+  {
+    "name": "Bellevue Range Rear Light",
+    "location": "DE"
+  },
+  {
+    "name": "Bells Rock Light",
+    "location": "VA"
+  },
+  {
+    "name": "Bergen Point Light",
+    "location": "NJ"
+  },
+  {
+    "name": "Big Bay Point Light",
+    "location": "MI"
+  },
+  {
+    "name": "Big Sable Light",
+    "location": "MI"
+  },
+  {
+    "name": "Billingsgate Light",
+    "location": "MA"
+  },
+  {
+    "name": "Biloxi Light",
+    "location": "MS"
+  },
+  {
+    "name": "Bird Island Light",
+    "location": "MA"
+  },
+  {
+    "name": "Bishop & Clerks Light",
+    "location": "MA"
+  },
+  {
+    "name": "Black Rock Light",
+    "location": "RI"
+  },
+  {
+    "name": "Blakistone Island Light",
+    "location": "MD"
+  },
+  {
+    "name": "Bligh Reef Light",
+    "location": "AK"
+  },
+  {
+    "name": "Block Island Light",
+    "location": "RI"
+  },
+  {
+    "name": "Block Island North Light",
+    "location": "RI"
+  },
+  {
+    "name": "Block Island Southeast Light",
+    "location": "RI"
+  },
+  {
+    "name": "Bloody Point Bar Light",
+    "location": "MD"
+  },
+  {
+    "name": "Bloody Point Range Light",
+    "location": "SC"
+  },
+  {
+    "name": "Blue Hill Bay Light",
+    "location": "ME"
+  },
+  {
+    "name": "Bluff Point Light",
+    "location": "NY"
+  },
+  {
+    "name": "Bluff Shoal Light",
+    "location": "NC"
+  },
+  {
+    "name": "Boca Grande Rear Range",
+    "location": "FL"
+  },
+  {
+    "name": "Bodie Island",
+    "location": "NC"
+  },
+  {
+    "name": "Bois Blanc Light",
+    "location": "MI"
+  },
+  {
+    "name": "Boliver Point Light",
+    "location": "TX"
+  },
+  {
+    "name": "Bodkin Rock Light",
+    "location": "CT"
+  },
+  {
+    "name": "Bonfouca Light",
+    "location": "LA"
+  },
+  {
+    "name": "Boon Island",
+    "location": "ME"
+  },
+  {
+    "name": "Boothbay Harbor",
+    "location": "ME"
+  },
+  {
+    "name": "Borden Flats Light",
+    "location": "MA"
+  },
+  {
+    "name": "Boston Light",
+    "location": "MA"
+  },
+  {
+    "name": "Braddock Point Light",
+    "location": "NY"
+  },
+  {
+    "name": "Brandywine Shoal Light",
+    "location": "DE"
+  },
+  {
+    "name": "Brant Island Shoal Light",
+    "location": "NC"
+  },
+  {
+    "name": "Brant Point Light",
+    "location": "MA"
+  },
+  {
+    "name": "Brazos River",
+    "location": "TX"
+  },
+  {
+    "name": "Brazos Santiago Light",
+    "location": "TX"
+  },
+  {
+    "name": "Breakers Point Light",
+    "location": "HI"
+  },
+  {
+    "name": "Brenton Reef Offshore Light",
+    "location": "RI"
+  },
+  {
+    "name": "Brewerton Channel Range Light",
+    "location": "VA"
+  },
+  {
+    "name": "Bridgeport Breakwater Light",
+    "location": "CT"
+  },
+  {
+    "name": "Bridgeport Harbor Light",
+    "location": "CT"
+  },
+  {
+    "name": "Bristol Ferry Light",
+    "location": "RI"
+  },
+  {
+    "name": "Browns Head Light",
+    "location": "ME"
+  },
+  {
+    "name": "Browns Head Light",
+    "location": "ME"
+  },
+  {
+    "name": "Bryant Point Light",
+    "location": "MA"
+  },
+  {
+    "name": "Buck Island Light",
+    "location": "VI"
+  },
+  {
+    "name": "Buffalo Light",
+    "location": "NY"
+  },
+  {
+    "name": "Bullocks Point Light",
+    "location": "RI"
+  },
+  {
+    "name": "Burlington Bank",
+    "location": "NJ"
+  },
+  {
+    "name": "Burlington Light",
+    "location": "VT"
+  },
+  {
+    "name": "Burnt Coat Harbor Light",
+    "location": "ME"
+  },
+  {
+    "name": "Burnt Island Light",
+    "location": "ME"
+  },
+  {
+    "name": "Burrows Island Light",
+    "location": "WA"
+  },
+  {
+    "name": "Busby Island Light",
+    "location": "AK"
+  },
+  {
+    "name": "Butler Flats Light",
+    "location": "MA"
+  },
+  {
+    "name": "Buzzards Bay Light",
+    "location": "MA"
+  },
+  {
+    "name": "Cabeza de San Juan",
+    "location": "PR"
+  },
+  {
+    "name": "Cabo Rojo",
+    "location": "PR"
+  },
+  {
+    "name": "Cabo San Juan",
+    "location": "PR"
+  },
+  {
+    "name": "Cabras Island Light",
+    "location": "PR"
+  },
+  {
+    "name": "Calcasieu River",
+    "location": "LA"
+  },
+  {
+    "name": "Calumet Harbor",
+    "location": "IL"
+  },
+  {
+    "name": "Cana Island",
+    "location": "WI"
+  },
+  {
+    "name": "Canton Island Boat Channel Light",
+    "location": "Kiribati"
+  },
+  {
+    "name": "Canton Island",
+    "location": "Phoenix Islands"
+  },
+  {
+    "name": "Cape Ann",
+    "location": "MA"
+  },
+  {
+    "name": "Cape Arago Light",
+    "location": "OR"
+  },
+  {
+    "name": "Cape Blanco Light",
+    "location": "OR"
+  },
+  {
+    "name": "Cape Canaveral",
+    "location": "FL"
+  },
+  {
+    "name": "Cape Chacon",
+    "location": "AK"
+  },
+  {
+    "name": "Cape Cod Canal",
+    "location": "MA"
+  },
+  {
+    "name": "Cape Cod Light",
+    "location": "MA"
+  },
+  {
+    "name": "Cape Decision",
+    "location": "AK"
+  },
+  {
+    "name": "Cape Disappointment",
+    "location": "WA"
+  },
+  {
+    "name": "Cape Edgecombe",
+    "location": "AK"
+  },
+  {
+    "name": "Cape Elizabeth",
+    "location": "ME"
+  },
+  {
+    "name": "Cape Espenberg",
+    "location": "AK"
+  },
+  {
+    "name": "Cape Fear",
+    "location": "NC"
+  },
+  {
+    "name": "Cape Flattery",
+    "location": "WA"
+  },
+  {
+    "name": "Cape Florida",
+    "location": "FL"
+  },
+  {
+    "name": "Cape Hatteras",
+    "location": "NC"
+  },
+  {
+    "name": "Cape Hanamanioa",
+    "location": "HI"
+  },
+  {
+    "name": "Cape Henlopen",
+    "location": "DE"
+  },
+  {
+    "name": "Cape Henry",
+    "location": "WA"
+  },
+  {
+    "name": "Cape Hinchinbrook",
+    "location": "AL"
+  },
+  {
+    "name": "Cape Horn Lights",
+    "location": "?"
+  },
+  {
+    "name": "Cape Kumukahi",
+    "location": "HI"
+  },
+  {
+    "name": "Cape Lookout",
+    "location": "NC"
+  },
+  {
+    "name": "Cape Lynch Light",
+    "location": "AK"
+  },
+  {
+    "name": "Cape Mala",
+    "location": "CZ"
+  },
+  {
+    "name": "Cape May",
+    "location": "NJ"
+  },
+  {
+    "name": "Cape Mendocino",
+    "location": "CA"
+  },
+  {
+    "name": "Cape Neddick",
+    "location": "ME"
+  },
+  {
+    "name": "Cape Meares",
+    "location": "OR"
+  },
+  {
+    "name": "Cape Pogue",
+    "location": "MA"
+  },
+  {
+    "name": "Cape Rojo",
+    "location": "PR"
+  },
+  {
+    "name": "Cape Romain",
+    "location": "SC"
+  },
+  {
+    "name": "Cape Romano",
+    "location": "FL"
+  },
+  {
+    "name": "Cape St. Elias",
+    "location": "AK"
+  },
+  {
+    "name": "Cape St. George",
+    "location": "FL"
+  },
+  {
+    "name": "Cape San Blas",
+    "location": "FL"
+  },
+  {
+    "name": "Cape San Juan",
+    "location": "PR"
+  },
+  {
+    "name": "Cape Sarichef",
+    "location": "AK"
+  },
+  {
+    "name": "Cape Spartel",
+    "location": "Morocco"
+  },
+  {
+    "name": "Cape Spencer",
+    "location": "AK"
+  },
+  {
+    "name": "Cape Vincent",
+    "location": "NY"
+  },
+  {
+    "name": "Cardona Island",
+    "location": "PR"
+  },
+  {
+    "name": "Carleton Island",
+    "location": "NY"
+  },
+  {
+    "name": "Carquinez Strait",
+    "location": "CA"
+  },
+  {
+    "name": "Carrabelle",
+    "location": "FL"
+  },
+  {
+    "name": "Carysfort Reef",
+    "location": "FL"
+  },
+  {
+    "name": "Castle Hill",
+    "location": "RI"
+  },
+  {
+    "name": "Castle Rocks",
+    "location": "MA"
+  },
+  {
+    "name": "Cat Island",
+    "location": "MS"
+  },
+  {
+    "name": "Cattle Point",
+    "location": "WA"
+  },
+  {
+    "name": "Cedar Keys",
+    "location": "FL"
+  },
+  {
+    "name": "Cedar Point",
+    "location": "MI"
+  },
+  {
+    "name": "Chambers Island",
+    "location": "WI"
+  },
+  {
+    "name": "Chandeleur",
+    "location": "LA"
+  },
+  {
+    "name": "Channel Island Light",
+    "location": "?"
+  },
+  {
+    "name": "Chapel Hill",
+    "location": "NJ"
+  },
+  {
+    "name": "Chapin Island Range",
+    "location": "AK"
+  },
+  {
+    "name": "Charleston",
+    "location": "SC"
+  },
+  {
+    "name": "Charlevoix",
+    "location": "MI"
+  },
+  {
+    "name": "Charlotte Amalie",
+    "location": "VI"
+  },
+  {
+    "name": "Charlotte Harbor",
+    "location": "FL"
+  },
+  {
+    "name": "Chatham Light",
+    "location": "MA"
+  },
+  {
+    "name": "Cheboygan River",
+    "location": "MI"
+  },
+  {
+    "name": "Chefuncte River",
+    "location": "see Tchefuncte"
+  },
+  {
+    "name": "Cherry Island",
+    "location": "DE"
+  },
+  {
+    "name": "Chesapeake",
+    "location": "VA"
+  },
+  {
+    "name": "Chesapeake & Delaware Canal",
+    "location": "MD/DE"
+  },
+  {
+    "name": "Chester Range",
+    "location": "PA"
+  },
+  {
+    "name": "Chetco River Light",
+    "location": "OR"
+  },
+  {
+    "name": "Chicago Harbor",
+    "location": "IL"
+  },
+  {
+    "name": "Choctaw Point",
+    "location": "AL"
+  },
+  {
+    "name": "Choptank River",
+    "location": "MD"
+  },
+  {
+    "name": "Christiana North Jetty",
+    "location": "DE"
+  },
+  {
+    "name": "Clark's Point Light",
+    "location": "MA"
+  },
+  {
+    "name": "Cleveland",
+    "location": "OH"
+  },
+  {
+    "name": "Cleveland Ledge",
+    "location": "OH"
+  },
+  {
+    "name": "Clinton River",
+    "location": "MI"
+  },
+  {
+    "name": "Clopper's Bar",
+    "location": "TX"
+  },
+  {
+    "name": "Cobb Point Bar",
+    "location": "MD"
+  },
+  {
+    "name": "Cockspur Light",
+    "location": "GA"
+  },
+  {
+    "name": "Coconut Point",
+    "location": "HI"
+  },
+  {
+    "name": "Cohansey",
+    "location": "NJ"
+  },
+  {
+    "name": "Colchester Reef",
+    "location": "VT"
+  },
+  {
+    "name": "Cold Spring Harbor",
+    "location": "NY"
+  },
+  {
+    "name": "Columbia River Lights",
+    "location": "OR"
+  },
+  {
+    "name": "Colvos Passage",
+    "location": "WA"
+  },
+  {
+    "name": "Coney Island",
+    "location": "NY"
+  },
+  {
+    "name": "Conanicut",
+    "location": "RI"
+  },
+  {
+    "name": "Concord Point",
+    "location": "MD"
+  },
+  {
+    "name": "Conimicut",
+    "location": "RI"
+  },
+  {
+    "name": "Conover",
+    "location": "NJ"
+  },
+  {
+    "name": "Conneaut",
+    "location": "OH"
+  },
+  {
+    "name": "Coos Bay",
+    "location": "OR"
+  },
+  {
+    "name": "Copper Harbor",
+    "location": "MI"
+  },
+  {
+    "name": "Coquille",
+    "location": "OR"
+  },
+  {
+    "name": "Corpus Christi",
+    "location": "TX"
+  },
+  {
+    "name": "Cosgrove Shoal Light",
+    "location": "FL"
+  },
+  {
+    "name": "Cottonwood Island",
+    "location": "OR"
+  },
+  {
+    "name": "Courthouse Point",
+    "location": "MD"
+  },
+  {
+    "name": "Cove Point",
+    "location": "MD"
+  },
+  {
+    "name": "Coxsackie",
+    "location": "NY"
+  },
+  {
+    "name": "Crabtree Ledge",
+    "location": "ME"
+  },
+  {
+    "name": "Craighill Channel",
+    "location": "MD"
+  },
+  {
+    "name": "Cranberry Island",
+    "location": "NS"
+  },
+  {
+    "name": "Craney Island",
+    "location": "VA"
+  },
+  {
+    "name": "Crescent City",
+    "location": "CA"
+  },
+  {
+    "name": "Crisp Point",
+    "location": "MI"
+  },
+  {
+    "name": "Croatan Shoal",
+    "location": "NC"
+  },
+  {
+    "name": "Crooked River",
+    "location": "FL"
+  },
+  {
+    "name": "Cross Ledge Light",
+    "location": "NJ"
+  },
+  {
+    "name": "Cubits Gap",
+    "location": "LA"
+  },
+  {
+    "name": "Cuckolds Light",
+    "location": "ME"
+  },
+  {
+    "name": "Culebrita Island",
+    "location": "PR"
+  },
+  {
+    "name": "Cumberland Head",
+    "location": "NY"
+  },
+  {
+    "name": "Currituck Beach",
+    "location": "NC"
+  },
+  {
+    "name": "Curtis Island",
+    "location": "ME"
+  },
+  {
+    "name": "Cuttyhunk",
+    "location": "MA"
+  },
+  {
+    "name": "Dames Point",
+    "location": "FL"
+  },
+  {
+    "name": "Danskammar",
+    "location": "NY"
+  },
+  {
+    "name": "Daufuskie Island",
+    "location": "SC"
+  },
+  {
+    "name": "Deepwater Point Range",
+    "location": "NJ"
+  },
+  {
+    "name": "Deepwater Shoals",
+    "location": "VA"
+  },
+  {
+    "name": "Deer Island",
+    "location": "MA"
+  },
+  {
+    "name": "Deer Island Thorofare",
+    "location": "ME"
+  },
+  {
+    "name": "Delaware Breakwater",
+    "location": "DE"
+  },
+  {
+    "name": "Delaware Breakwater Front Range",
+    "location": "DE"
+  },
+  {
+    "name": "Derby Wharf",
+    "location": "MA"
+  },
+  {
+    "name": "Desdemona Sands",
+    "location": "OR"
+  },
+  {
+    "name": "Destruction Island",
+    "location": "WA"
+  },
+  {
+    "name": "DeTour Reef",
+    "location": "MI"
+  },
+  {
+    "name": "Detroit River",
+    "location": "MI"
+  },
+  {
+    "name": "Devil's Island",
+    "location": "WI"
+  },
+  {
+    "name": "Dewey Rocks Light",
+    "location": "AK"
+  },
+  {
+    "name": "Diamond Head",
+    "location": "HI"
+  },
+  {
+    "name": "Diamond Island Ledge Light",
+    "location": "ME"
+  },
+  {
+    "name": "Diamond Shoal",
+    "location": "NC"
+  },
+  {
+    "name": "Dice Head",
+    "location": "ME"
+  },
+  {
+    "name": "Dofflemeyer Point",
+    "location": "WA"
+  },
+  {
+    "name": "Dog Island",
+    "location": "FL"
+  },
+  {
+    "name": "Doubling Point",
+    "location": "ME"
+  },
+  {
+    "name": "Drum Point",
+    "location": "MD"
+  },
+  {
+    "name": "Drummond Island",
+    "location": "MI"
+  },
+  {
+    "name": "Dry Spruce Island Rock",
+    "location": "AK"
+  },
+  {
+    "name": "Dry Tortugas",
+    "location": "FL"
+  },
+  {
+    "name": "Duck Island Range",
+    "location": "MI"
+  },
+  {
+    "name": "Duck Point Light",
+    "location": "?"
+  },
+  {
+    "name": "Duluth Northern Pier Light",
+    "location": "MN"
+  },
+  {
+    "name": "Duluth Southern Breakwater",
+    "location": "MN"
+  },
+  {
+    "name": "Dumpling Rock",
+    "location": "MA"
+  },
+  {
+    "name": "Dunkirk",
+    "location": "NY"
+  },
+  {
+    "name": "Dunlap Reef N.W. End Light",
+    "location": "WI"
+  },
+  {
+    "name": "Dutch Island",
+    "location": "RI"
+  },
+  {
+    "name": "Duxbury Pier",
+    "location": "MA"
+  },
+  {
+    "name": "Eagle Bluff",
+    "location": "WI"
+  },
+  {
+    "name": "Eagle Harbor",
+    "location": "MI"
+  },
+  {
+    "name": "Eagle Island",
+    "location": "ME"
+  },
+  {
+    "name": "East Brother Island",
+    "location": "CA"
+  },
+  {
+    "name": "East Charity Shoal",
+    "location": "NY"
+  },
+  {
+    "name": "East Chop",
+    "location": "MA"
+  },
+  {
+    "name": "East Chugach",
+    "location": "AK"
+  },
+  {
+    "name": "East Foreland",
+    "location": "AK"
+  },
+  {
+    "name": "East Pascagoula",
+    "location": "MS"
+  },
+  {
+    "name": "East Rigolets",
+    "location": "LA"
+  },
+  {
+    "name": "East & West Shoal",
+    "location": "TX"
+  },
+  {
+    "name": "Eastern Entrance",
+    "location": "MA"
+  },
+  {
+    "name": "Eastern Point",
+    "location": "MA"
+  },
+  {
+    "name": "Eaton's Neck",
+    "location": "NY"
+  },
+  {
+    "name": "Eddystone",
+    "location": "England"
+  },
+  {
+    "name": "Edgartown",
+    "location": "MA"
+  },
+  {
+    "name": "Ediz Hook",
+    "location": "WA"
+  },
+  {
+    "name": "Egg Island",
+    "location": "NJ"
+  },
+  {
+    "name": "Egg Rock",
+    "location": "ME"
+  },
+  {
+    "name": "Egg Rock",
+    "location": "MA"
+  },
+  {
+    "name": "Egmont Key",
+    "location": "FL"
+  },
+  {
+    "name": "Elbow of Cross Ledge",
+    "location": "NJ"
+  },
+  {
+    "name": "Eldred Rock",
+    "location": "AK"
+  },
+  {
+    "name": "Elizabeth Island",
+    "location": "Bahamas"
+  },
+  {
+    "name": "Elfin Cove",
+    "location": "AK"
+  },
+  {
+    "name": "Ellis Island",
+    "location": "NY"
+  },
+  {
+    "name": "Elm Tree Range",
+    "location": "NY"
+  },
+  {
+    "name": "Emms Rock",
+    "location": "ME"
+  },
+  {
+    "name": "Enderbury Island",
+    "location": "South Pacific"
+  },
+  {
+    "name": "Erie Point",
+    "location": "PA"
+  },
+  {
+    "name": "Escanaba",
+    "location": "MI"
+  },
+  {
+    "name": "Esopus Meadow",
+    "location": "MA"
+  },
+  {
+    "name": "Eureka Pass Daybeacon",
+    "location": "AK"
+  },
+  {
+    "name": "Execution Rocks",
+    "location": "NY"
+  },
+  {
+    "name": "Fair Haven",
+    "location": "NY"
+  },
+  {
+    "name": "Fairhaven Bridge",
+    "location": "MA"
+  },
+  {
+    "name": "Fairport",
+    "location": "OH"
+  },
+  {
+    "name": "Fairway Island",
+    "location": "AK"
+  },
+  {
+    "name": "Falmouth Inner Harbor",
+    "location": "MA"
+  },
+  {
+    "name": "False Point Daybeacon",
+    "location": "?"
+  },
+  {
+    "name": "Farallon",
+    "location": "CA"
+  },
+  {
+    "name": "Farmers Ridges Range",
+    "location": "MI"
+  },
+  {
+    "name": "Father Point",
+    "location": "CA"
+  },
+  {
+    "name": "Faulkner's Island",
+    "location": "CT"
+  },
+  {
+    "name": "Fenwick Island",
+    "location": "DE"
+  },
+  {
+    "name": "Finns Point",
+    "location": "PA"
+  },
+  {
+    "name": "Fire Island",
+    "location": "NY"
+  },
+  {
+    "name": "Fisherman's Point",
+    "location": "Cuba"
+  },
+  {
+    "name": "Fisher's Island",
+    "location": "CT"
+  },
+  {
+    "name": "Fishing Battery",
+    "location": "MD"
+  },
+  {
+    "name": "Five Fingers",
+    "location": "AK"
+  },
+  {
+    "name": "Five Mile Island Light",
+    "location": "CT"
+  },
+  {
+    "name": "Flag Island",
+    "location": "MN"
+  },
+  {
+    "name": "Fleets Bay Light",
+    "location": "VA"
+  },
+  {
+    "name": "Fletcher's Neck",
+    "location": "ME"
+  },
+  {
+    "name": "Foot Bank",
+    "location": "?"
+  },
+  {
+    "name": "Foreign Light Stations Foremost Rock Daybeacon",
+    "location": "?"
+  },
+  {
+    "name": "Fort Adams",
+    "location": "RI"
+  },
+  {
+    "name": "Fort Barrancas",
+    "location": "FL"
+  },
+  {
+    "name": "Fort Carroll",
+    "location": "MD"
+  },
+  {
+    "name": "Fort Delaware",
+    "location": "DE"
+  },
+  {
+    "name": "Fort Foote Wharf",
+    "location": "MD"
+  },
+  {
+    "name": "Fort Gratiot",
+    "location": "WI"
+  },
+  {
+    "name": "Fort Jackson Range",
+    "location": "GA"
+  },
+  {
+    "name": "Fort Jefferson",
+    "location": "FL"
+  },
+  {
+    "name": "Fort Lafayette",
+    "location": "NY"
+  },
+  {
+    "name": "Fort Louisa Augusta",
+    "location": "VI"
+  },
+  {
+    "name": "Fort McCree",
+    "location": "FL"
+  },
+  {
+    "name": "For Mifflin",
+    "location": "PA"
+  },
+  {
+    "name": "Fort Niagara",
+    "location": "NY"
+  },
+  {
+    "name": "Fort Point",
+    "location": "CA"
+  },
+  {
+    "name": "Fort Point",
+    "location": "ME"
+  },
+  {
+    "name": "Fort Point",
+    "location": "TX"
+  },
+  {
+    "name": "Fort Pickering",
+    "location": "MA"
+  },
+  {
+    "name": "Fort Ripley Shoal",
+    "location": "SC"
+  },
+  {
+    "name": "Fort Scammel Point",
+    "location": "ME"
+  },
+  {
+    "name": "Fort Sumter",
+    "location": "SC"
+  },
+  {
+    "name": "Fort Tompkins",
+    "location": "NY"
+  },
+  {
+    "name": "Fort Wadsworth",
+    "location": "NY"
+  },
+  {
+    "name": "Fort Washington",
+    "location": "NY"
+  },
+  {
+    "name": "Fort Wood",
+    "location": "CT"
+  },
+  {
+    "name": "Found Island Rock Daybeacon",
+    "location": "?"
+  },
+  {
+    "name": "Four Mile Crib",
+    "location": "IL"
+  },
+  {
+    "name": "Fourteen Foot Bank",
+    "location": "DE"
+  },
+  {
+    "name": "Fourteen Foot Shoal",
+    "location": "MI"
+  },
+  {
+    "name": "Fourteen Mile Point",
+    "location": "MI"
+  },
+  {
+    "name": "Forty Mile Point",
+    "location": "MI"
+  },
+  {
+    "name": "Fox Island",
+    "location": "CAN"
+  },
+  {
+    "name": "Fox River",
+    "location": "WI"
+  },
+  {
+    "name": "Fowey Rocks",
+    "location": "FL"
+  },
+  {
+    "name": "Frankfort Pierhead",
+    "location": "MI"
+  },
+  {
+    "name": "Franklin Island",
+    "location": "ME"
+  },
+  {
+    "name": "Franks Island",
+    "location": "LA"
+  },
+  {
+    "name": "Fransen Island Range",
+    "location": "MN"
+  },
+  {
+    "name": "Frechette Point",
+    "location": "MI"
+  },
+  {
+    "name": "Frederiksted",
+    "location": "VI"
+  },
+  {
+    "name": "Frost's Point",
+    "location": "NH"
+  },
+  {
+    "name": "Frying Pan Island",
+    "location": "MI"
+  },
+  {
+    "name": "Frying Pan Shoals",
+    "location": "NC"
+  },
+  {
+    "name": "G Galloo Island",
+    "location": "NY"
+  },
+  {
+    "name": "Gallups Island",
+    "location": "MA"
+  },
+  {
+    "name": "Galveston",
+    "location": "TX"
+  },
+  {
+    "name": "Gambier Bay Entrance Light",
+    "location": "AK"
+  },
+  {
+    "name": "Garden Key",
+    "location": "FL"
+  },
+  {
+    "name": "Gary",
+    "location": "IN"
+  },
+  {
+    "name": "Gasparilla",
+    "location": "FL"
+  },
+  {
+    "name": "Gaspee Point",
+    "location": "RI"
+  },
+  {
+    "name": "Gastineau Channel Light",
+    "location": "AK"
+  },
+  {
+    "name": "Gay Head",
+    "location": "MA"
+  },
+  {
+    "name": "General History Genesee",
+    "location": "NY"
+  },
+  {
+    "name": "George Island",
+    "location": "?"
+  },
+  {
+    "name": "Georgetown",
+    "location": "SC"
+  },
+  {
+    "name": "Gloucester Base",
+    "location": "NJ"
+  },
+  {
+    "name": "Gloucester Breakwater",
+    "location": "MA"
+  },
+  {
+    "name": "Glymont",
+    "location": "MD"
+  },
+  {
+    "name": "Goat Island",
+    "location": "ME"
+  },
+  {
+    "name": "Golovin Bay Light",
+    "location": "AK"
+  },
+  {
+    "name": "Goose Rocks",
+    "location": "ME"
+  },
+  {
+    "name": "Gould Island",
+    "location": "RI"
+  },
+  {
+    "name": "Governors Island",
+    "location": "NY"
+  },
+  {
+    "name": "Grand Haven",
+    "location": "MI"
+  },
+  {
+    "name": "Grand Island Light Station",
+    "location": "LA"
+  },
+  {
+    "name": "Grand Island Harbor",
+    "location": "MI"
+  },
+  {
+    "name": "Grand Marais",
+    "location": "MN"
+  },
+  {
+    "name": "Grand Traverse",
+    "location": "MI"
+  },
+  {
+    "name": "Granite Island",
+    "location": "MI"
+  },
+  {
+    "name": "Grant's Pass",
+    "location": "AL"
+  },
+  {
+    "name": "Grassy Hammock",
+    "location": "CT"
+  },
+  {
+    "name": "Grassy Island",
+    "location": "WI"
+  },
+  {
+    "name": "Grassy Island Ledge",
+    "location": "WI"
+  },
+  {
+    "name": "Gravelly Shoals",
+    "location": "MI"
+  },
+  {
+    "name": "Graves Ledge",
+    "location": "ME"
+  },
+  {
+    "name": "Graves Ledge",
+    "location": "MA"
+  },
+  {
+    "name": "Gray's Harbor",
+    "location": "WA"
+  },
+  {
+    "name": "Gray's Reef",
+    "location": "MI"
+  },
+  {
+    "name": "Great Aquavitae",
+    "location": "MA"
+  },
+  {
+    "name": "Great Beds",
+    "location": "NJ"
+  },
+  {
+    "name": "Great Captain's Island",
+    "location": "NY"
+  },
+  {
+    "name": "Great Duck Island",
+    "location": "ME"
+  },
+  {
+    "name": "Great Harbor",
+    "location": "MA"
+  },
+  {
+    "name": "Great Point",
+    "location": "MA"
+  },
+  {
+    "name": "Great Salt Pond",
+    "location": "RI"
+  },
+  {
+    "name": "Great Shoals",
+    "location": "MD"
+  },
+  {
+    "name": "Great Wicomico",
+    "location": "VA"
+  },
+  {
+    "name": "Green Bay",
+    "location": "WI"
+  },
+  {
+    "name": "Green Island",
+    "location": "OH"
+  },
+  {
+    "name": "Green Island",
+    "location": "WI"
+  },
+  {
+    "name": "Greenbury Point",
+    "location": "MD"
+  },
+  {
+    "name": "Greens Ledge",
+    "location": "CT"
+  },
+  {
+    "name": "Grindle Point",
+    "location": "MD"
+  },
+  {
+    "name": "Grosse Isle",
+    "location": "MI"
+  },
+  {
+    "name": "Grosse Point",
+    "location": "IL"
+  },
+  {
+    "name": "Guanica",
+    "location": "PR"
+  },
+  {
+    "name": "Guantanamo",
+    "location": "Cuba"
+  },
+  {
+    "name": "Guard Island",
+    "location": "AK"
+  },
+  {
+    "name": "Gull Island",
+    "location": "MI"
+  },
+  {
+    "name": "Gull Island Rock",
+    "location": "MI"
+  },
+  {
+    "name": "Gull Rocks",
+    "location": "RI"
+  },
+  {
+    "name": "Gustavus Light",
+    "location": "AK"
+  },
+  {
+    "name": "Haig Point",
+    "location": "SC"
+  },
+  {
+    "name": "Halfmoon Bay",
+    "location": "CA"
+  },
+  {
+    "name": "Halfmoon Reef",
+    "location": "TX"
+  },
+  {
+    "name": "Halfmoon Shoal",
+    "location": "TX"
+  },
+  {
+    "name": "Halfway Rock",
+    "location": "ME"
+  },
+  {
+    "name": "Hamilton Island",
+    "location": "CAN"
+  },
+  {
+    "name": "Hams Bluff",
+    "location": "VI"
+  },
+  {
+    "name": "Hanamaioa",
+    "location": "HI"
+  },
+  {
+    "name": "Hanapepe",
+    "location": "HI"
+  },
+  {
+    "name": "Hanus Reef",
+    "location": "AK"
+  },
+  {
+    "name": "Harbor Beach",
+    "location": "MI"
+  },
+  {
+    "name": "Harbor Island",
+    "location": "NC"
+  },
+  {
+    "name": "Harbor of Refuge",
+    "location": "DE"
+  },
+  {
+    "name": "Hart's Landing",
+    "location": "MI"
+  },
+  {
+    "name": "Havre de Grace Light",
+    "location": "MD"
+  },
+  {
+    "name": "Hawk Inlet East Shoal",
+    "location": "AK"
+  },
+  {
+    "name": "Hawea Point",
+    "location": "HI"
+  },
+  {
+    "name": "Head of the Passes",
+    "location": "LA"
+  },
+  {
+    "name": "Heceta Head",
+    "location": "OR"
+  },
+  {
+    "name": "Helm Bay",
+    "location": "AK"
+  },
+  {
+    "name": "Hendricks Head",
+    "location": "ME"
+  },
+  {
+    "name": "Hereford Inlet",
+    "location": "NJ"
+  },
+  {
+    "name": "Heron Neck",
+    "location": "ME"
+  },
+  {
+    "name": "Hermanos Island Rear Daybeacon",
+    "location": "AK"
+  },
+  {
+    "name": "High Island Light",
+    "location": "TX"
+  },
+  {
+    "name": "Highwater Rock Daybeacon",
+    "location": "AK"
+  },
+  {
+    "name": "Hillsboro Inlet",
+    "location": "FL"
+  },
+  {
+    "name": "Hive Island",
+    "location": "AK"
+  },
+  {
+    "name": "Hog Island",
+    "location": "MA"
+  },
+  {
+    "name": "Hog Rock Light",
+    "location": "AK"
+  },
+  {
+    "name": "Holland Harbor",
+    "location": "MI"
+  },
+  {
+    "name": "Holland Island Bar",
+    "location": "MD"
+  },
+  {
+    "name": "Holmes Hale",
+    "location": "MA"
+  },
+  {
+    "name": "Honolulu Harbor",
+    "location": "HI"
+  },
+  {
+    "name": "Honolulu Channel Light",
+    "location": "HI"
+  },
+  {
+    "name": "Hooper Island",
+    "location": "MD"
+  },
+  {
+    "name": "Hooper Strait",
+    "location": "MD"
+  },
+  {
+    "name": "Horn Island",
+    "location": "MS"
+  },
+  {
+    "name": "Horseshoe Range",
+    "location": "PA"
+  },
+  {
+    "name": "Horseshoe Reef",
+    "location": "NY"
+  },
+  {
+    "name": "Horton's Point",
+    "location": "NY"
+  },
+  {
+    "name": "Hospital Point",
+    "location": "MA"
+  },
+  {
+    "name": "Hot Island Light",
+    "location": "?"
+  },
+  {
+    "name": "Housatonic River",
+    "location": "CT"
+  },
+  {
+    "name": "Houston Ship Channel",
+    "location": "TX"
+  },
+  {
+    "name": "Howland Island",
+    "location": "Pacific"
+  },
+  {
+    "name": "Hudson City",
+    "location": "NY"
+  },
+  {
+    "name": "Humboldt Bar",
+    "location": "CA"
+  },
+  {
+    "name": "Hunter Bay Daybeacon",
+    "location": "WA"
+  },
+  {
+    "name": "Hunting Island",
+    "location": "SC"
+  },
+  {
+    "name": "Huron Harbor",
+    "location": "OH"
+  },
+  {
+    "name": "Huron Island",
+    "location": "MI"
+  },
+  {
+    "name": "Hyannis Range",
+    "location": "MA"
+  },
+  {
+    "name": "Icy Passage Light",
+    "location": "AK"
+  },
+  {
+    "name": "Ida Lewis Rock",
+    "location": "RI"
+  },
+  {
+    "name": "Ilkognak Rock Light",
+    "location": "AK"
+  },
+  {
+    "name": "Indian Island",
+    "location": "ME"
+  },
+  {
+    "name": "Indian Point Range",
+    "location": "MI"
+  },
+  {
+    "name": "Indiana Harbor East Breakwater",
+    "location": "IN"
+  },
+  {
+    "name": "Indiana Waterway Light No. 49",
+    "location": "NC"
+  },
+  {
+    "name": "Inner Point Light",
+    "location": "AK"
+  },
+  {
+    "name": "Ipswich Range",
+    "location": "MA"
+  },
+  {
+    "name": "Isla Caja de Muertos",
+    "location": "PR"
+  },
+  {
+    "name": "Isla Cardona",
+    "location": "PR"
+  },
+  {
+    "name": "Isle au Haute",
+    "location": "ME"
+  },
+  {
+    "name": "Isle aux Galets",
+    "location": "MI"
+  },
+  {
+    "name": "Isle LaMotte",
+    "location": "VT"
+  },
+  {
+    "name": "Isle of Shoals",
+    "location": "NH"
+  },
+  {
+    "name": "Isle Royale",
+    "location": "MI"
+  },
+  {
+    "name": "James Island",
+    "location": "MD"
+  },
+  {
+    "name": "Jeffrey's Hook",
+    "location": "NY"
+  },
+  {
+    "name": "Jobos Harbor",
+    "location": "PR"
+  },
+  {
+    "name": "Johnson Point",
+    "location": "WA"
+  },
+  {
+    "name": "Jones Inlet",
+    "location": "ME"
+  },
+  {
+    "name": "Jones Point",
+    "location": "VA"
+  },
+  {
+    "name": "Jordan's Point",
+    "location": "VA"
+  },
+  {
+    "name": "Juniper Island Light",
+    "location": "VT"
+  },
+  {
+    "name": "Jupiter Inlet",
+    "location": "FL"
+  },
+  {
+    "name": "Kahoolawe Point",
+    "location": "HI"
+  },
+  {
+    "name": "Kaena Point",
+    "location": "HI"
+  },
+  {
+    "name": "Kahului Entrance Range",
+    "location": "HI"
+  },
+  {
+    "name": "Kailua",
+    "location": "HI"
+  },
+  {
+    "name": "Kalae",
+    "location": "HI"
+  },
+  {
+    "name": "Kalamazoo",
+    "location": "MI"
+  },
+  {
+    "name": "Kalaupapa",
+    "location": "HI"
+  },
+  {
+    "name": "Kalgin Island",
+    "location": "AK"
+  },
+  {
+    "name": "Karheen Passage Daybreak",
+    "location": "AK"
+  },
+  {
+    "name": "Kasnyku Harbor Daybeacon",
+    "location": "AK"
+  },
+  {
+    "name": "Kauhola Point",
+    "location": "HI"
+  },
+  {
+    "name": "Kauiki",
+    "location": "HI"
+  },
+  {
+    "name": "Kaula Rock",
+    "location": "HI"
+  },
+  {
+    "name": "Kaumalapau",
+    "location": "HI"
+  },
+  {
+    "name": "Kawaihae",
+    "location": "HI"
+  },
+  {
+    "name": "Kauna Point",
+    "location": "HI"
+  },
+  {
+    "name": "Keahole",
+    "location": "HI"
+  },
+  {
+    "name": "Keku Strait Daybeacon",
+    "location": "AK"
+  },
+  {
+    "name": "Kenosha",
+    "location": "WI"
+  },
+  {
+    "name": "Kennebec River",
+    "location": "ME"
+  },
+  {
+    "name": "Ketchikan-Thomas Basin",
+    "location": "AK"
+  },
+  {
+    "name": "Ketchikan Light",
+    "location": "AK"
+  },
+  {
+    "name": "Kewalo Basin",
+    "location": "HI"
+  },
+  {
+    "name": "Kewaunee Pierhead",
+    "location": "WI"
+  },
+  {
+    "name": "Keweenah Waterway",
+    "location": "MI"
+  },
+  {
+    "name": "Keweenaw Lower Entrance",
+    "location": "MI"
+  },
+  {
+    "name": "Key Reef Light",
+    "location": "AK"
+  },
+  {
+    "name": "Key West",
+    "location": "FL"
+  },
+  {
+    "name": "Khantaak Island",
+    "location": "AK"
+  },
+  {
+    "name": "Kilauea",
+    "location": "HI"
+  },
+  {
+    "name": "Killock Shoal",
+    "location": "VA"
+  },
+  {
+    "name": "Kingston Flats",
+    "location": "NY"
+  },
+  {
+    "name": "Kinkora",
+    "location": "NJ"
+  },
+  {
+    "name": "Klawak Island Light",
+    "location": "AK"
+  },
+  {
+    "name": "Klokachee Lamp",
+    "location": "?"
+  },
+  {
+    "name": "Kokole Point",
+    "location": "HI"
+  },
+  {
+    "name": "Kuhio Bay",
+    "location": "HI"
+  },
+  {
+    "name": "Kukuihaele",
+    "location": "HI"
+  },
+  {
+    "name": "L La Pointe",
+    "location": "WI"
+  },
+  {
+    "name": "Lae o Ha Laau Point",
+    "location": "HI"
+  },
+  {
+    "name": "Lahaina",
+    "location": "HI"
+  },
+  {
+    "name": "Lake Borgne",
+    "location": "MS"
+  },
+  {
+    "name": "Lake Pontchartrain",
+    "location": "LA"
+  },
+  {
+    "name": "Lake St. Clair",
+    "location": "MI"
+  },
+  {
+    "name": "Lake St. George",
+    "location": "FL"
+  },
+  {
+    "name": "Lake Worth Inlet",
+    "location": "FL"
+  },
+  {
+    "name": "Lambert Point",
+    "location": "VA"
+  },
+  {
+    "name": "Lansing Shoal",
+    "location": "MI"
+  },
+  {
+    "name": "Larzatita Island Reef Light",
+    "location": "AK"
+  },
+  {
+    "name": "Latimer Reef",
+    "location": "NY"
+  },
+  {
+    "name": "Laupahoehoe Point",
+    "location": "HI"
+  },
+  {
+    "name": "Laurel Point",
+    "location": "NC"
+  },
+  {
+    "name": "Lauu Point",
+    "location": "HI"
+  },
+  {
+    "name": "Lazaretto Point",
+    "location": "MD"
+  },
+  {
+    "name": "Lehigh",
+    "location": "NJ"
+  },
+  {
+    "name": "Lehua Island",
+    "location": "HI"
+  },
+  {
+    "name": "Lewis Reef",
+    "location": "AK"
+  },
+  {
+    "name": "Libby Island",
+    "location": "ME"
+  },
+  {
+    "name": "Lime Kiln",
+    "location": "WA"
+  },
+  {
+    "name": "Lime Point",
+    "location": "CA"
+  },
+  {
+    "name": "Lincoln Rock",
+    "location": "AK"
+  },
+  {
+    "name": "Liston Range Rear",
+    "location": "DE"
+  },
+  {
+    "name": "Little Creek",
+    "location": "?"
+  },
+  {
+    "name": "Little Cumberland Island",
+    "location": "GA"
+  },
+  {
+    "name": "Little Gull Island",
+    "location": "NY"
+  },
+  {
+    "name": "Little Mark Island",
+    "location": "ME"
+  },
+  {
+    "name": "Little Rapids Cut",
+    "location": "MI"
+  },
+  {
+    "name": "Little River",
+    "location": "ME"
+  },
+  {
+    "name": "Little Sable",
+    "location": "MI"
+  },
+  {
+    "name": "Little Traverse",
+    "location": "MI"
+  },
+  {
+    "name": "Lloyd Harbor",
+    "location": "NY"
+  },
+  {
+    "name": "Long Beach",
+    "location": "CA"
+  },
+  {
+    "name": "Long Beach Bar",
+    "location": "NY"
+  },
+  {
+    "name": "Long Island Head",
+    "location": "MA"
+  },
+  {
+    "name": "Long Point",
+    "location": "MA"
+  },
+  {
+    "name": "Long Point",
+    "location": "NC"
+  },
+  {
+    "name": "Long Shoal",
+    "location": "NC"
+  },
+  {
+    "name": "Looe Key",
+    "location": "FL"
+  },
+  {
+    "name": "Lorain West",
+    "location": "OH"
+  },
+  {
+    "name": "Los Angeles",
+    "location": "CA"
+  },
+  {
+    "name": "Love Point",
+    "location": "MD"
+  },
+  {
+    "name": "Lovells Island",
+    "location": "MA"
+  },
+  {
+    "name": "Low Point",
+    "location": "CAN"
+  },
+  {
+    "name": "Lower Cedar Point",
+    "location": "MD"
+  },
+  {
+    "name": "Lower Little Island",
+    "location": "NY"
+  },
+  {
+    "name": "Lower Range",
+    "location": "MA"
+  },
+  {
+    "name": "Lower Thoroughfare Range",
+    "location": "MD"
+  },
+  {
+    "name": "Lubec Channel",
+    "location": "ME"
+  },
+  {
+    "name": "Ludington",
+    "location": "MI"
+  },
+  {
+    "name": "Ludlam Beach",
+    "location": "NJ"
+  },
+  {
+    "name": "Lynde Point",
+    "location": "CT"
+  },
+  {
+    "name": "Lynn Harbor",
+    "location": "MA"
+  },
+  {
+    "name": "Machias Seal",
+    "location": "CAN"
+  },
+  {
+    "name": "Magothy River",
+    "location": "MD"
+  },
+  {
+    "name": "Mahon River",
+    "location": "DE"
+  },
+  {
+    "name": "Mahukona",
+    "location": "HI"
+  },
+  {
+    "name": "Makapuu Point",
+    "location": "HI"
+  },
+  {
+    "name": "Manana Island",
+    "location": "ME"
+  },
+  {
+    "name": "Manistee",
+    "location": "MI"
+  },
+  {
+    "name": "Manistee Pierhead",
+    "location": "MI"
+  },
+  {
+    "name": "Manistique",
+    "location": "MI"
+  },
+  {
+    "name": "Manitou",
+    "location": "MI"
+  },
+  {
+    "name": "Manitowoc",
+    "location": "WI"
+  },
+  {
+    "name": "Mantua Creek",
+    "location": "NJ"
+  },
+  {
+    "name": "Maplin Sand Light",
+    "location": "England"
+  },
+  {
+    "name": "Marblehead",
+    "location": "OH"
+  },
+  {
+    "name": "Marblehead",
+    "location": "MA"
+  },
+  {
+    "name": "Marcus Hook",
+    "location": "DE"
+  },
+  {
+    "name": "Mare Island",
+    "location": "CA"
+  },
+  {
+    "name": "Marine City Range Light",
+    "location": "MI"
+  },
+  {
+    "name": "Marquette Light",
+    "location": "MI"
+  },
+  {
+    "name": "Marquette Breakwater",
+    "location": "MI"
+  },
+  {
+    "name": "Mark Abbott Memorial Lighthouse",
+    "location": "CA"
+  },
+  {
+    "name": "Marrowstone Point",
+    "location": "CT"
+  },
+  {
+    "name": "Marshall Point Light",
+    "location": "ME"
+  },
+  {
+    "name": "Martin Reef",
+    "location": "MI"
+  },
+  {
+    "name": "Mary Island",
+    "location": "AK"
+  },
+  {
+    "name": "Maryland Point",
+    "location": "MD"
+  },
+  {
+    "name": "Matagorda Bay Light",
+    "location": "TX"
+  },
+  {
+    "name": "Mathias Point Shoal Light",
+    "location": "VA"
+  },
+  {
+    "name": "Matinicus Rock Light",
+    "location": "ME"
+  },
+  {
+    "name": "Mattituck",
+    "location": "NY"
+  },
+  {
+    "name": "Maumee Bay",
+    "location": "OH"
+  },
+  {
+    "name": "Maurice River",
+    "location": "NJ"
+  },
+  {
+    "name": "Maxfield Point",
+    "location": "VT"
+  },
+  {
+    "name": "Maxwell Point Light",
+    "location": "SC"
+  },
+  {
+    "name": "Mayo Beach",
+    "location": "MA"
+  },
+  {
+    "name": "McClellan Rock Light",
+    "location": "AK"
+  },
+  {
+    "name": "McGregor Point Daybeacon",
+    "location": "HI"
+  },
+  {
+    "name": "McGulpins Point",
+    "location": "MI"
+  },
+  {
+    "name": "Meares Island",
+    "location": "CAN"
+  },
+  {
+    "name": "Mendenhall Bar",
+    "location": "AK"
+  },
+  {
+    "name": "Mendota Light",
+    "location": "MI"
+  },
+  {
+    "name": "Menominee Pierhead Light",
+    "location": "WI"
+  },
+  {
+    "name": "Merrill's Shell Bank",
+    "location": "MS"
+  },
+  {
+    "name": "Merrimac",
+    "location": "WI"
+  },
+  {
+    "name": "Metomkin Point",
+    "location": "VA"
+  },
+  {
+    "name": "Miah Maull Shoal Light",
+    "location": "DE"
+  },
+  {
+    "name": "Michigan City Light",
+    "location": "IN"
+  },
+  {
+    "name": "Michigan Island",
+    "location": "WI"
+  },
+  {
+    "name": "Middle Island",
+    "location": "MI"
+  },
+  {
+    "name": "Middle Neebish",
+    "location": "MI"
+  },
+  {
+    "name": "Midway Rock Light",
+    "location": "CA"
+  },
+  {
+    "name": "Mile Rocks Light",
+    "location": "CA"
+  },
+  {
+    "name": "Milolii",
+    "location": "HI"
+  },
+  {
+    "name": "Milwaukee Breakwater",
+    "location": "WI"
+  },
+  {
+    "name": "Milwaukee Pierhead",
+    "location": "WI"
+  },
+  {
+    "name": "Minneapolis Shoals",
+    "location": "MI"
+  },
+  {
+    "name": "Minor Island",
+    "location": "WA"
+  },
+  {
+    "name": "Minor Island/Tansy Point",
+    "location": "WA"
+  },
+  {
+    "name": "Minot's Ledge",
+    "location": "MA"
+  },
+  {
+    "name": "Mispillion River",
+    "location": "DE"
+  },
+  {
+    "name": "Mission Point",
+    "location": "MI"
+  },
+  {
+    "name": "Mississippi River Gulf Outlet",
+    "location": "MS"
+  },
+  {
+    "name": "Mite Head",
+    "location": "?"
+  },
+  {
+    "name": "Mitrofania Island",
+    "location": "AK"
+  },
+  {
+    "name": "Mobile Bay",
+    "location": "AL"
+  },
+  {
+    "name": "Mobile Point",
+    "location": "AL"
+  },
+  {
+    "name": "Molasses Reef",
+    "location": "FL"
+  },
+  {
+    "name": "Molokai",
+    "location": "HI"
+  },
+  {
+    "name": "Molokini Light",
+    "location": "HI"
+  },
+  {
+    "name": "Mona Island",
+    "location": "PR"
+  },
+  {
+    "name": "Monhegan Island",
+    "location": "ME"
+  },
+  {
+    "name": "Montreal River Light",
+    "location": "MI"
+  },
+  {
+    "name": "Monroe",
+    "location": "MI"
+  },
+  {
+    "name": "Monomoy Point Light",
+    "location": "MA"
+  },
+  {
+    "name": "Montauk Point",
+    "location": "NY"
+  },
+  {
+    "name": "Moos Head",
+    "location": "OR"
+  },
+  {
+    "name": "Moose Peak",
+    "location": "ME"
+  },
+  {
+    "name": "Meriches Light",
+    "location": "NY"
+  },
+  {
+    "name": "Morris Island",
+    "location": "SC"
+  },
+  {
+    "name": "Morro Bay",
+    "location": "CA"
+  },
+  {
+    "name": "Mosquito Bank Light",
+    "location": "FL"
+  },
+  {
+    "name": "Moss Landing",
+    "location": "CA"
+  },
+  {
+    "name": "Mount Desert Island Light",
+    "location": "ME"
+  },
+  {
+    "name": "Mud Island Rear Light",
+    "location": "PA"
+  },
+  {
+    "name": "Muertos Island",
+    "location": "PR"
+  },
+  {
+    "name": "Mukilteo Light",
+    "location": "WA"
+  },
+  {
+    "name": "Mule Rock",
+    "location": "AK"
+  },
+  {
+    "name": "Mulholland Point",
+    "location": "CAN"
+  },
+  {
+    "name": "Munising Range",
+    "location": "MI"
+  },
+  {
+    "name": "Murderkill River Range Front",
+    "location": "DE"
+  },
+  {
+    "name": "Murphy's Dock Light",
+    "location": "empty"
+  },
+  {
+    "name": "Muscle Bed Shoal",
+    "location": "RI"
+  },
+  {
+    "name": "Muskegon Pierhead Front",
+    "location": "MI"
+  },
+  {
+    "name": "Myhlen Feldt Point",
+    "location": "VI"
+  },
+  {
+    "name": "Matomkin Light",
+    "location": "VA"
+  },
+  {
+    "name": "Nakalele Point",
+    "location": "HI"
+  },
+  {
+    "name": "Nansemond River",
+    "location": "VA"
+  },
+  {
+    "name": "Nanticoke River",
+    "location": "MD"
+  },
+  {
+    "name": "Nantucket",
+    "location": "MA"
+  },
+  {
+    "name": "Napoopoo",
+    "location": "HI"
+  },
+  {
+    "name": "Narranguagus Bay",
+    "location": "ME"
+  },
+  {
+    "name": "Narrow Point",
+    "location": "AK"
+  },
+  {
+    "name": "Narrows Light",
+    "location": "MA"
+  },
+  {
+    "name": "Nash Island",
+    "location": "ME"
+  },
+  {
+    "name": "Natchez",
+    "location": "MS"
+  },
+  {
+    "name": "Nauset",
+    "location": "MA"
+  },
+  {
+    "name": "Navassa Island",
+    "location": "Minor"
+  },
+  {
+    "name": "Navesink",
+    "location": "NJ"
+  },
+  {
+    "name": "Nawilliwilli Harbor Light",
+    "location": "HI"
+  },
+  {
+    "name": "Nayat Point Light",
+    "location": "RI"
+  },
+  {
+    "name": "Neches River",
+    "location": "TX"
+  },
+  {
+    "name": "Ned Point",
+    "location": "MA"
+  },
+  {
+    "name": "Neuse River Light",
+    "location": "NC"
+  },
+  {
+    "name": "New Canal",
+    "location": "LA"
+  },
+  {
+    "name": "New Dorp",
+    "location": "NY"
+  },
+  {
+    "name": "New Dungeness",
+    "location": "WA"
+  },
+  {
+    "name": "New Haven",
+    "location": "Outer Breakwater"
+  },
+  {
+    "name": "",
+    "location": "CT"
+  },
+  {
+    "name": "New Haven Harbor",
+    "location": "CT"
+  },
+  {
+    "name": "New London Harbor",
+    "location": "CT"
+  },
+  {
+    "name": "New London Ledge",
+    "location": "CT"
+  },
+  {
+    "name": "New Point Comfort",
+    "location": "VA"
+  },
+  {
+    "name": "Newark Bay",
+    "location": "NJ"
+  },
+  {
+    "name": "Newbern Harbor",
+    "location": "NC"
+  },
+  {
+    "name": "Newbury Harbor",
+    "location": "MA"
+  },
+  {
+    "name": "Newburyport Harbor Range Light",
+    "location": "MA"
+  },
+  {
+    "name": "Newcastle Range",
+    "location": "DE"
+  },
+  {
+    "name": "Newport Beach",
+    "location": "CA"
+  },
+  {
+    "name": "Newport Harbor",
+    "location": "RI"
+  },
+  {
+    "name": "Newport News",
+    "location": "VA"
+  },
+  {
+    "name": "Newport Wharf Light",
+    "location": "VT"
+  },
+  {
+    "name": "Niagara-on-the Lake",
+    "location": "NY"
+  },
+  {
+    "name": "Niblack Daybeach",
+    "location": "AK"
+  },
+  {
+    "name": "Nobska Point",
+    "location": "MA"
+  },
+  {
+    "name": "North Brother's Island",
+    "location": "NY"
+  },
+  {
+    "name": "North Dumpling Light",
+    "location": "NY"
+  },
+  {
+    "name": "Northeast Corner",
+    "location": "?"
+  },
+  {
+    "name": "North Head",
+    "location": "WA"
+  },
+  {
+    "name": "North Hook Fog Signal",
+    "location": "NJ"
+  },
+  {
+    "name": "North Inian Pass",
+    "location": "AK"
+  },
+  {
+    "name": "North Landing River Beacon",
+    "location": "VA"
+  },
+  {
+    "name": "North Manitou Shoal",
+    "location": "MI"
+  },
+  {
+    "name": "North Pier",
+    "location": "PA"
+  },
+  {
+    "name": "North Point",
+    "location": "WI"
+  },
+  {
+    "name": "North River Bar",
+    "location": "NC"
+  },
+  {
+    "name": "Northwest Passage",
+    "location": "FL"
+  },
+  {
+    "name": "Oak Island",
+    "location": "NC"
+  },
+  {
+    "name": "Oak Orchard",
+    "location": "NY"
+  },
+  {
+    "name": "Oakland Harbor",
+    "location": "CA"
+  },
+  {
+    "name": "Ocean Cape",
+    "location": "AK"
+  },
+  {
+    "name": "Ocracoke",
+    "location": "NC"
+  },
+  {
+    "name": "Old Field Point",
+    "location": "NY"
+  },
+  {
+    "name": "Old Mission Point",
+    "location": "MI"
+  },
+  {
+    "name": "Old Orchard Shoal",
+    "location": "NY"
+  },
+  {
+    "name": "Old Plantation Flats",
+    "location": "VA"
+  },
+  {
+    "name": "Old Point Comfort",
+    "location": "VA"
+  },
+  {
+    "name": "Old Reedy Island",
+    "location": "DE"
+  },
+  {
+    "name": "Old Sodus Point",
+    "location": "MI"
+  },
+  {
+    "name": "Ontonagon",
+    "location": "MI"
+  },
+  {
+    "name": "Oregon Inlet",
+    "location": "NC"
+  },
+  {
+    "name": "Orient Point Light",
+    "location": "NY"
+  },
+  {
+    "name": "Oswego Light",
+    "location": "NY"
+  },
+  {
+    "name": "Otstota Island",
+    "location": "AK"
+  },
+  {
+    "name": "Owls Head",
+    "location": "ME"
+  },
+  {
+    "name": "Outer Island Light",
+    "location": "WI"
+  },
+  {
+    "name": "Oyster Bayou",
+    "location": "LA"
+  },
+  {
+    "name": "Pacific Reef Light",
+    "location": "FL"
+  },
+  {
+    "name": "Pages Rock",
+    "location": "VA"
+  },
+  {
+    "name": "Pago Pago",
+    "location": "American Samoa"
+  },
+  {
+    "name": "Palaoa Point",
+    "location": "HI"
+  },
+  {
+    "name": "Palmer Island",
+    "location": "MA"
+  },
+  {
+    "name": "Pamlico Point",
+    "location": "NC"
+  },
+  {
+    "name": "Pascagoula",
+    "location": "MS"
+  },
+  {
+    "name": "Pass a l'Outre",
+    "location": "LA"
+  },
+  {
+    "name": "Pass Christian Light",
+    "location": "MS"
+  },
+  {
+    "name": "Pass Manchac",
+    "location": "LA"
+  },
+  {
+    "name": "Passage Island",
+    "location": "MI"
+  },
+  {
+    "name": "Passaic Light",
+    "location": "NJ"
+  },
+  {
+    "name": "Pastol Bay",
+    "location": "AK"
+  },
+  {
+    "name": "Patos Light",
+    "location": "WA"
+  },
+  {
+    "name": "Paukaa Point",
+    "location": "HI"
+  },
+  {
+    "name": "Pauwela Point",
+    "location": "HI"
+  },
+  {
+    "name": "Paymyra Light",
+    "location": "NJ"
+  },
+  {
+    "name": "Pea Patch Island",
+    "location": "DE"
+  },
+  {
+    "name": "Peche Isle Range",
+    "location": "MI"
+  },
+  {
+    "name": "Pearse Canal",
+    "location": "AK"
+  },
+  {
+    "name": "Pearl River",
+    "location": "LA"
+  },
+  {
+    "name": "Peck's Ledge",
+    "location": "CT"
+  },
+  {
+    "name": "Peep Rock Light",
+    "location": "AK"
+  },
+  {
+    "name": "Pelican City",
+    "location": "AK"
+  },
+  {
+    "name": "Pelican Shoal",
+    "location": "FL"
+  },
+  {
+    "name": "Pemaquid",
+    "location": "ME"
+  },
+  {
+    "name": "Penfield Reef",
+    "location": "CT"
+  },
+  {
+    "name": "Peninsula Point",
+    "location": "MI"
+  },
+  {
+    "name": "Pensacola Light",
+    "location": "FL"
+  },
+  {
+    "name": "Pentwater Pierhead",
+    "location": "MI"
+  },
+  {
+    "name": "Pepeeko Point",
+    "location": "HI"
+  },
+  {
+    "name": "Perkins Island",
+    "location": "ME"
+  },
+  {
+    "name": "Perry Island Light",
+    "location": "AK"
+  },
+  {
+    "name": "Perry Memorial Light",
+    "location": "OH"
+  },
+  {
+    "name": "Petit Manan Light",
+    "location": "ME"
+  },
+  {
+    "name": "Pharos of Alexandria",
+    "location": "Egypt"
+  },
+  {
+    "name": "Piedras Blancas",
+    "location": "CA"
+  },
+  {
+    "name": "Pigeon Point",
+    "location": "CA"
+  },
+  {
+    "name": "Pillar Point",
+    "location": "NZ"
+  },
+  {
+    "name": "Pilot Island",
+    "location": "WI"
+  },
+  {
+    "name": "Piney Point",
+    "location": "MD"
+  },
+  {
+    "name": "Pipe Island",
+    "location": "WI"
+  },
+  {
+    "name": "Plattsburgh Beacon",
+    "location": "NY"
+  },
+  {
+    "name": "Plum Beach",
+    "location": "RI"
+  },
+  {
+    "name": "Plum Island",
+    "location": "NY"
+  },
+  {
+    "name": "Plum Island",
+    "location": "WI"
+  },
+  {
+    "name": "Plymouth Gurnet",
+    "location": "MA"
+  },
+  {
+    "name": "Poe Reef",
+    "location": "MI"
+  },
+  {
+    "name": "Point Adams",
+    "location": "OR"
+  },
+  {
+    "name": "Point Alexander Light",
+    "location": "CAN"
+  },
+  {
+    "name": "Point Allerton",
+    "location": "CAN"
+  },
+  {
+    "name": "Point Ancon Light",
+    "location": "?"
+  },
+  {
+    "name": "Point Arden",
+    "location": "AK"
+  },
+  {
+    "name": "Point",
+    "location": "Puenta"
+  },
+  {
+    "name": "Arena",
+    "location": "CA"
+  },
+  {
+    "name": "Point Arguello",
+    "location": "CA"
+  },
+  {
+    "name": "Point Augusta",
+    "location": "AK"
+  },
+  {
+    "name": "Point au Fer",
+    "location": "LA"
+  },
+  {
+    "name": "Point Aux Barques",
+    "location": "MI"
+  },
+  {
+    "name": "Point Aux Herbes",
+    "location": "LA"
+  },
+  {
+    "name": "Point Aux Roches",
+    "location": "NY"
+  },
+  {
+    "name": "Point Baker",
+    "location": "AK"
+  },
+  {
+    "name": "Point Betsie",
+    "location": "MI"
+  },
+  {
+    "name": "Point Blunt",
+    "location": "CA"
+  },
+  {
+    "name": "Point Bonita",
+    "location": "CA"
+  },
+  {
+    "name": "Point",
+    "location": "Puenta"
+  },
+  {
+    "name": "Borinquen",
+    "location": "PR"
+  },
+  {
+    "name": "Point Cabrillo",
+    "location": "CA"
+  },
+  {
+    "name": "Point Colpoys Light",
+    "location": "AK"
+  },
+  {
+    "name": "Point Conception",
+    "location": "CA"
+  },
+  {
+    "name": "Point Defer",
+    "location": "LA"
+  },
+  {
+    "name": "Point Diablo",
+    "location": "CA"
+  },
+  {
+    "name": "Point Erie",
+    "location": "PA"
+  },
+  {
+    "name": "Point Fermin",
+    "location": "CA"
+  },
+  {
+    "name": "Point Figuras",
+    "location": "PR"
+  },
+  {
+    "name": "Point Gambier",
+    "location": "?"
+  },
+  {
+    "name": "Point Grenville",
+    "location": "WA"
+  },
+  {
+    "name": "Point Harris",
+    "location": "CA"
+  },
+  {
+    "name": "Point Hilda",
+    "location": "AK"
+  },
+  {
+    "name": "Point Hudson",
+    "location": "WA"
+  },
+  {
+    "name": "Point Hueneme",
+    "location": "CA"
+  },
+  {
+    "name": "Point Judith",
+    "location": "RI"
+  },
+  {
+    "name": "Point Jiguero",
+    "location": "PR"
+  },
+  {
+    "name": "Point Iroquois",
+    "location": "MI"
+  },
+  {
+    "name": "Point Light",
+    "location": "?"
+  },
+  {
+    "name": "Point Loma",
+    "location": "CA"
+  },
+  {
+    "name": "Point Lookout",
+    "location": "MD"
+  },
+  {
+    "name": "Point Montara",
+    "location": "CA"
+  },
+  {
+    "name": "Point Macartney",
+    "location": "?"
+  },
+  {
+    "name": "Point Mulas",
+    "location": "PR"
+  },
+  {
+    "name": "Point No Point",
+    "location": "MD"
+  },
+  {
+    "name": "Point No Point",
+    "location": "WA"
+  },
+  {
+    "name": "Point Orchard",
+    "location": "WA"
+  },
+  {
+    "name": "Point of Shoals",
+    "location": "VA"
+  },
+  {
+    "name": "Point Pigal",
+    "location": "AK"
+  },
+  {
+    "name": "Point Pinos",
+    "location": "CA"
+  },
+  {
+    "name": "Point Retreat",
+    "location": "AK"
+  },
+  {
+    "name": "Point Reyes",
+    "location": "CA"
+  },
+  {
+    "name": "Point Robinson",
+    "location": "WA"
+  },
+  {
+    "name": "Point Sal",
+    "location": "CA"
+  },
+  {
+    "name": "Point Tuna",
+    "location": "PR"
+  },
+  {
+    "name": "Point Sherman",
+    "location": "AK"
+  },
+  {
+    "name": "Point Sur",
+    "location": "CA"
+  },
+  {
+    "name": "Point Vicente",
+    "location": "CA"
+  },
+  {
+    "name": "Point Wilson",
+    "location": "WA"
+  },
+  {
+    "name": "Pollock Rip Beacon",
+    "location": "MA"
+  },
+  {
+    "name": "Pombam Rocks",
+    "location": "RI"
+  },
+  {
+    "name": "Ponce de Leon",
+    "location": "FL"
+  },
+  {
+    "name": "Ponce Harbor Front Range",
+    "location": "PR"
+  },
+  {
+    "name": "Pond Island",
+    "location": "ME"
+  },
+  {
+    "name": "Pooles Island Bar",
+    "location": "MD"
+  },
+  {
+    "name": "Port Alexander Rear Range",
+    "location": "AK"
+  },
+  {
+    "name": "Port Austin Reef",
+    "location": "MI"
+  },
+  {
+    "name": "Port Canaveral",
+    "location": "FL"
+  },
+  {
+    "name": "Port Clinton",
+    "location": "OH"
+  },
+  {
+    "name": "Port Isabel",
+    "location": "TX"
+  },
+  {
+    "name": "Port Mansfield",
+    "location": "TX"
+  },
+  {
+    "name": "Port Ponce",
+    "location": "PR"
+  },
+  {
+    "name": "Port Pontchartrain",
+    "location": "LA"
+  },
+  {
+    "name": "Port Protection Light",
+    "location": "AK"
+  },
+  {
+    "name": "Port Sanilac",
+    "location": "MI"
+  },
+  {
+    "name": "Port San Juan",
+    "location": "PR"
+  },
+  {
+    "name": "Port Washington",
+    "location": "WI"
+  },
+  {
+    "name": "Portage River",
+    "location": "MI"
+  },
+  {
+    "name": "Portage Lake",
+    "location": "MI"
+  },
+  {
+    "name": "Portland Breakwater",
+    "location": "ME"
+  },
+  {
+    "name": "Portland Harbor",
+    "location": "NY"
+  },
+  {
+    "name": "Portland Head",
+    "location": "ME"
+  },
+  {
+    "name": "Portsmouth Harbor",
+    "location": "NH"
+  },
+  {
+    "name": "Port Tongass",
+    "location": "AK"
+  },
+  {
+    "name": "Pottawatomie",
+    "location": "WI"
+  },
+  {
+    "name": "Poverty Island",
+    "location": "MI"
+  },
+  {
+    "name": "Povoronti Island",
+    "location": "AK"
+  },
+  {
+    "name": "Presque Isle",
+    "location": "ME"
+  },
+  {
+    "name": "Presque Isle",
+    "location": "PA"
+  },
+  {
+    "name": "Presque Isle Harbor",
+    "location": "ME"
+  },
+  {
+    "name": "Priest Rock",
+    "location": "WA"
+  },
+  {
+    "name": "Proctorville",
+    "location": "LA"
+  },
+  {
+    "name": "Prospect Harbor",
+    "location": "ME"
+  },
+  {
+    "name": "Prudence Island Light",
+    "location": "RI"
+  },
+  {
+    "name": "Puerto Ferro",
+    "location": "PR"
+  },
+  {
+    "name": "Pulaski Shoal",
+    "location": "FL"
+  },
+  {
+    "name": "Pumpkin Island Light",
+    "location": "ME"
+  },
+  {
+    "name": "Pungoteague Light",
+    "location": "VA"
+  },
+  {
+    "name": "Punta Gorda",
+    "location": "CA"
+  },
+  {
+    "name": "Punta Del Ano Nuevo",
+    "location": "CA"
+  },
+  {
+    "name": "Pyramid Rock",
+    "location": "HI"
+  },
+  {
+    "name": "Q Quinta Sueno",
+    "location": "DR"
+  },
+  {
+    "name": "Quoddy Head Light",
+    "location": "MA"
+  },
+  {
+    "name": "Race Point",
+    "location": "MA"
+  },
+  {
+    "name": "Race Rock",
+    "location": "NY"
+  },
+  {
+    "name": "Racine Breakwater",
+    "location": "WI"
+  },
+  {
+    "name": "Racine Reef",
+    "location": "WI"
+  },
+  {
+    "name": "Ragged Point",
+    "location": "MD"
+  },
+  {
+    "name": "Ram Island",
+    "location": "DE"
+  },
+  {
+    "name": "Ram Island Ledge",
+    "location": "ME"
+  },
+  {
+    "name": "Raritan Bay & River Lights",
+    "location": "NJ"
+  },
+  {
+    "name": "Raspberry Island",
+    "location": "WI"
+  },
+  {
+    "name": "Raspberry Strait",
+    "location": "AK"
+  },
+  {
+    "name": "Rawley Point Light",
+    "location": "WI"
+  },
+  {
+    "name": "Rebecca Shoal",
+    "location": "FL"
+  },
+  {
+    "name": "Red Fish Bar Cut Light",
+    "location": "TX"
+  },
+  {
+    "name": "Reedy Island Range",
+    "location": "DE"
+  },
+  {
+    "name": "Reef Island",
+    "location": "?"
+  },
+  {
+    "name": "Rice Point Light",
+    "location": "CAN"
+  },
+  {
+    "name": "Riverton Light",
+    "location": "NJ"
+  },
+  {
+    "name": "Roanoke Marshes",
+    "location": "NC"
+  },
+  {
+    "name": "Roanoke River",
+    "location": "NC"
+  },
+  {
+    "name": "Robbins Reef",
+    "location": "NJ"
+  },
+  {
+    "name": "Rock Harbor",
+    "location": "MI"
+  },
+  {
+    "name": "Rock of Ages",
+    "location": "MI"
+  },
+  {
+    "name": "Rockaway Point Breakwater",
+    "location": "NY"
+  },
+  {
+    "name": "Rockland Breakwater",
+    "location": "ME"
+  },
+  {
+    "name": "Rocky Island",
+    "location": "CA"
+  },
+  {
+    "name": "Rocky Point",
+    "location": "CAN"
+  },
+  {
+    "name": "Roe Island",
+    "location": "CA"
+  },
+  {
+    "name": "Romer Shoals",
+    "location": "NJ"
+  },
+  {
+    "name": "Rondout Creek",
+    "location": "NY"
+  },
+  {
+    "name": "Roosevelt Inlet Range",
+    "location": "DE"
+  },
+  {
+    "name": "Rose Island",
+    "location": "RI"
+  },
+  {
+    "name": "Rouleau Point Range",
+    "location": "MI"
+  },
+  {
+    "name": "Round Beach Light",
+    "location": "CT"
+  },
+  {
+    "name": "Round Island",
+    "location": "MS"
+  },
+  {
+    "name": "Round Island Passage",
+    "location": "MI"
+  },
+  {
+    "name": "Round Point",
+    "location": "TX"
+  },
+  {
+    "name": "Round Rock",
+    "location": "TX"
+  },
+  {
+    "name": "Rugged Island",
+    "location": "AK"
+  },
+  {
+    "name": "Sabine Bank",
+    "location": "TX"
+  },
+  {
+    "name": "Sabine Pass",
+    "location": "LA"
+  },
+  {
+    "name": "Sabine Pass East Jetty",
+    "location": "TX"
+  },
+  {
+    "name": "Sabine Pass Jetty Range",
+    "location": "TX"
+  },
+  {
+    "name": "Sabine Point",
+    "location": "RI"
+  },
+  {
+    "name": "Saginaw River Rear Range",
+    "location": "MI"
+  },
+  {
+    "name": "Saddleback Ledge",
+    "location": "ME"
+  },
+  {
+    "name": "St. Andrews Bay",
+    "location": "FL"
+  },
+  {
+    "name": "St. Augustine",
+    "location": "FL"
+  },
+  {
+    "name": "St. Clair River",
+    "location": "MI"
+  },
+  {
+    "name": "St. Croix River",
+    "location": "ME"
+  },
+  {
+    "name": "St. Georges Reef",
+    "location": "CA"
+  },
+  {
+    "name": "St. Helena Island",
+    "location": "MI"
+  },
+  {
+    "name": "St. John's",
+    "location": "FL"
+  },
+  {
+    "name": "St. Joseph's Island",
+    "location": "MS"
+  },
+  {
+    "name": "St. Joseph Pierhead",
+    "location": "MI"
+  },
+  {
+    "name": "St. Joseph Point",
+    "location": "FL"
+  },
+  {
+    "name": "St. Lawrence",
+    "location": "CAN/NY"
+  },
+  {
+    "name": "St. Louis",
+    "location": "MN"
+  },
+  {
+    "name": "St. Marks",
+    "location": "FL"
+  },
+  {
+    "name": "St. Martin Island",
+    "location": "MI"
+  },
+  {
+    "name": "St. Mary's River Lower Range",
+    "location": "MI"
+  },
+  {
+    "name": "St. Simons",
+    "location": "GA"
+  },
+  {
+    "name": "Sakonnet",
+    "location": "RI"
+  },
+  {
+    "name": "Salem River Range Front",
+    "location": "NJ"
+  },
+  {
+    "name": "Saluria",
+    "location": "TX"
+  },
+  {
+    "name": "Saltery Cove",
+    "location": "?"
+  },
+  {
+    "name": "San Diego Bay",
+    "location": "CA"
+  },
+  {
+    "name": "San Luis Obispo",
+    "location": "CA"
+  },
+  {
+    "name": "Sand Hills",
+    "location": "MI"
+  },
+  {
+    "name": "Sand Island",
+    "location": "AL"
+  },
+  {
+    "name": "Sand Island",
+    "location": "WI"
+  },
+  {
+    "name": "Sand Key",
+    "location": "FL"
+  },
+  {
+    "name": "Sand Point",
+    "location": "MI"
+  },
+  {
+    "name": "Sandusky Bay",
+    "location": "OH"
+  },
+  {
+    "name": "Sandy Hook",
+    "location": "NJ"
+  },
+  {
+    "name": "Sandy Point Shoal",
+    "location": "MD"
+  },
+  {
+    "name": "Sandy Neck",
+    "location": "MA"
+  },
+  {
+    "name": "Sanibel Island",
+    "location": "FL"
+  },
+  {
+    "name": "Sankaty Head Light",
+    "location": "MA"
+  },
+  {
+    "name": "Santa Barbara",
+    "location": "CA"
+  },
+  {
+    "name": "Santa Barbara Breakwater",
+    "location": "CA"
+  },
+  {
+    "name": "Santa Cruz",
+    "location": "CA"
+  },
+  {
+    "name": "Santa Monica",
+    "location": "CA"
+  },
+  {
+    "name": "Sapelo Island",
+    "location": "GA"
+  },
+  {
+    "name": "Saugerties",
+    "location": "NY"
+  },
+  {
+    "name": "Saugatuck South Pierhead",
+    "location": "MI"
+  },
+  {
+    "name": "Savannah",
+    "location": "GA"
+  },
+  {
+    "name": "Saybrook Breakwater",
+    "location": "CT"
+  },
+  {
+    "name": "Schooner Ledge Rear Range",
+    "location": "PA"
+  },
+  {
+    "name": "Scituate",
+    "location": "MA"
+  },
+  {
+    "name": "Schuylkill River Jetty",
+    "location": "PA"
+  },
+  {
+    "name": "Schuylkill River Range",
+    "location": "PA"
+  },
+  {
+    "name": "Scotch Cap",
+    "location": "AK"
+  },
+  {
+    "name": "Sea Gate",
+    "location": "NY"
+  },
+  {
+    "name": "Sea Girt",
+    "location": "NJ"
+  },
+  {
+    "name": "Seaflower Reef Daybeacon",
+    "location": "NY"
+  },
+  {
+    "name": "Seal Rocks",
+    "location": "CA"
+  },
+  {
+    "name": "Seldovia Entrance",
+    "location": "AK"
+  },
+  {
+    "name": "Semiahoo",
+    "location": "WA"
+  },
+  {
+    "name": "Sentinel Island",
+    "location": "AK"
+  },
+  {
+    "name": "Seguin",
+    "location": "ME"
+  },
+  {
+    "name": "Seul Choix Pointe",
+    "location": "MI"
+  },
+  {
+    "name": "Seven Foot Knoll",
+    "location": "MD"
+  },
+  {
+    "name": "Shakan Strait Daybeacon",
+    "location": "?"
+  },
+  {
+    "name": "Shaktoolik River Entrance",
+    "location": "AK"
+  },
+  {
+    "name": "Sharkfin Knoll",
+    "location": "MD"
+  },
+  {
+    "name": "Sharps Island",
+    "location": "MD"
+  },
+  {
+    "name": "Sheboygan Breakwater",
+    "location": "WI"
+  },
+  {
+    "name": "Shell Keys",
+    "location": "LA"
+  },
+  {
+    "name": "Sherwood Point",
+    "location": "WI"
+  },
+  {
+    "name": "Shinnecock",
+    "location": "NY"
+  },
+  {
+    "name": "Ship Island",
+    "location": "AK"
+  },
+  {
+    "name": "Ship Island",
+    "location": "MS"
+  },
+  {
+    "name": "Ship John Shoal",
+    "location": "NY"
+  },
+  {
+    "name": "Ship Shoal",
+    "location": "LA"
+  },
+  {
+    "name": "Shoal Island Light",
+    "location": "CAN"
+  },
+  {
+    "name": "Signal Island",
+    "location": "?"
+  },
+  {
+    "name": "Sister Islands",
+    "location": "NY"
+  },
+  {
+    "name": "Sisters Island Light",
+    "location": "NY"
+  },
+  {
+    "name": "Skagway Breakwater",
+    "location": "AK"
+  },
+  {
+    "name": "Skin Island Light",
+    "location": "?"
+  },
+  {
+    "name": "Skunk Bay",
+    "location": "WA"
+  },
+  {
+    "name": "Slip Point",
+    "location": "WA"
+  },
+  {
+    "name": "Smith Island",
+    "location": "WA"
+  },
+  {
+    "name": "Smith Point",
+    "location": "VA"
+  },
+  {
+    "name": "Smith Shoal",
+    "location": "FL"
+  },
+  {
+    "name": "Smyrna River Range",
+    "location": "DE"
+  },
+  {
+    "name": "Sodus Point",
+    "location": "NY"
+  },
+  {
+    "name": "Solomons Lump",
+    "location": "MD"
+  },
+  {
+    "name": "Sombrero Key",
+    "location": "FL"
+  },
+  {
+    "name": "Somers Cove",
+    "location": "MD"
+  },
+  {
+    "name": "South Bass Island",
+    "location": "OH"
+  },
+  {
+    "name": "South Brother Island Channel Range",
+    "location": "NY"
+  },
+  {
+    "name": "South Buffalo",
+    "location": "NY"
+  },
+  {
+    "name": "South Cove Entrance Range",
+    "location": "?"
+  },
+  {
+    "name": "South Craig Point Daybeacon",
+    "location": "AK"
+  },
+  {
+    "name": "South Fox Island",
+    "location": "MI"
+  },
+  {
+    "name": "South Haven Pier Light",
+    "location": "MI"
+  },
+  {
+    "name": "South Head",
+    "location": "CAN"
+  },
+  {
+    "name": "South Kaigani Harbor",
+    "location": "AK"
+  },
+  {
+    "name": "South Manitou",
+    "location": "MI"
+  },
+  {
+    "name": "South Pass",
+    "location": "LA"
+  },
+  {
+    "name": "South Pass East Jetty",
+    "location": "LA"
+  },
+  {
+    "name": "South Point",
+    "location": "CA"
+  },
+  {
+    "name": "South Point Light",
+    "location": "HI"
+  },
+  {
+    "name": "South Point Royal Shoal",
+    "location": "NC"
+  },
+  {
+    "name": "South Reef",
+    "location": "LA"
+  },
+  {
+    "name": "Southampton Shoals",
+    "location": "CA"
+  },
+  {
+    "name": "Southwest Cape",
+    "location": "FL"
+  },
+  {
+    "name": "Southwest Cape",
+    "location": "VI"
+  },
+  {
+    "name": "Southwest Ledge",
+    "location": "CT"
+  },
+  {
+    "name": "Southwest Pass",
+    "location": "LA"
+  },
+  {
+    "name": "Southwest Pass Light",
+    "location": "LA"
+  },
+  {
+    "name": "Spanish Island Light",
+    "location": "WA"
+  },
+  {
+    "name": "Sparrows Point Light",
+    "location": "MD"
+  },
+  {
+    "name": "Spasskaia Island",
+    "location": "AK"
+  },
+  {
+    "name": "Spectacle Island Range",
+    "location": "MA"
+  },
+  {
+    "name": "Spectacle Reef",
+    "location": "MI"
+  },
+  {
+    "name": "Split Rock",
+    "location": "MN"
+  },
+  {
+    "name": "Spring Point Ledge",
+    "location": "ME"
+  },
+  {
+    "name": "Sqaw Island",
+    "location": "MI"
+  },
+  {
+    "name": "Squirrel Point",
+    "location": "ME"
+  },
+  {
+    "name": "Stage Harbor",
+    "location": "MA"
+  },
+  {
+    "name": "Stamford Harbor",
+    "location": "CT"
+  },
+  {
+    "name": "Stannard Rock",
+    "location": "MI"
+  },
+  {
+    "name": "Star Point Light",
+    "location": "?"
+  },
+  {
+    "name": "Staten Island",
+    "location": "NY"
+  },
+  {
+    "name": "Statue of Liberty",
+    "location": "NY"
+  },
+  {
+    "name": "Steamer Point Light",
+    "location": "AK"
+  },
+  {
+    "name": "Stepping Stones",
+    "location": "NY"
+  },
+  {
+    "name": "Stingray Point",
+    "location": "VA"
+  },
+  {
+    "name": "Stonington Harbor",
+    "location": "CT"
+  },
+  {
+    "name": "Stony Point",
+    "location": "NY - Hudson"
+  },
+  {
+    "name": "Stony Point",
+    "location": "NY - Lake Ontario"
+  },
+  {
+    "name": "Stowl Point Light",
+    "location": "empty"
+  },
+  {
+    "name": "Straitsmouth",
+    "location": "MA"
+  },
+  {
+    "name": "Stratford Point",
+    "location": "CT"
+  },
+  {
+    "name": "Stratford Shoal",
+    "location": "NY"
+  },
+  {
+    "name": "Strawberry Island Upper Cut Range",
+    "location": "NY"
+  },
+  {
+    "name": "Sturgeon Bay Canal & Pierhead Lights",
+    "location": "WI"
+  },
+  {
+    "name": "Sturgeon Point",
+    "location": "MI"
+  },
+  {
+    "name": "Stuyvesant",
+    "location": "NY"
+  },
+  {
+    "name": "Sukoi Islet",
+    "location": "AK"
+  },
+  {
+    "name": "Sullivans Island",
+    "location": "SC"
+  },
+  {
+    "name": "Sunken Meadows",
+    "location": "NY"
+  },
+  {
+    "name": "Sunken Rock",
+    "location": "NY"
+  },
+  {
+    "name": "Superior Entry South Breakwater",
+    "location": "WI"
+  },
+  {
+    "name": "Swallow Head Light",
+    "location": "?"
+  },
+  {
+    "name": "Swanson Harbor Light",
+    "location": "AK"
+  },
+  {
+    "name": "Swash",
+    "location": "TX"
+  },
+  {
+    "name": "Swash Channel Range Front",
+    "location": "NY"
+  },
+  {
+    "name": "Sweeper Cove Jetty Light",
+    "location": "AK"
+  },
+  {
+    "name": "Sweets Point Light",
+    "location": "OH"
+  },
+  {
+    "name": "Table Bluff",
+    "location": "CA"
+  },
+  {
+    "name": "Table Island Light",
+    "location": "Myanmar"
+  },
+  {
+    "name": "Tail Point",
+    "location": "WI"
+  },
+  {
+    "name": "Tangier Sound",
+    "location": "VA"
+  },
+  {
+    "name": "Tarpaulin Cove",
+    "location": "MA"
+  },
+  {
+    "name": "Tarrytown",
+    "location": "NY"
+  },
+  {
+    "name": "Tawas Point",
+    "location": "MI"
+  },
+  {
+    "name": "Tchefuncte River",
+    "location": "LA"
+  },
+  {
+    "name": "Tee Harbor Light",
+    "location": "MA"
+  },
+  {
+    "name": "Ten Pound Island",
+    "location": "MA"
+  },
+  {
+    "name": "Tenants Harbor",
+    "location": "ME"
+  },
+  {
+    "name": "Tennessee Reef",
+    "location": "FL"
+  },
+  {
+    "name": "Thacher's Island Twin Lights",
+    "location": "MA"
+  },
+  {
+    "name": "Thimble Shoals",
+    "location": "VA"
+  },
+  {
+    "name": "Thirty Mile Point",
+    "location": "NY"
+  },
+  {
+    "name": "Thomas Basin",
+    "location": "AK"
+  },
+  {
+    "name": "Thomas Point Shoals",
+    "location": "MD"
+  },
+  {
+    "name": "Three Hill Light",
+    "location": "?"
+  },
+  {
+    "name": "Throgs Neck",
+    "location": "NY"
+  },
+  {
+    "name": "Thunder Bay Island",
+    "location": "MI"
+  },
+  {
+    "name": "Tibbetts Point",
+    "location": "NY"
+  },
+  {
+    "name": "Tiger Shoal",
+    "location": "FL"
+  },
+  {
+    "name": "Tilgham Island",
+    "location": "MD"
+  },
+  {
+    "name": "Tillamook Rock",
+    "location": "OR"
+  },
+  {
+    "name": "Timbalier",
+    "location": "CA"
+  },
+  {
+    "name": "Tinicum Island Range",
+    "location": "NJ"
+  },
+  {
+    "name": "Tolchester Beach",
+    "location": "MD"
+  },
+  {
+    "name": "Toledo Harbor",
+    "location": "OH"
+  },
+  {
+    "name": "Tongass Reef",
+    "location": "AK"
+  },
+  {
+    "name": "Tree Point",
+    "location": "AK"
+  },
+  {
+    "name": "Trinidad Head",
+    "location": "CA"
+  },
+  {
+    "name": "Trinity Shoal",
+    "location": "LA"
+  },
+  {
+    "name": "Tue Marshes",
+    "location": "VA"
+  },
+  {
+    "name": "Turkey Point",
+    "location": "NY"
+  },
+  {
+    "name": "Turkey Point Light",
+    "location": "MD"
+  },
+  {
+    "name": "Turn Point",
+    "location": "WA"
+  },
+  {
+    "name": "Turnabout Island",
+    "location": "AK"
+  },
+  {
+    "name": "Turning Island Light",
+    "location": "CAN"
+  },
+  {
+    "name": "Turning Point Beacon",
+    "location": "FL"
+  },
+  {
+    "name": "Turtle Island",
+    "location": "OH"
+  },
+  {
+    "name": "Twin Lights/Three Sisters",
+    "location": "MA"
+  },
+  {
+    "name": "Two Bush Island",
+    "location": "ME"
+  },
+  {
+    "name": "Two Harbors",
+    "location": "MN"
+  },
+  {
+    "name": "Two Rivers",
+    "location": "WI"
+  },
+  {
+    "name": "Two Tree Island Light",
+    "location": "UK"
+  },
+  {
+    "name": "Tybee",
+    "location": "GA"
+  },
+  {
+    "name": "Umpqua River",
+    "location": "OR"
+  },
+  {
+    "name": "Unalakleet",
+    "location": "AK"
+  },
+  {
+    "name": "Upper Cedar Point",
+    "location": "MD"
+  },
+  {
+    "name": "Valdez Harbor Entrance South Light",
+    "location": "AK"
+  },
+  {
+    "name": "Vanderbilt Reef",
+    "location": "AK"
+  },
+  {
+    "name": "Vank Island Light",
+    "location": "AK"
+  },
+  {
+    "name": "Venus Point",
+    "location": "GA"
+  },
+  {
+    "name": "Vermillion",
+    "location": "OH"
+  },
+  {
+    "name": "Vermillion Bay",
+    "location": "LA"
+  },
+  {
+    "name": "Vichnefski Rock Light",
+    "location": "AK"
+  },
+  {
+    "name": "Vidal Shoals Light",
+    "location": "MI"
+  },
+  {
+    "name": "View Cove Harbor Light",
+    "location": "?"
+  },
+  {
+    "name": "Village Island Light",
+    "location": "CAN"
+  },
+  {
+    "name": "Village Point Daybeacon",
+    "location": "?"
+  },
+  {
+    "name": "Volusia Bar",
+    "location": "FL"
+  },
+  {
+    "name": "Wachapreague Light",
+    "location": "VA"
+  },
+  {
+    "name": "Wade Point",
+    "location": "NC"
+  },
+  {
+    "name": "Waiakea",
+    "location": "HI"
+  },
+  {
+    "name": "Warwick",
+    "location": "RI"
+  },
+  {
+    "name": "Watch Hill",
+    "location": "RI"
+  },
+  {
+    "name": "Watervliet",
+    "location": "NY"
+  },
+  {
+    "name": "Watts Island",
+    "location": "VA"
+  },
+  {
+    "name": "Waukeegan",
+    "location": "IL"
+  },
+  {
+    "name": "West Bank",
+    "location": "NY"
+  },
+  {
+    "name": "West Chop",
+    "location": "MA"
+  },
+  {
+    "name": "West Point",
+    "location": "WA"
+  },
+  {
+    "name": "West Point",
+    "location": "NY"
+  },
+  {
+    "name": "West Rigolets",
+    "location": "LA"
+  },
+  {
+    "name": "West Quoddy Head",
+    "location": "ME"
+  },
+  {
+    "name": "West Sister Island",
+    "location": "OH"
+  },
+  {
+    "name": "Weymouth Fore River",
+    "location": "MA"
+  },
+  {
+    "name": "Whale Island Light",
+    "location": "NZ?"
+  },
+  {
+    "name": "Whale Rock",
+    "location": "RI"
+  },
+  {
+    "name": "Whaleback",
+    "location": "NH"
+  },
+  {
+    "name": "White Cliff Island",
+    "location": "?"
+  },
+  {
+    "name": "White River",
+    "location": "MI"
+  },
+  {
+    "name": "White Rocks",
+    "location": "VA"
+  },
+  {
+    "name": "White Shoal",
+    "location": "VA"
+  },
+  {
+    "name": "White Shoals",
+    "location": "MI"
+  },
+  {
+    "name": "Whitefish Point",
+    "location": "MI"
+  },
+  {
+    "name": "Whitehall Narrows",
+    "location": "NY"
+  },
+  {
+    "name": "Whitehead Island",
+    "location": "ME"
+  },
+  {
+    "name": "Whitestone Point",
+    "location": "NY"
+  },
+  {
+    "name": "Whitlock Mills",
+    "location": "ME"
+  },
+  {
+    "name": "Wickford Harbor",
+    "location": "RI"
+  },
+  {
+    "name": "Willamette River",
+    "location": "OR"
+  },
+  {
+    "name": "Willapa Bay",
+    "location": "WA"
+  },
+  {
+    "name": "Wind Point",
+    "location": "WI"
+  },
+  {
+    "name": "Windham Bay Narrows",
+    "location": "AK"
+  },
+  {
+    "name": "Windmill Point",
+    "location": "MI"
+  },
+  {
+    "name": "Windmill Point",
+    "location": "VA"
+  },
+  {
+    "name": "Windmill Point",
+    "location": "VT"
+  },
+  {
+    "name": "Windward Point",
+    "location": "Cuba"
+  },
+  {
+    "name": "Wings Neck",
+    "location": "MA"
+  },
+  {
+    "name": "Winter Harbor",
+    "location": "ME"
+  },
+  {
+    "name": "Winthrop",
+    "location": "MA"
+  },
+  {
+    "name": "Wolf Trap",
+    "location": "VA"
+  },
+  {
+    "name": "Womans Bay Entrance Light",
+    "location": "AK"
+  },
+  {
+    "name": "Wood End",
+    "location": "MA"
+  },
+  {
+    "name": "Wood Island",
+    "location": "ME"
+  },
+  {
+    "name": "Woronkofshi Point Daybeacon",
+    "location": "?"
+  },
+  {
+    "name": "Wrangell Breakwater Light",
+    "location": "AK"
+  },
+  {
+    "name": "Wrangell Narrows Light",
+    "location": "AK"
+  },
+  {
+    "name": "Wyandotte",
+    "location": "MI"
+  },
+  {
+    "name": "Wychmere Harbor Jetty Light",
+    "location": "MA"
+  },
+  {
+    "name": "Yaquina Bay",
+    "location": "OR"
+  },
+  {
+    "name": "Yaquina Head",
+    "location": "OR"
+  },
+  {
+    "name": "Yellow Point Light",
+    "location": "AK"
+  },
+  {
+    "name": "Yerba Buena",
+    "location": "CA"
+  },
+  {
+    "name": "York River",
+    "location": "VA"
+  },
+  {
+    "name": "York Spit Light",
+    "location": "MA"
+  }
+]
