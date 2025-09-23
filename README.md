@@ -18,23 +18,40 @@ This project is inspired by beautiful lighthouse visualizations like [this one](
 
 ```txt
 lighthouses/
-├── README.md              # This file
-├── data/                  # Data storage directory
-│   ├── raw/              # Raw scraped data
-│   ├── processed/        # Cleaned and processed data
-│   └── lighthouse_data.json  # Final lighthouse dataset
-├── src/                   # Source code
-│   ├── scraper/          # Web scraping modules
-│   ├── geocoder/         # Geolocation utilities
-│   └── visualizer/       # Map generation code
-├── maps/                  # Generated visualizations
-├── requirements.txt       # Python dependencies
-└── config.yaml           # Configuration settings
+├── data/ # Data storage
+│   ├── processed/
+│   │   ├── lighthousefriends.json
+│   │   ├── lighthousefriends_latlongs.json
+│   │   ├── lighthousefriends_map.png
+│   │   ├── lighthousefriends_map.svg
+│   │   └── lighthouses_uscg.json
+│   └── raw/
+│       └── lighthouses_uscg.txt
+├── lighthouse_env/  # (optional) virtual environment
+├── Makefile
+├── maps/ # Output maps
+│   ├── lighthousefriends_map_conus.png
+│   └── lighthousefriends_map_conus.svg
+├── README.md # This file
+├── requirements.txt
+└── src/ # Source code
+    ├── scraper/ # Data scraping scripts
+    │   ├── coast_guard_cleanser.py
+    │   ├── coast_guard_scraper.py
+    │   ├── geocoder/ # Geocoding scripts
+    │   │   └── lighthousefriends_latlong_scraper.py
+    │   └── lighthousefriends_scraper.py
+    └── visualizer/ # Visualization scripts
+        └── lighthousefriends_map.py
 ```
 
 ## 🌊 Data Source
 
-**Primary Source**: [US Coast Guard Historical Lighthouse Database](https://www.history.uscg.mil/Browse-by-Topic/Assets/Land/All/Lighthouses/)
+**Primary Source**: [Lighthouse Friends](https://www.lighthousefriends.com/)
+
+Lighthouse Friends is a comprehensive website dedicated to lighthouses in the United States, providing detailed information about each lighthouse, including its name, location, history, and photographs.
+
+**Secondary Source**: [US Coast Guard Historical Lighthouse Database](https://www.history.uscg.mil/Browse-by-Topic/Assets/Land/All/Lighthouses/)
 
 The US Coast Guard maintains a comprehensive historical database of lighthouses, which serves as our authoritative source for lighthouse names and locations across the United States.
 
