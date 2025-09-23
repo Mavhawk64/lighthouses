@@ -14,9 +14,13 @@ from bs4 import BeautifulSoup
 BASE = "https://www.lighthousefriends.com/"
 
 # Input/Output paths
-SCRAPER_PATH = os.path.dirname(os.path.abspath(__file__))
-INPUT_FILE = os.path.join(SCRAPER_PATH, "..", "..", "data", "processed", "lighthousefriends.json")
-OUTPUT_FILE = os.path.join(SCRAPER_PATH, "..", "..", "data", "processed", "lighthousefriends_latlongs.json")
+SCRAPER_PATH = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..")
+INPUT_FILE = os.path.join(
+    SCRAPER_PATH, "..", "..", "data", "processed", "lighthousefriends.json"
+)
+OUTPUT_FILE = os.path.join(
+    SCRAPER_PATH, "..", "..", "data", "processed", "lighthousefriends_latlongs.json"
+)
 
 HEADERS = {
     "User-Agent": (
@@ -33,6 +37,7 @@ LATLON_REGEX = re.compile(
     re.IGNORECASE,
 )
 
+
 def make_session() -> requests.Session:
     """Requests session with simple retries."""
     s = requests.Session()
@@ -40,7 +45,10 @@ def make_session() -> requests.Session:
     # Basic manual retry loop in fetch(); keeping session simple here.
     return s
 
-def fetch_html(session: requests.Session, url: str, timeout: int = 20, retries: int = 3) -> str:
+
+def fetch_html(
+    session: requests.Session, url: str, timeout: int = 20, retries: int = 3
+) -> str:
     last_err = None
     for attempt in range(1, retries + 1):
         try:
@@ -53,6 +61,8 @@ def fetch_html(session: requests.Session, url: str, timeout: int = 20, retries: 
                 time.sleep(0.8 * attempt)
             else:
                 raise last_err
+    return ""
+
 
 def parse_latlon_from_html(html: str) -> Optional[tuple[float, float]]:
     """
@@ -75,7 +85,9 @@ def parse_latlon_from_html(html: str) -> Optional[tuple[float, float]]:
     soup = BeautifulSoup(html, "lxml")
 
     # Try to locate the Map container in a few robust ways
-    map_div = soup.select_one('div#Map') or soup.find("div", id=lambda v: v and v.strip() == "Map")
+    map_div = soup.select_one("div#Map") or soup.find(
+        "div", id=lambda v: isinstance(v, str) and v.strip() == "Map"
+    )
     text_source = None
 
     if map_div:
@@ -96,17 +108,21 @@ def parse_latlon_from_html(html: str) -> Optional[tuple[float, float]]:
     except ValueError:
         return None
 
+
 def ensure_dir(path: str) -> None:
     os.makedirs(os.path.dirname(path), exist_ok=True)
+
 
 def load_input(path: str) -> List[Dict[str, str]]:
     with open(path, "r", encoding="utf-8") as f:
         return json.load(f)
 
+
 def save_output(path: str, records: List[Dict]) -> None:
     ensure_dir(path)
     with open(path, "w", encoding="utf-8") as f:
         json.dump(records, f, ensure_ascii=False, indent=2)
+
 
 def main() -> None:
     if not os.path.isfile(INPUT_FILE):
@@ -138,7 +154,7 @@ def main() -> None:
             html = fetch_html(session, full_url)
             latlon = parse_latlon_from_html(html)
             if not latlon:
-                print(f"  ⚠ Could not extract lat/long")
+                print("  ⚠ Could not extract lat/long")
                 failures.append({**rec, "error": "latlon-not-found"})
                 time.sleep(0.4)
                 continue
@@ -169,6 +185,7 @@ def main() -> None:
         fail_path = OUTPUT_FILE.replace(".json", "_failures.json")
         save_output(fail_path, failures)
         print(f"Logged {len(failures)} failures to {os.path.abspath(fail_path)}")
+
 
 if __name__ == "__main__":
     main()
