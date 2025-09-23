@@ -12,8 +12,8 @@ from cartopy.io import shapereader
 HERE = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.abspath(os.path.join(HERE, "..", ".."))
 INPUT = os.path.join(ROOT, "data", "processed", "lighthousefriends_latlongs.json")
-OUT_PNG = os.path.join(ROOT, "data", "processed", "lighthousefriends_map_conus.png")
-OUT_SVG = os.path.join(ROOT, "data", "processed", "lighthousefriends_map_conus.svg")
+OUT_PNG = os.path.join(ROOT, "maps", "lighthousefriends_map_conus.png")
+OUT_SVG = os.path.join(ROOT, "maps", "lighthousefriends_map_conus.svg")
 
 # --- Data ---
 with open(INPUT, "r", encoding="utf-8") as f:
